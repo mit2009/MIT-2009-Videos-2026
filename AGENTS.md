@@ -1,6 +1,6 @@
 # MIT 2.009 Videos 2026
 
-All Tests is the forty-three-video collection at https://26-mit-2009-videos.vercel.app/tests/.
+All Tests is the forty-six-video collection at https://26-mit-2009-videos.vercel.app/tests/.
 Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /selects/ URL shows the same picks.
 
 - Preserve the catalog items 1, 3, 6, 9, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, and 53 unless requested otherwise.
@@ -27,3 +27,5 @@ Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /select
 - Items 51–53 are graphic variations of 48: Neon Arcade, Color Ribbons, Pixel Jackpot. Distinct whole-cabinet graphics, colored gutters during spin, six-color winning effects. Original 48 remains unchanged. Same 108 photos, reel motions, six winners, 15-second timing and exact Disco D Full Row Hit audio as 48. All Tests only.
 
 - Items 54–56 are Danny's requested Pixel + Prism duration tests (October 3): 15, 13, and 11 seconds. Pixel Party perimeter squares plus Prism Jackpot rays; identical 54-photo sequence and Blue winner 88. Land at 12, 10, and 8 seconds respectively, then celebrate for three seconds. Disco D retains original tempo and gain, starting at source seconds 0, 2, or 4 and ending at 15, with short fades. All Tests only; do not promote these or change the generator timing until Danny chooses.
+
+- Items 57–59 are the October 4 Finals invitation tests: 13, 15, and 17 seconds total. Same Pixel + Prism look and original 54-photo order. Land at 5, 7, and 9 seconds, celebrate for three seconds, transition through a one-second light tunnel, then hold a static Finals card for four seconds. Danny approved “MIT 2.009 FINALS · WATCH LIVE DEC 7” with no URL or time yet. All versions have an identical eight-second Disco D ending, extended by one two-second bar before the original resolution; tempo and gain stay unchanged. All Tests only.
