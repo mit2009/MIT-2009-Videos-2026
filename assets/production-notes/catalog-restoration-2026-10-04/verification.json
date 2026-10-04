@@ -1,0 +1,632 @@
+{
+  "restored_on": "2026-10-04",
+  "source_archive": "MIT-2.009-Video-Library-2026-09-24",
+  "requested_numbers": [
+    2,
+    4,
+    5,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "already_present": [
+    18
+  ],
+  "restored_numbers": [
+    2,
+    4,
+    5,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "originals_reencoded": false,
+  "selects_sha256_unchanged": "d22edf451d92afc881924ca73cfbc157b6bdcdefc45f3ee0d555d87b5aacd160",
+  "notes": [
+    "Original numbers, MP4 bytes and poster bytes preserved.",
+    "The older Lecture 1 working titles now use 2025 Finals, matching the correction already applied to number 6. Archive number 6 and current number 6 have identical SHA-256.",
+    "Vertical 9:16 metadata normalized to Portrait 9:16 for the current catalog layout."
+  ],
+  "videos": [
+    {
+      "original_record": {
+        "number": 2,
+        "title": "Rubber Reality — Wavvy Men",
+        "description": "6 photos; elastic motion, 3-second dissolves, projector contrast boost. One seamless cycle.",
+        "file": "01-Final-Slideshows/MIT-2.009-Rubber-Reality-Final-30s.mp4",
+        "group": "01-Final-Slideshows",
+        "seconds": 30,
+        "dimensions": "1920 × 1080",
+        "format": "Landscape 16:9",
+        "photo_count": 6,
+        "size_mb": 27.9,
+        "online_url": "https://mit-2009-rubber-reality.pages.dev/",
+        "thumbnail": "previews/02.jpg",
+        "sha256": "bc35c06ca4153f8aa6223c096f282de0fc702f2d8f176ed7ee94e63622b17ff2",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-Rubber-Reality-Final-30s.mp4",
+      "restored_title": "Rubber Reality — Wavvy Men",
+      "verification": {
+        "number": 2,
+        "sha256": "bc35c06ca4153f8aa6223c096f282de0fc702f2d8f176ed7ee94e63622b17ff2",
+        "bytes": 27928051,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1920,
+              "height": 1080,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "30.000000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 4,
+        "title": "Lecture 1 — complete slideshow",
+        "description": "63 photos; 2.5 seconds per photo with a 0.4-second dissolve.",
+        "file": "01-Final-Slideshows/MIT-2.009-Lecture-1-63-Photos-Final.mp4",
+        "group": "01-Final-Slideshows",
+        "seconds": 157.5,
+        "dimensions": "1620 × 1080",
+        "format": "Landscape 3:2",
+        "photo_count": 63,
+        "size_mb": 84.7,
+        "online_url": "https://mit-2009-staff-meeting-slideshow.pages.dev/",
+        "thumbnail": "previews/04.jpg",
+        "sha256": "e46ae2e614476ba2ea7629ef17c3f29b7e6f8b51042f4c70f6e5e7f608b5ce52",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-Lecture-1-63-Photos-Final.mp4",
+      "restored_title": "2025 Finals — complete slideshow",
+      "verification": {
+        "number": 4,
+        "sha256": "e46ae2e614476ba2ea7629ef17c3f29b7e6f8b51042f4c70f6e5e7f608b5ce52",
+        "bytes": 84671690,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1620,
+              "height": 1080,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "157.500000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 5,
+        "title": "Lecture 1 — landscape, 0.8 sec/photo",
+        "description": "63 photos; brief dissolves; no rotation.",
+        "file": "02-Lecture-1-Video-Cuts/MIT-2.009-MechE-Landscape-0p8s.mp4",
+        "group": "02-Lecture-1-Video-Cuts",
+        "seconds": 50.4,
+        "dimensions": "1620 × 1080",
+        "format": "Landscape 3:2",
+        "photo_count": 63,
+        "size_mb": 39.9,
+        "online_url": "",
+        "thumbnail": "previews/05.jpg",
+        "sha256": "ac0adc5b7accc09a5d706921cc0ab0a04e7d2849be1a4d2e45594c10305b0419",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-MechE-Landscape-0p8s.mp4",
+      "restored_title": "2025 Finals — landscape, 0.8 sec/photo",
+      "verification": {
+        "number": 5,
+        "sha256": "ac0adc5b7accc09a5d706921cc0ab0a04e7d2849be1a4d2e45594c10305b0419",
+        "bytes": 39932134,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1620,
+              "height": 1080,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "50.400000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 7,
+        "title": "Lecture 1 — landscape, 1.4 sec/photo",
+        "description": "63 photos; brief dissolves; no rotation.",
+        "file": "02-Lecture-1-Video-Cuts/MIT-2.009-MechE-Landscape-1p4s.mp4",
+        "group": "02-Lecture-1-Video-Cuts",
+        "seconds": 88.2,
+        "dimensions": "1620 × 1080",
+        "format": "Landscape 3:2",
+        "photo_count": 63,
+        "size_mb": 54.5,
+        "online_url": "",
+        "thumbnail": "previews/07.jpg",
+        "sha256": "1b42bb0ba3f973c7ec83b9e3600066f22183aac333bca09629da3545b298e40d",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-MechE-Landscape-1p4s.mp4",
+      "restored_title": "2025 Finals — landscape, 1.4 sec/photo",
+      "verification": {
+        "number": 7,
+        "sha256": "1b42bb0ba3f973c7ec83b9e3600066f22183aac333bca09629da3545b298e40d",
+        "bytes": 54466101,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1620,
+              "height": 1080,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "88.200000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 8,
+        "title": "Lecture 1 — vertical phone turn",
+        "description": "63 photos; 1.4 seconds per middle photo; clockwise picture turn and return, with phone cue.",
+        "file": "02-Lecture-1-Video-Cuts/MIT-2.009-MechE-Vertical-Phone-Turn-1p4s.mp4",
+        "group": "02-Lecture-1-Video-Cuts",
+        "seconds": 94.2,
+        "dimensions": "1080 × 1920",
+        "format": "Vertical 9:16",
+        "photo_count": 63,
+        "size_mb": 66.2,
+        "online_url": "",
+        "thumbnail": "previews/08.jpg",
+        "sha256": "f599f26bfab080fbbd2cd5099957b835cfe0ad1323efa38a6a83e5c81b1ee70d",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-MechE-Vertical-Phone-Turn-1p4s.mp4",
+      "restored_title": "2025 Finals — vertical phone turn",
+      "verification": {
+        "number": 8,
+        "sha256": "f599f26bfab080fbbd2cd5099957b835cfe0ad1323efa38a6a83e5c81b1ee70d",
+        "bytes": 66180602,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1080,
+              "height": 1920,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "94.200000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 10,
+        "title": "Theme Reveal & Balloon Challenge — 1.8 sec/photo",
+        "description": "46 photos; landscape; no rotation.",
+        "file": "03-Theme-Reveal-46-Photos/MIT-2.009-Theme-Balloon-Landscape-1p8s.mp4",
+        "group": "03-Theme-Reveal-46-Photos",
+        "seconds": 82.8,
+        "dimensions": "1620 × 1080",
+        "format": "Landscape 3:2",
+        "photo_count": 46,
+        "size_mb": 51.8,
+        "online_url": "",
+        "thumbnail": "previews/10.jpg",
+        "sha256": "8c1c7f25c3192e94e0186ccd16180b0f97964abeeaebb2d462819f7ae5b26259",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-Theme-Balloon-Landscape-1p8s.mp4",
+      "restored_title": "Theme Reveal & Balloon Challenge — 1.8 sec/photo",
+      "verification": {
+        "number": 10,
+        "sha256": "8c1c7f25c3192e94e0186ccd16180b0f97964abeeaebb2d462819f7ae5b26259",
+        "bytes": 51812672,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1620,
+              "height": 1080,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "82.800000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 11,
+        "title": "Theme Reveal & Balloon Challenge — phone turn, 1.4 sec/photo",
+        "description": "46 photos; vertical; slower 6-second clockwise turn and return.",
+        "file": "03-Theme-Reveal-46-Photos/MIT-2.009-Theme-Balloon-Phone-Turn-1p4s.mp4",
+        "group": "03-Theme-Reveal-46-Photos",
+        "seconds": 76.4,
+        "dimensions": "1080 × 1920",
+        "format": "Vertical 9:16",
+        "photo_count": 46,
+        "size_mb": 60.6,
+        "online_url": "",
+        "thumbnail": "previews/11.jpg",
+        "sha256": "4057cc8a00ec4ebeb7fd6c4d37f83228f619f51bc0046c7a59187e304ff175da",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-Theme-Balloon-Phone-Turn-1p4s.mp4",
+      "restored_title": "Theme Reveal & Balloon Challenge — phone turn, 1.4 sec/photo",
+      "verification": {
+        "number": 11,
+        "sha256": "4057cc8a00ec4ebeb7fd6c4d37f83228f619f51bc0046c7a59187e304ff175da",
+        "bytes": 60620286,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1080,
+              "height": 1920,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "76.400000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 12,
+        "title": "Theme Reveal & Balloon Challenge — phone turn, 1.8 sec/photo",
+        "description": "46 photos; vertical; slower 6-second clockwise turn and return.",
+        "file": "03-Theme-Reveal-46-Photos/MIT-2.009-Theme-Balloon-Phone-Turn-1p8s.mp4",
+        "group": "03-Theme-Reveal-46-Photos",
+        "seconds": 94.8,
+        "dimensions": "1080 × 1920",
+        "format": "Vertical 9:16",
+        "photo_count": 46,
+        "size_mb": 68.1,
+        "online_url": "",
+        "thumbnail": "previews/12.jpg",
+        "sha256": "e9a4729eccac8e4f217e7825ca4d8cbc711e92368f2fda8277aca1bad74ce218",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-Theme-Balloon-Phone-Turn-1p8s.mp4",
+      "restored_title": "Theme Reveal & Balloon Challenge — phone turn, 1.8 sec/photo",
+      "verification": {
+        "number": 12,
+        "sha256": "e9a4729eccac8e4f217e7825ca4d8cbc711e92368f2fda8277aca1bad74ce218",
+        "bytes": 68075359,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1080,
+              "height": 1920,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "94.800000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 13,
+        "title": "MechE Communications — no rotation",
+        "description": "20 photos; landscape; 1.4 seconds per photo.",
+        "file": "04-MechE-Comms-20-Photos/MIT-2.009-MechE-Comms-No-Rotation-1p4s.mp4",
+        "group": "04-MechE-Comms-20-Photos",
+        "seconds": 28,
+        "dimensions": "1620 × 1080",
+        "format": "Landscape 3:2",
+        "photo_count": 20,
+        "size_mb": 20.8,
+        "online_url": "",
+        "thumbnail": "previews/13.jpg",
+        "sha256": "c59fa44dbbbeaeed33b6a1e155479851cdfb39622251fee6fd23c908365e7654",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-MechE-Comms-No-Rotation-1p4s.mp4",
+      "restored_title": "MechE Communications — no rotation",
+      "verification": {
+        "number": 13,
+        "sha256": "c59fa44dbbbeaeed33b6a1e155479851cdfb39622251fee6fd23c908365e7654",
+        "bytes": 20806607,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1620,
+              "height": 1080,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "28.000000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 14,
+        "title": "MechE Communications — clockwise",
+        "description": "20 photos; vertical; 6-second picture turn; larger animated phone cue.",
+        "file": "04-MechE-Comms-20-Photos/MIT-2.009-MechE-Comms-Clockwise-1p4s.mp4",
+        "group": "04-MechE-Comms-20-Photos",
+        "seconds": 40,
+        "dimensions": "1080 × 1920",
+        "format": "Vertical 9:16",
+        "photo_count": 20,
+        "size_mb": 35.7,
+        "online_url": "",
+        "thumbnail": "previews/14.jpg",
+        "sha256": "5b7334ed71f290f8f9e05432657a1561e9f42cee2edd2809f8ef5c4732c4bd31",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-MechE-Comms-Clockwise-1p4s.mp4",
+      "restored_title": "MechE Communications — clockwise",
+      "verification": {
+        "number": 14,
+        "sha256": "5b7334ed71f290f8f9e05432657a1561e9f42cee2edd2809f8ef5c4732c4bd31",
+        "bytes": 35671303,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1080,
+              "height": 1920,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "40.000000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 15,
+        "title": "MechE Communications — counterclockwise",
+        "description": "20 photos; vertical; 6-second picture turn; larger animated phone cue.",
+        "file": "04-MechE-Comms-20-Photos/MIT-2.009-MechE-Comms-Counterclockwise-1p4s.mp4",
+        "group": "04-MechE-Comms-20-Photos",
+        "seconds": 40,
+        "dimensions": "1080 × 1920",
+        "format": "Vertical 9:16",
+        "photo_count": 20,
+        "size_mb": 35.6,
+        "online_url": "",
+        "thumbnail": "previews/15.jpg",
+        "sha256": "35f9076215e63277a22f9ff9c569b6f38be9b1b489ec691d106f279f5a45fbe1",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-MechE-Comms-Counterclockwise-1p4s.mp4",
+      "restored_title": "MechE Communications — counterclockwise",
+      "verification": {
+        "number": 15,
+        "sha256": "35f9076215e63277a22f9ff9c569b6f38be9b1b489ec691d106f279f5a45fbe1",
+        "bytes": 35576590,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1080,
+              "height": 1920,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "40.000000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 16,
+        "title": "MechE Communications — gentle vertical motion",
+        "description": "20 photos; 1.4 seconds per photo; upright, full-bleed crops and gentle pans.",
+        "file": "04-MechE-Comms-20-Photos/MIT-2.009-MechE-Comms-Vertical-Gentle-Motion-1p4s.mp4",
+        "group": "04-MechE-Comms-20-Photos",
+        "seconds": 28,
+        "dimensions": "1080 × 1920",
+        "format": "Vertical 9:16",
+        "photo_count": 20,
+        "size_mb": 29.0,
+        "online_url": "",
+        "thumbnail": "previews/16.jpg",
+        "sha256": "7a61878153b7aa0112cdc0dca3fde89ddc08cb1ed6e600f5be5f46c74aae33e9",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-MechE-Comms-Vertical-Gentle-Motion-1p4s.mp4",
+      "restored_title": "MechE Communications — gentle vertical motion",
+      "verification": {
+        "number": 16,
+        "sha256": "7a61878153b7aa0112cdc0dca3fde89ddc08cb1ed6e600f5be5f46c74aae33e9",
+        "bytes": 29015255,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1080,
+              "height": 1920,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "28.000000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    },
+    {
+      "original_record": {
+        "number": 17,
+        "title": "MechE Communications — dynamic vertical pans",
+        "description": "20 photos; 1.4 seconds per photo; upright, full-bleed crops and broader pans.",
+        "file": "04-MechE-Comms-20-Photos/MIT-2.009-MechE-Comms-Vertical-Dynamic-Pans-1p4s.mp4",
+        "group": "04-MechE-Comms-20-Photos",
+        "seconds": 28,
+        "dimensions": "1080 × 1920",
+        "format": "Vertical 9:16",
+        "photo_count": 20,
+        "size_mb": 32.2,
+        "online_url": "",
+        "thumbnail": "previews/17.jpg",
+        "sha256": "ba989c51f12b5740b746b583d7b47930f060f8b4c202911a71086b12a57bf62f",
+        "fps": 30,
+        "codec": "H.264",
+        "audio": "Silent",
+        "fast_start": true
+      },
+      "restored_file": "videos/MIT-2.009-MechE-Comms-Vertical-Dynamic-Pans-1p4s.mp4",
+      "restored_title": "MechE Communications — dynamic vertical pans",
+      "verification": {
+        "number": 17,
+        "sha256": "ba989c51f12b5740b746b583d7b47930f060f8b4c202911a71086b12a57bf62f",
+        "bytes": 32226346,
+        "probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1080,
+              "height": 1920,
+              "r_frame_rate": "30/1"
+            }
+          ],
+          "format": {
+            "duration": "28.000000"
+          }
+        },
+        "full_decode": "passed"
+      }
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 # MIT 2.009 Videos 2026
 
-All Tests is the forty-six-video collection at https://26-mit-2009-videos.vercel.app/tests/.
+All Tests is the fifty-nine-video collection at https://26-mit-2009-videos.vercel.app/tests/.
 Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /selects/ URL shows the same picks.
 
-- Preserve the catalog items 1, 3, 6, 9, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, and 53 unless requested otherwise.
+- Preserve every catalog item numbered 1–59 unless requested otherwise.
 - Use the names All Tests and Selects. Selects currently contains 1, 3, 6, 9, 20, 25, 38, 39, 40, and 41; change assets/SELECTS.json only when Danny changes his picks.
 - Both pages show newest first. Keep existing catalog numbers and MP4 URLs. The root URL must show only Selects; all experiments belong at /tests/. Selects must not link back to experiments.
 - Danny chose Disco D (Space Disco) for all four digital graphics, with the pink background glow changed to blue and slowly changing accents that settle on blue at the 12-second landing. Updated items 38–41 are in Selects. Keep their music identical in timing and volume; preserve earlier versions 30–37 in All Tests.
@@ -29,3 +29,5 @@ Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /select
 - Items 54–56 are Danny's requested Pixel + Prism duration tests (October 3): 15, 13, and 11 seconds. Pixel Party perimeter squares plus Prism Jackpot rays; identical 54-photo sequence and Blue winner 88. Land at 12, 10, and 8 seconds respectively, then celebrate for three seconds. Disco D retains original tempo and gain, starting at source seconds 0, 2, or 4 and ending at 15, with short fades. All Tests only; do not promote these or change the generator timing until Danny chooses.
 
 - Items 57–59 are the October 4 Finals invitation tests: 13, 15, and 17 seconds total. Same Pixel + Prism look and original 54-photo order. Land at 5, 7, and 9 seconds, celebrate for three seconds, transition through a one-second light tunnel, then hold a static Finals card for four seconds. Danny approved “MIT 2.009 FINALS · WATCH LIVE DEC 7” with no URL or time yet. All versions have an identical eight-second Disco D ending, extended by one two-second bar before the original resolution; tempo and gain stay unchanged. All Tests only.
+
+- Items 2, 4, 5, 7, 8, and 10–17 were restored on October 4 from the original September 24 archive at Danny’s request. Item 18 was already present. All Tests now has every number 1–59; keep the original bytes, numbers, and newest-first order. Earlier Lecture 1 display titles use the corrected 2025 Finals name. Selects is unchanged.
