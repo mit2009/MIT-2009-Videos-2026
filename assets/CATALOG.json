@@ -1222,5 +1222,41 @@
     "audio": "Silent",
     "fast_start": true,
     "loop": true
+  },
+  {
+    "number": 61,
+    "title": "36 posters — Curved carousel",
+    "description": "All 36 opportunity posters touch edge to edge and move continuously left to right. A large curved carousel recedes at the sides, with each complete poster visible at the center. Green → Purple → Red → Blue → Yellow → Pink, repeated six times. A new poster crosses the center every five seconds. Three-minute seamless loop; silent.",
+    "file": "videos/MIT-2.009-36-Posters-Curved-Carousel-180s.mp4",
+    "source_parts": [
+      "video-parts/MIT-2.009-36-Posters-Curved-Carousel-180s/001.bin",
+      "video-parts/MIT-2.009-36-Posters-Curved-Carousel-180s/002.bin",
+      "video-parts/MIT-2.009-36-Posters-Curved-Carousel-180s/003.bin",
+      "video-parts/MIT-2.009-36-Posters-Curved-Carousel-180s/004.bin",
+      "video-parts/MIT-2.009-36-Posters-Curved-Carousel-180s/005.bin",
+      "video-parts/MIT-2.009-36-Posters-Curved-Carousel-180s/006.bin"
+    ],
+    "seconds": 180,
+    "dimensions": "1920 × 1080",
+    "format": "Landscape 16:9",
+    "poster_count": 36,
+    "color_cycle": [
+      "Green",
+      "Purple",
+      "Red",
+      "Blue",
+      "Yellow",
+      "Pink"
+    ],
+    "seconds_per_poster": 5,
+    "size_mb": 343.3,
+    "online_url": "",
+    "thumbnail": "previews/61.jpg",
+    "sha256": "43632cd60df97ad8458184ac4437e1293c11509d83b507a7fd33cd684268d2f5",
+    "fps": 60,
+    "codec": "H.264",
+    "audio": "Silent",
+    "fast_start": true,
+    "loop": true
   }
 ]

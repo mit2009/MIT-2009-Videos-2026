@@ -8,8 +8,8 @@ dependencies, runs `npm run build:vercel`, and serves `vercel-site/`.
 
 The live Vercel address is https://26-mit-2009-videos.vercel.app/. It provides:
 
-- `/tests/`: all sixty videos, numbered 1–60, including the first lecture poster loop, 60.
-- `/posters/`: the silent three-minute flat lecture loop, with playback and downloads. The carousel will follow on this same page.
+- `/tests/`: all sixty-one videos, numbered 1–61, including the lecture poster loops 60–61.
+- `/posters/`: the two silent three-minute lecture loops, with playback and downloads.
 - `/selects/` (and `/`): the existing ten Selects, with original MP4 downloads.
 - `/generator/`: a focused headshot generator, using the single-reel effects
   from tests 38–41 and the original 18-second Disco D soundtrack.
@@ -54,7 +54,7 @@ on Selects and does not redirect to a test. Both pages use the same original MP4
 posters, and catalog numbers. Video download URLs remain unchanged. To change the picks, edit `assets/SELECTS.json`,
 rebuild, and upload the site again.
 
-Sixty videos with browser previews and original-quality MP4 downloads. The page
+Sixty-one videos with browser previews and original-quality MP4 downloads. The page
 has a light background, simple controls, and links to the separate looping
 slideshows where available. The seventeen slideshow videos are silent H.264 MP4s at 30 frames per second.
 The two original portrait reel tests are 60 fps with original ticks and a landing chime.
@@ -122,6 +122,7 @@ Fourteen newer mixed-team reel tests are 18 seconds at 60 fps and silent.
 | 58 | Finals invitation — 15 seconds | 15 seconds |
 | 59 | Finals invitation — 17 seconds | 17 seconds |
 | 60 | 36 posters — Flat ribbon | 180 seconds |
+| 61 | 36 posters — Curved carousel | 180 seconds |
 
 On October 4, the 13 earlier videos (2, 4, 5, 7, 8, and 10–17) were restored
 from the original September 24 library at Danny's request. Number 18 was
@@ -149,7 +150,7 @@ The same eight-second Disco D finish runs through the celebration, transition,
 and card. A whole two-second bar extends the winning groove before the original
 musical resolution; pitch, tempo, and gain remain unchanged. All Tests only.
 
-Item 60 is the first silent lecture poster loop requested on October 5. The carousel export will follow as item 61. Each
+Items 60–61 are the silent lecture poster loops requested on October 5. Each
 contains all 36 completed opportunity posters, edge to edge, moving left to
 right. A new poster crosses the center every five seconds in the exact order
 Green → Purple → Red → Blue → Yellow → Pink, repeated six times. One is a flat
@@ -168,7 +169,7 @@ and settle on photo 15. The mixed-team tests sample 54 portraits (nine per team)
 
 - `assets/videos/`: the original short MP4s, with the Finals filename updated.
 - `assets/video-parts/`: ordered lossless parts of the two long lecture originals; the build assembles and verifies exact MP4 bytes.
-- `assets/previews/`: the sixty poster images.
+- `assets/previews/`: the sixty-one poster images.
 - `assets/CATALOG.json`: titles, descriptions, timings, links, and file hashes.
 - `assets/audio/`: standalone MP3 and 24-bit WAV disco-beat exports.
 - `assets/SELECTS.json`: catalog numbers to show on the share page.
@@ -203,7 +204,7 @@ port with `PORT=8793 npm start`.
 1. Change the text or file references in `assets/CATALOG.json`. For a replacement
    video, copy the MP4 into `assets/videos/`, update its details and SHA-256 hash,
    and update its poster in `assets/previews/`.
-2. Run `npm test` to build and check the collection. It checks all sixty
+2. Run `npm test` to build and check the collection. It checks all sixty-one
    items, Selects membership, complete file hashes, byte-range seeking, and download filenames.
 3. Run `npm start` to review the page. Commit source changes to Git when ready.
 

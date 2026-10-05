@@ -25,6 +25,23 @@
       "motion": "left to right",
       "seconds_per_center_crossing": 5,
       "all_center_posters_pixel_verified": true
+    },
+    "carousel": {
+      "filename": "MIT-2.009-36-Posters-Curved-Carousel-180s.mp4",
+      "sha256": "43632cd60df97ad8458184ac4437e1293c11509d83b507a7fd33cd684268d2f5",
+      "bytes": 343319979,
+      "duration": 180.0,
+      "frames": 10800,
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "audio_streams": 0,
+      "complete_decode": "passed",
+      "periodic_loop_closure": "exact",
+      "source_sequence": "36 original pages; 6 complete color cycles",
+      "motion": "left to right",
+      "seconds_per_center_crossing": 5,
+      "all_center_posters_pixel_verified": false
     }
   }
 }

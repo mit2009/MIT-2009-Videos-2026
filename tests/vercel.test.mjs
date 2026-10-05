@@ -27,9 +27,9 @@ test('every Vercel preview, original download, and audio link resolves to a stat
   }
 });
 
-test('all sixty static MP4s match the source bytes, including the assembled lecture originals', async () => {
-  assert.equal(catalog.length, 60);
-  assert.deepEqual(catalog.filter(r => r.number >= 48).map(r => r.number), [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]);
+test('all sixty-one static MP4s match the source bytes, including the assembled lecture originals', async () => {
+  assert.equal(catalog.length, 61);
+  assert.deepEqual(catalog.filter(r => r.number >= 48).map(r => r.number), [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61]);
   for (const record of catalog) {
     const video = new URL(record.file, site);
     const hash = createHash('sha256');
@@ -52,12 +52,12 @@ test('lecture loops retain all 36 posters, requested timing, color sequence, and
   const loops = catalog.filter(r => r.number >= 60 && r.number <= 61);
   const sequence = JSON.parse(await readFile(new URL('../assets/production-notes/poster-loops-2026-10-05/sequence.json', import.meta.url)));
   const order = ['Green', 'Purple', 'Red', 'Blue', 'Yellow', 'Pink'];
-  assert.equal(loops.length, 1);
+  assert.equal(loops.length, 2);
   assert.equal(new Set(sequence.posters.map(r => r.source_pdf + ':' + r.source_page)).size, 36);
   assert.deepEqual(sequence.posters.map(r => r.color), Array.from({ length: 36 }, (_, i) => order[i % 6]));
   const html = await readFile(new URL('tests/index.html', site), 'utf8');
   const lecture = await readFile(new URL('posters/index.html', site), 'utf8');
-  assert.deepEqual([...lecture.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), [60]);
+  assert.deepEqual([...lecture.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), [60, 61]);
   for (const record of loops) {
     assert.equal(record.poster_count, 36);
     assert.equal(record.seconds, 180);
