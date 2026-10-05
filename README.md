@@ -8,8 +8,9 @@ dependencies, runs `npm run build:vercel`, and serves `vercel-site/`.
 
 The live Vercel address is https://26-mit-2009-videos.vercel.app/. It provides:
 
-- `/tests/`: all sixty-one videos, numbered 1–61, including the lecture poster loops 60–61.
+- `/tests/`: all sixty-two videos, numbered 1–62, including the lecture poster loops 60–61 and feasibility carousel 62.
 - `/posters/`: the two silent three-minute lecture loops, with playback and downloads.
+- `/feasibility/`: the silent 229-slide feasibility carousel, at three seconds per slide.
 - `/selects/` (and `/`): the existing ten Selects, with original MP4 downloads.
 - `/generator/`: a focused headshot generator, using the single-reel effects
   from tests 38–41 and the original 18-second Disco D soundtrack.
@@ -123,6 +124,7 @@ Fourteen newer mixed-team reel tests are 18 seconds at 60 fps and silent.
 | 59 | Finals invitation — 17 seconds | 17 seconds |
 | 60 | 36 posters — Flat ribbon | 180 seconds |
 | 61 | 36 posters — Curved carousel | 180 seconds |
+| 62 | Feasibility slides — Curved carousel | 687 seconds |
 
 On October 4, the 13 earlier videos (2, 4, 5, 7, 8, and 10–17) were restored
 from the original September 24 library at Danny's request. Number 18 was
@@ -169,7 +171,7 @@ and settle on photo 15. The mixed-team tests sample 54 portraits (nine per team)
 
 - `assets/videos/`: the original short MP4s, with the Finals filename updated.
 - `assets/video-parts/`: ordered lossless parts of the two long lecture originals; the build assembles and verifies exact MP4 bytes.
-- `assets/previews/`: the sixty-one poster images.
+- `assets/previews/`: the sixty-two poster images.
 - `assets/CATALOG.json`: titles, descriptions, timings, links, and file hashes.
 - `assets/audio/`: standalone MP3 and 24-bit WAV disco-beat exports.
 - `assets/SELECTS.json`: catalog numbers to show on the share page.
@@ -204,7 +206,7 @@ port with `PORT=8793 npm start`.
 1. Change the text or file references in `assets/CATALOG.json`. For a replacement
    video, copy the MP4 into `assets/videos/`, update its details and SHA-256 hash,
    and update its poster in `assets/previews/`.
-2. Run `npm test` to build and check the collection. It checks all sixty-one
+2. Run `npm test` to build and check the collection. It checks all sixty-two
    items, Selects membership, complete file hashes, byte-range seeking, and download filenames.
 3. Run `npm start` to review the page. Commit source changes to Git when ready.
 

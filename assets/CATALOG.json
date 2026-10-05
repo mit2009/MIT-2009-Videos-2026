@@ -1258,5 +1258,54 @@
     "audio": "Silent",
     "fast_start": true,
     "loop": true
+  },
+  {
+    "number": 62,
+    "title": "Feasibility slides — Curved carousel",
+    "description": "229 feasibility slides from all six teams, touching edge to edge and moving continuously left to right. Each team’s presentation stays together: Green → Purple → Red → Blue → Yellow → Pink. A new slide crosses the center every three seconds. Silent 11-minute, 27-second seamless loop. Duplicate submissions and classroom instructions are omitted.",
+    "file": "videos/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s.mp4",
+    "source_parts": [
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/001.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/002.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/003.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/004.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/005.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/006.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/007.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/008.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/009.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/010.bin"
+    ],
+    "seconds": 687,
+    "dimensions": "1920 × 1080",
+    "format": "Landscape 16:9",
+    "collection": "feasibility",
+    "slide_count": 229,
+    "team_order": [
+      "Green",
+      "Purple",
+      "Red",
+      "Blue",
+      "Yellow",
+      "Pink"
+    ],
+    "team_counts": {
+      "Green": 40,
+      "Purple": 51,
+      "Red": 38,
+      "Blue": 31,
+      "Yellow": 32,
+      "Pink": 37
+    },
+    "seconds_per_slide": 3,
+    "size_mb": 648.5,
+    "online_url": "",
+    "thumbnail": "previews/62.jpg",
+    "sha256": "8c4c96bb14c4559b24b24ca9b75a6d92bcd3b2b5d8d8fa197520ca87ea7eea6b",
+    "fps": 60,
+    "codec": "H.264",
+    "audio": "Silent",
+    "fast_start": true,
+    "loop": true
   }
 ]

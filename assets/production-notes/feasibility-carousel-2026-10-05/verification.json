@@ -1,0 +1,34 @@
+{
+  "file": "MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s.mp4",
+  "sha256": "8c4c96bb14c4559b24b24ca9b75a6d92bcd3b2b5d8d8fa197520ca87ea7eea6b",
+  "bytes": 648538974,
+  "duration_seconds": 687,
+  "frames": 41220,
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "silent": true,
+  "fast_start": true,
+  "loop_exact": true,
+  "all_center_crossings_checked": 229,
+  "max_small_frame_mean_absolute_error": 4.543848514556885,
+  "mean_small_frame_mean_absolute_error": 3.819292572387962,
+  "team_counts": {
+    "Green": 40,
+    "Purple": 51,
+    "Red": 38,
+    "Blue": 31,
+    "Yellow": 32,
+    "Pink": 37
+  },
+  "team_order": [
+    "Green",
+    "Purple",
+    "Red",
+    "Blue",
+    "Yellow",
+    "Pink"
+  ],
+  "seconds_per_slide": 3,
+  "full_decode_errors": 0
+}

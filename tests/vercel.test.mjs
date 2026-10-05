@@ -9,14 +9,14 @@ const previous = new URL('../site/', import.meta.url);
 const catalog = JSON.parse(await readFile(new URL('../assets/CATALOG.json', import.meta.url)));
 
 test('Vercel preserves the catalog, selections, posters, controls, and page presentation', async () => {
-  for (const name of ['index.html', 'tests/index.html', 'selects/index.html', 'posters/index.html', 'style.css', 'app.js', 'robots.txt']) {
+  for (const name of ['index.html', 'tests/index.html', 'selects/index.html', 'posters/index.html', 'feasibility/index.html', 'style.css', 'app.js', 'robots.txt']) {
     const current = (await readFile(new URL(name, site), 'utf8')).replace('<a href="/generator/">Headshot generator <span aria-hidden="true">↗</span></a>', '');
     assert.equal(current, await readFile(new URL(name, previous), 'utf8'), name);
   }
 });
 
 test('every Vercel preview, original download, and audio link resolves to a static file', async () => {
-  for (const name of ['index.html', 'tests/index.html', 'selects/index.html', 'posters/index.html']) {
+  for (const name of ['index.html', 'tests/index.html', 'selects/index.html', 'posters/index.html', 'feasibility/index.html']) {
     const html = await readFile(new URL(name, site), 'utf8');
     for (const [, value] of html.matchAll(/(?:src|href|poster)="(\/[^"\s]*)"/g)) {
       const url = new URL(value.replaceAll('&amp;', '&'), 'https://video.example');
@@ -27,9 +27,9 @@ test('every Vercel preview, original download, and audio link resolves to a stat
   }
 });
 
-test('all sixty-one static MP4s match the source bytes, including the assembled lecture originals', async () => {
-  assert.equal(catalog.length, 61);
-  assert.deepEqual(catalog.filter(r => r.number >= 48).map(r => r.number), [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61]);
+test('all sixty-two static MP4s match the source bytes, including the assembled lecture originals', async () => {
+  assert.equal(catalog.length, 62);
+  assert.deepEqual(catalog.filter(r => r.number >= 48).map(r => r.number), [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62]);
   for (const record of catalog) {
     const video = new URL(record.file, site);
     const hash = createHash('sha256');
@@ -40,7 +40,7 @@ test('all sixty-one static MP4s match the source bytes, including the assembled 
 
 test('Vercel publishes only static pages and approved media', async () => {
   assert.deepEqual((await readdir(site)).sort(), [
-    'app.js', 'audio', 'generator', 'index.html', 'posters', 'previews', 'robots.txt', 'selects', 'style.css', 'tests', 'videos'
+    'app.js', 'audio', 'feasibility', 'generator', 'index.html', 'posters', 'previews', 'robots.txt', 'selects', 'style.css', 'tests', 'videos'
   ]);
   const videoFiles = await readdir(new URL('videos/', site));
   assert.equal(videoFiles.length, catalog.length);
@@ -76,4 +76,26 @@ test('lecture loops retain all 36 posters, requested timing, color sequence, and
     assert.equal(assembledHash.digest('hex'), record.sha256);
     assert.match(html, new RegExp('<video id="player-' + record.number + '"[^>]* loop>'));
   }
+});
+
+test('the feasibility share page loops the complete three-second slide sequence without changing Selects', async () => {
+  const record = catalog.find(r => r.number === 62);
+  const sequence = JSON.parse(await readFile(new URL('../assets/production-notes/feasibility-carousel-2026-10-05/sequence.json', import.meta.url)));
+  const verification = JSON.parse(await readFile(new URL('../assets/production-notes/feasibility-carousel-2026-10-05/verification.json', import.meta.url)));
+  assert.equal(record.slide_count, 229);
+  assert.equal(record.seconds_per_slide, 3);
+  assert.equal(record.seconds, 687);
+  assert.equal(record.audio, 'Silent');
+  assert.equal(record.loop, true);
+  assert.deepEqual(sequence.team_counts, { Green: 40, Purple: 51, Red: 38, Blue: 31, Yellow: 32, Pink: 37 });
+  assert.equal(new Set(sequence.slides.map(s => s.source_pdf + ':' + s.source_page)).size, 229);
+  assert.deepEqual(sequence.slides.map(s => s.center_time_seconds), Array.from({ length: 229 }, (_, i) => i * 3));
+  assert.equal(verification.sha256, record.sha256);
+  assert.equal(verification.all_center_crossings_checked, 229);
+  assert.equal(verification.full_decode_errors, 0);
+  const page = await readFile(new URL('feasibility/index.html', site), 'utf8');
+  assert.deepEqual([...page.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), [62]);
+  assert.match(page, /<video id="player-62"[^>]* loop>/);
+  const selects = JSON.parse(await readFile(new URL('../assets/SELECTS.json', import.meta.url)));
+  assert.deepEqual(selects, [1, 3, 6, 9, 20, 25, 38, 39, 40, 41]);
 });

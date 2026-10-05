@@ -14,7 +14,7 @@ const [path, video] = Object.entries(manifest)[0];
 const req = (route = path, options = {}) => new Request('https://example.com' + route, options);
 
 test('All Tests preserves the complete catalog and adds the two lecture poster loops', () => {
-  assert.equal(Object.keys(manifest).length, 61);
+  assert.equal(Object.keys(manifest).length, 62);
   assert.ok(manifest['/videos/MIT-2.009-2025-Finals-1p0s.mp4']);
   assert.ok(manifest['/videos/MIT-2.009-Yellow-Slot-A-Quick-8s-Portrait-15.mp4']);
   assert.ok(manifest['/videos/MIT-2.009-Yellow-Slot-B-Slow-11s-Portrait-15.mp4']);
@@ -72,14 +72,14 @@ test('conditional requests and static pages', async () => {
   await mismatch.body.cancel();
   const index = await handler.fetch(req('/tests/'), env);
   const html = await index.text();
-  assert.equal((html.match(/<article/g) || []).length, 61);
+  assert.equal((html.match(/<article/g) || []).length, 62);
   assert.ok(html.includes('2025 Finals'));
-  assert.ok(html.includes('61 videos.'));
+  assert.ok(html.includes('62 videos.'));
   assert.ok(html.includes('<h1>All Tests</h1>'));
   assert.ok(html.includes('href="/"'));
   assert.ok(html.includes('With sound'));
   assert.ok(!html.includes('No audio'));
-  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), Array.from({ length: 61 }, (_, i) => 61 - i));
+  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), Array.from({ length: 62 }, (_, i) => 62 - i));
   assert.ok(!html.includes('Lecture 1'));
 });
 
