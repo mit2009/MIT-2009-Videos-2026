@@ -1,0 +1,62 @@
+{
+  "file": "MIT-2.009-Feasibility-Curved-Carousel-HD.mp4",
+  "sha256": "ca08c8272080e9338c279a5ef043556cf9a9d9788db022f971b437e3196f7549",
+  "bytes": 619866733,
+  "duration_seconds": 687,
+  "frames": 41220,
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "silent": true,
+  "fast_start": true,
+  "loop_exact": true,
+  "all_center_crossings_checked": 229,
+  "max_small_frame_mean_absolute_error": 4.493865966796875,
+  "mean_small_frame_mean_absolute_error": 3.828464011438028,
+  "team_counts": {
+    "Green": 40,
+    "Purple": 51,
+    "Red": 38,
+    "Blue": 31,
+    "Yellow": 32,
+    "Pink": 37
+  },
+  "team_order": [
+    "Green",
+    "Purple",
+    "Red",
+    "Blue",
+    "Yellow",
+    "Pink"
+  ],
+  "seconds_per_slide": 3,
+  "full_decode_errors": 0,
+  "revision": 2,
+  "rotation_mode": "once",
+  "motion_direction": "right to left",
+  "measured_horizontal_motion_px": -33.286434173583984,
+  "forward_page_order": true,
+  "unique_slides": 229,
+  "join_checks": [
+    {
+      "frame": 179,
+      "error": 3.477123737335205
+    },
+    {
+      "frame": 180,
+      "error": 3.50307297706604
+    },
+    {
+      "frame": 33479,
+      "error": 3.656886577606201
+    },
+    {
+      "frame": 33480,
+      "error": 3.534126043319702
+    },
+    {
+      "frame": 41219,
+      "error": 3.785254716873169
+    }
+  ]
+}

@@ -1,0 +1,3499 @@
+{
+  "source_files": {
+    "greenteamt912_156864_6900008_Green Team Feasibility.pdf": "eda3bd1690b01ce23a7e35df5af26858458d90ba1cba435f702f18c9d92ec3e1",
+    "purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pptx": "4bede3b5db1075f2b43bc681f637af5fae06fb4fd548d1bb0734221313238c1d",
+    "blueteamt25_LATE_157747_6910352_Blue Team Feasibility Milestone.pptx": "37839c4bc2fda3806d9e31a77521d24011d99ccf91a7e9971d44e54ac968b6a8",
+    "yellowteamm25_156837_6899746_YellowTeamFeasabilityAnalysis26.ppt": "846464ceb90d68bbbced2e491a7557ae7dab07bab3faee29c144ce918abb21f2",
+    "Feasilbility Student Feedback Forms 2026.pptx": "0df8891c74ebc00cb4c76e5ec90ff1cb44b00992d00887059f95197f854d9b7c",
+    "blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf": "2113558f7509df7674648115d325ef2e6bc584328e2b3b7465d2fff904f1590c",
+    "redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf": "aa6a8e045b2929d6d2f3919f29f22f9cf2dc324b815b9e2c0fc9ef2597a1d514",
+    "pinkteamt25_LATE_157188_6910173_Pink Team Feasibility Analysis (1)-1.pptx": "c98bb86a8ecb6e07c50e4a8c4c27ea9445e654c57ec8f4493290d1d34eac2e84",
+    "pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf": "a20c296370ce7b6e7c01738c8456d57b6c367e25f1af94c08b9c4ce91afb5cd7"
+  },
+  "team_order": [
+    "Green",
+    "Purple",
+    "Red",
+    "Blue",
+    "Yellow",
+    "Pink"
+  ],
+  "ordering": "alternate Green, Purple, Red, Blue, Yellow, Pink; forward page order within each team",
+  "seconds_per_slide": 3,
+  "slide_count": 229,
+  "duration_seconds": 687,
+  "team_counts": {
+    "Green": 40,
+    "Purple": 51,
+    "Red": 38,
+    "Blue": 31,
+    "Yellow": 32,
+    "Pink": 37
+  },
+  "slides": [
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 1,
+      "image": "slides/green/slide-01.png",
+      "image_sha256": "ab12657b9822a3e5865dd8c805fc66b1e85317e068800de015c99b21ffc19bbc",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 1,
+      "center_time_seconds": 0,
+      "team_slide_index": 1,
+      "color_round": 1
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 1,
+      "image": "slides/purple/slide-01.png",
+      "image_sha256": "32c7b5e9c2cf40106cdeead41ff14f144927c1375356da0229ea60394dc1bc45",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 2,
+      "center_time_seconds": 3,
+      "team_slide_index": 1,
+      "color_round": 1
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 1,
+      "image": "slides/red/slide-01.png",
+      "image_sha256": "62b5418f3b1fb7e1b7ef6c89861e7105115fcafd8959630affe2fa516a2f2cbd",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 3,
+      "center_time_seconds": 6,
+      "team_slide_index": 1,
+      "color_round": 1
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 1,
+      "image": "slides/blue/slide-01.png",
+      "image_sha256": "914858cf851f73bf83f3c667c606e2f2f483c3c8149f8ba4ae8fbbd3152fb1c2",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 4,
+      "center_time_seconds": 9,
+      "team_slide_index": 1,
+      "color_round": 1
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 4,
+      "image": "slides/yellow/slide-004.png",
+      "image_sha256": "c576f11f0a05724f86f109495566bb10be8a65894cbcb9a2124aea4031bdc48b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 5,
+      "center_time_seconds": 12,
+      "team_slide_index": 1,
+      "color_round": 1
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 1,
+      "image": "slides/pink/slide-01.png",
+      "image_sha256": "36e39eeb3fcf578a62471d3ad8d599d674002d4a139fcb409ac6260fe9ffacc5",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 6,
+      "center_time_seconds": 15,
+      "team_slide_index": 1,
+      "color_round": 1
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 2,
+      "image": "slides/green/slide-02.png",
+      "image_sha256": "576a3bc6483077866d845837dd4725de23f6019b62e08e728dbd295e72e15573",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 7,
+      "center_time_seconds": 18,
+      "team_slide_index": 2,
+      "color_round": 2
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 2,
+      "image": "slides/purple/slide-02.png",
+      "image_sha256": "4b67309b343b39446f75f41de4c6a7bf6b96333a9dfef5c9513f9afabd43a5fa",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 8,
+      "center_time_seconds": 21,
+      "team_slide_index": 2,
+      "color_round": 2
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 2,
+      "image": "slides/red/slide-02.png",
+      "image_sha256": "e0a6cb464512f6583b9e27f9d35d66bece4fd6b68406c06c3016337156484ad9",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 9,
+      "center_time_seconds": 24,
+      "team_slide_index": 2,
+      "color_round": 2
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 2,
+      "image": "slides/blue/slide-02.png",
+      "image_sha256": "57123d13d1ae35b76f70d91f341e4642192b18d4c0e051e168cb30eb939166c3",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 10,
+      "center_time_seconds": 27,
+      "team_slide_index": 2,
+      "color_round": 2
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 5,
+      "image": "slides/yellow/slide-005.png",
+      "image_sha256": "7f7433a78a081f90becd04687b248ab421d93f5bb4835d6b8914bf51706d51d1",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 11,
+      "center_time_seconds": 30,
+      "team_slide_index": 2,
+      "color_round": 2
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 2,
+      "image": "slides/pink/slide-02.png",
+      "image_sha256": "cdb4d713ab8155dde52d4ea61f939654228975cf50b7581ab299a883150e97f8",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 12,
+      "center_time_seconds": 33,
+      "team_slide_index": 2,
+      "color_round": 2
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 3,
+      "image": "slides/green/slide-03.png",
+      "image_sha256": "d298ce5bae260d1810f2cf9e8ba63b14772d77610beefe8431f3febce1784bbd",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 13,
+      "center_time_seconds": 36,
+      "team_slide_index": 3,
+      "color_round": 3
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 3,
+      "image": "slides/purple/slide-03.png",
+      "image_sha256": "b58dd99b351f79d659742d4fd752c1c97b172b13ceae2b80b657c69a6a386020",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 14,
+      "center_time_seconds": 39,
+      "team_slide_index": 3,
+      "color_round": 3
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 3,
+      "image": "slides/red/slide-03.png",
+      "image_sha256": "25d2764bc79fba3bcbe05b3c2900d7f05c9e7505ed54834b7c1e092e13647560",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 15,
+      "center_time_seconds": 42,
+      "team_slide_index": 3,
+      "color_round": 3
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 3,
+      "image": "slides/blue/slide-03.png",
+      "image_sha256": "0d987c349c46fa357d623009d512398471c207e1231222fb016e9aa1c86fb282",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 16,
+      "center_time_seconds": 45,
+      "team_slide_index": 3,
+      "color_round": 3
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 6,
+      "image": "slides/yellow/slide-006.png",
+      "image_sha256": "7dba15410b2ef98643f69329a92351e69bdeea85cec795549a69a6ccf0c56eca",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 17,
+      "center_time_seconds": 48,
+      "animation_still": {
+        "embedded_asset": "ppt/media/image5.gif",
+        "frame": 171,
+        "total_frames": 428,
+        "reason": "PDF conversion omitted the embedded GIF. Restore a representative original CAD frame in its original picture rectangle."
+      },
+      "team_slide_index": 3,
+      "color_round": 3
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 3,
+      "image": "slides/pink/slide-03.png",
+      "image_sha256": "35eedd584e25cca66a72a679881717d07433912e2f589e40cd3d489e64991d95",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 18,
+      "center_time_seconds": 51,
+      "team_slide_index": 3,
+      "color_round": 3
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 4,
+      "image": "slides/green/slide-04.png",
+      "image_sha256": "cb6c21f57c746d249d27815cc90adac53b9a0b986de6d52710ee4a411b698ea9",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 19,
+      "center_time_seconds": 54,
+      "team_slide_index": 4,
+      "color_round": 4
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 4,
+      "image": "slides/purple/slide-04.png",
+      "image_sha256": "752b81b11fd84ad08c09a3ba36a06bf61f1ea5916dc8d1c3d288f11ca4112d12",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 20,
+      "center_time_seconds": 57,
+      "team_slide_index": 4,
+      "color_round": 4
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 4,
+      "image": "slides/red/slide-04.png",
+      "image_sha256": "e72af9aa4dd2e99b134cd146cc845182e1c4fe1d8866f2b495a852442f778a4d",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 21,
+      "center_time_seconds": 60,
+      "team_slide_index": 4,
+      "color_round": 4
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 4,
+      "image": "slides/blue/slide-04.png",
+      "image_sha256": "409bcf4b6a93cc804b81154833e8e38d82e3d3ef307234d19bb5176d0926a8e5",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 22,
+      "center_time_seconds": 63,
+      "team_slide_index": 4,
+      "color_round": 4
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 7,
+      "image": "slides/yellow/slide-007.png",
+      "image_sha256": "719f02297459cfd7cca79a938e5565602bb7dd3aaa55ad1dbf5de9c8f7fb5c6e",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 23,
+      "center_time_seconds": 66,
+      "team_slide_index": 4,
+      "color_round": 4
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 4,
+      "image": "slides/pink/slide-04.png",
+      "image_sha256": "cbd2067c8bd33541b011489c55fd662b4d3d98f437a468aae467a1057b64e75b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 24,
+      "center_time_seconds": 69,
+      "team_slide_index": 4,
+      "color_round": 4
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 5,
+      "image": "slides/green/slide-05.png",
+      "image_sha256": "dc3ff101a2a621009e3148ab31d86f5001375b6a2c55970cc781b09f610aa069",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 25,
+      "center_time_seconds": 72,
+      "team_slide_index": 5,
+      "color_round": 5
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 5,
+      "image": "slides/purple/slide-05.png",
+      "image_sha256": "85306ce38147aa69fea457541197b6a713846f0b0b5e7d53f5f91c941d4355f0",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 26,
+      "center_time_seconds": 75,
+      "team_slide_index": 5,
+      "color_round": 5
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 5,
+      "image": "slides/red/slide-05.png",
+      "image_sha256": "61e9b7bb4332f357ba8652c259b230d9e1010e4c70c684e81e05516348e385a1",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 27,
+      "center_time_seconds": 78,
+      "team_slide_index": 5,
+      "color_round": 5
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 5,
+      "image": "slides/blue/slide-05.png",
+      "image_sha256": "01495a87710ae01302d8516c86db52029f59e60c3d2186aff29755c775386c25",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 28,
+      "center_time_seconds": 81,
+      "team_slide_index": 5,
+      "color_round": 5
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 8,
+      "image": "slides/yellow/slide-008.png",
+      "image_sha256": "5ef01714603d1bd28417ce560d201be89c88835176b2b7aebedfe48f850a3862",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 29,
+      "center_time_seconds": 84,
+      "team_slide_index": 5,
+      "color_round": 5
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 5,
+      "image": "slides/pink/slide-05.png",
+      "image_sha256": "7549126510f53c2913ab4a67913bef9867fa03aab360c94fc097df249ce91959",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 30,
+      "center_time_seconds": 87,
+      "team_slide_index": 5,
+      "color_round": 5
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 6,
+      "image": "slides/green/slide-06.png",
+      "image_sha256": "93b4ce7aec48c23a1fa5e57637dbef6d45a3b4c9418d5612e915d6aca9a22ff2",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 31,
+      "center_time_seconds": 90,
+      "team_slide_index": 6,
+      "color_round": 6
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 6,
+      "image": "slides/purple/slide-06.png",
+      "image_sha256": "1809601db42a8412998aa3c04ba02c9e75e1915f8a436c6b43d2d3422fd77aec",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 32,
+      "center_time_seconds": 93,
+      "team_slide_index": 6,
+      "color_round": 6
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 6,
+      "image": "slides/red/slide-06.png",
+      "image_sha256": "19f0961f76cd6c0d5ec8fac2dfcec5472cbbd9b6a384f031dabd1985b1918d9b",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 33,
+      "center_time_seconds": 96,
+      "team_slide_index": 6,
+      "color_round": 6
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 6,
+      "image": "slides/blue/slide-06.png",
+      "image_sha256": "e2ed93e33e8ae2ba72c2f4f03f9308d885cc594f75d4ac394ed72d9a410a878b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 34,
+      "center_time_seconds": 99,
+      "team_slide_index": 6,
+      "color_round": 6
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 9,
+      "image": "slides/yellow/slide-009.png",
+      "image_sha256": "671ee8d63f13e5ae3553c14a46ee995ea24c8daebc719246e8fc889d1b80cce8",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 35,
+      "center_time_seconds": 102,
+      "team_slide_index": 6,
+      "color_round": 6
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 6,
+      "image": "slides/pink/slide-06.png",
+      "image_sha256": "eb0168a2ddb396de50053348723777bbb87b27bc96d14bb530d528801f830f9b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 36,
+      "center_time_seconds": 105,
+      "team_slide_index": 6,
+      "color_round": 6
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 7,
+      "image": "slides/green/slide-07.png",
+      "image_sha256": "1cada30bab6913743473e4e413cc1c0ac00bbb89b86dab6da43fb326c63be3dd",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 37,
+      "center_time_seconds": 108,
+      "team_slide_index": 7,
+      "color_round": 7
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 7,
+      "image": "slides/purple/slide-07.png",
+      "image_sha256": "84626315b5a2ade12a30ff9668755b244683303d0f83eb44f88807171612ae58",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 38,
+      "center_time_seconds": 111,
+      "team_slide_index": 7,
+      "color_round": 7
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 7,
+      "image": "slides/red/slide-07.png",
+      "image_sha256": "bfca1d6e7a845e38bbf38d5d31117ad30e89df52fb66322474493f5488d16d6e",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 39,
+      "center_time_seconds": 114,
+      "team_slide_index": 7,
+      "color_round": 7
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 7,
+      "image": "slides/blue/slide-07.png",
+      "image_sha256": "3c4201c2d9824b62caed6efa06db8c7df5c167ff9459a71ee0d7e8db0f9d0de6",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 40,
+      "center_time_seconds": 117,
+      "team_slide_index": 7,
+      "color_round": 7
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 10,
+      "image": "slides/yellow/slide-010.png",
+      "image_sha256": "0f4cb9c2f192f3134510fc289b59cc84755f8d39a49cbe8077a2dc96e6150691",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 41,
+      "center_time_seconds": 120,
+      "team_slide_index": 7,
+      "color_round": 7
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 7,
+      "image": "slides/pink/slide-07.png",
+      "image_sha256": "ccee5181cb3e4fcc7f4540ebfc10461d4becd0f94ca7aa06ee1b9e307be7ff34",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 42,
+      "center_time_seconds": 123,
+      "team_slide_index": 7,
+      "color_round": 7
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 8,
+      "image": "slides/green/slide-08.png",
+      "image_sha256": "ecc8e881082440176faaf2e752a10675cdb4b6388ef2ce380e76207226ee8557",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 43,
+      "center_time_seconds": 126,
+      "team_slide_index": 8,
+      "color_round": 8
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 8,
+      "image": "slides/purple/slide-08.png",
+      "image_sha256": "c17cfecd3e1c4ea0c86299f358284c6a4dba322e2ae9aa967bba72aad9cf88ad",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 44,
+      "center_time_seconds": 129,
+      "team_slide_index": 8,
+      "color_round": 8
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 8,
+      "image": "slides/red/slide-08.png",
+      "image_sha256": "2f0b0ee5a06380bc0b13668bdaee3c68a14a000fa2abc0ef63ffac2ab985121c",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 45,
+      "center_time_seconds": 132,
+      "team_slide_index": 8,
+      "color_round": 8
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 8,
+      "image": "slides/blue/slide-08.png",
+      "image_sha256": "84eadb75d4954153c5f210af72137054ec71cd4687c06a61d9e1821abf7772ee",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 46,
+      "center_time_seconds": 135,
+      "team_slide_index": 8,
+      "color_round": 8
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 11,
+      "image": "slides/yellow/slide-011.png",
+      "image_sha256": "7dba15410b2ef98643f69329a92351e69bdeea85cec795549a69a6ccf0c56eca",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 47,
+      "center_time_seconds": 138,
+      "animation_still": {
+        "embedded_asset": "ppt/media/image5.gif",
+        "frame": 171,
+        "total_frames": 428,
+        "reason": "PDF conversion omitted the embedded GIF. Restore a representative original CAD frame in its original picture rectangle."
+      },
+      "team_slide_index": 8,
+      "color_round": 8
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 8,
+      "image": "slides/pink/slide-08.png",
+      "image_sha256": "aeceaa8cffe8948bd69ffa21c87d78852bcde78b01ee37e35972c16579adaeca",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 48,
+      "center_time_seconds": 141,
+      "team_slide_index": 8,
+      "color_round": 8
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 9,
+      "image": "slides/green/slide-09.png",
+      "image_sha256": "d4d698b0005b5fbcff7c0ccc239d64ceb17b6a1beda1c5614d89b42a5a179e51",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 49,
+      "center_time_seconds": 144,
+      "team_slide_index": 9,
+      "color_round": 9
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 9,
+      "image": "slides/purple/slide-09.png",
+      "image_sha256": "79b7079820e7e8a572cddb11b4cd73ced1521a44fa222a4b49efd40d1a0131c0",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 50,
+      "center_time_seconds": 147,
+      "team_slide_index": 9,
+      "color_round": 9
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 9,
+      "image": "slides/red/slide-09.png",
+      "image_sha256": "2e0b9efc447f4076c4519dbb5a3755302530e332987f2b505d66ac1743286177",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 51,
+      "center_time_seconds": 150,
+      "team_slide_index": 9,
+      "color_round": 9
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 9,
+      "image": "slides/blue/slide-09.png",
+      "image_sha256": "25c38384be174d0c32ae1003c9f4355e05df6001a12259bfc968568e809b76ff",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 52,
+      "center_time_seconds": 153,
+      "team_slide_index": 9,
+      "color_round": 9
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 12,
+      "image": "slides/yellow/slide-012.png",
+      "image_sha256": "4c39108df74af16a1b4c78d750363f86f2d9c402a36c5fa3d8758840685a3f5f",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 53,
+      "center_time_seconds": 156,
+      "team_slide_index": 9,
+      "color_round": 9
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 9,
+      "image": "slides/pink/slide-09.png",
+      "image_sha256": "999f87a2a5f11c3060f06ce67de18c68a8f5e4b7b1466d2b4280a68d9e25df3f",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 54,
+      "center_time_seconds": 159,
+      "team_slide_index": 9,
+      "color_round": 9
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 10,
+      "image": "slides/green/slide-10.png",
+      "image_sha256": "13558efa708e11b7cfa4d149a8dda0e683e19ec7af31a64d478363b3142c4515",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 55,
+      "center_time_seconds": 162,
+      "team_slide_index": 10,
+      "color_round": 10
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 10,
+      "image": "slides/purple/slide-10.png",
+      "image_sha256": "590a119b2f7cd1013760ce2a3ff7df769b1e0813bd4bd115eba5fede101ea105",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 56,
+      "center_time_seconds": 165,
+      "team_slide_index": 10,
+      "color_round": 10
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 10,
+      "image": "slides/red/slide-10.png",
+      "image_sha256": "e5e1c59f9757d548e19ec53486eb3280687a2fb3b98162b58d460f3682e4f8d3",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 57,
+      "center_time_seconds": 168,
+      "team_slide_index": 10,
+      "color_round": 10
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 10,
+      "image": "slides/blue/slide-10.png",
+      "image_sha256": "92a8973d9a971b7b1e6996620d292ecc71fa74f308f64819a0dac45c34af9efc",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 58,
+      "center_time_seconds": 171,
+      "team_slide_index": 10,
+      "color_round": 10
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 13,
+      "image": "slides/yellow/slide-013.png",
+      "image_sha256": "85f13fd5cc0c71e59212aadc57a72a22f3cbe705a655e0a38efc4cf400fe293d",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 59,
+      "center_time_seconds": 174,
+      "team_slide_index": 10,
+      "color_round": 10
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 10,
+      "image": "slides/pink/slide-10.png",
+      "image_sha256": "9b23658192a3bee209a8f6e45f37d26fd801385c884bb88e6ad9141345f65451",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 60,
+      "center_time_seconds": 177,
+      "team_slide_index": 10,
+      "color_round": 10
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 11,
+      "image": "slides/green/slide-11.png",
+      "image_sha256": "a8b7ff8c85a67ac7593e159363b81108b499b33a8801555e5aae7bce5c03e754",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 61,
+      "center_time_seconds": 180,
+      "team_slide_index": 11,
+      "color_round": 11
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 11,
+      "image": "slides/purple/slide-11.png",
+      "image_sha256": "61161738932dbbb0a897d9656cc494185457340fac69e879bf83e291d68da0b6",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 62,
+      "center_time_seconds": 183,
+      "team_slide_index": 11,
+      "color_round": 11
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 11,
+      "image": "slides/red/slide-11.png",
+      "image_sha256": "b6c671f95adaa9f1258e1cededd72746ef6272961f9f43140f8cc1ec2dd00a40",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 63,
+      "center_time_seconds": 186,
+      "team_slide_index": 11,
+      "color_round": 11
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 11,
+      "image": "slides/blue/slide-11.png",
+      "image_sha256": "113e341740cb98615310afdce0fa555b4897bd6f51664137ed4e5ea32c13e68e",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 64,
+      "center_time_seconds": 189,
+      "team_slide_index": 11,
+      "color_round": 11
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 14,
+      "image": "slides/yellow/slide-014.png",
+      "image_sha256": "2217d8447d1a11a5586ae851bfc6c29fed57109960f08c73f120ce032f83cc1f",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 65,
+      "center_time_seconds": 192,
+      "team_slide_index": 11,
+      "color_round": 11
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 11,
+      "image": "slides/pink/slide-11.png",
+      "image_sha256": "a25a6d3d64b7e46bb03af0fec477b2891c9e339031275324c5eb774e3cc8d576",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 66,
+      "center_time_seconds": 195,
+      "team_slide_index": 11,
+      "color_round": 11
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 12,
+      "image": "slides/green/slide-12.png",
+      "image_sha256": "e79a2e753af5af98fbb7457e8c61459587244fd639c81abf70b760c4080408cc",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 67,
+      "center_time_seconds": 198,
+      "team_slide_index": 12,
+      "color_round": 12
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 12,
+      "image": "slides/purple/slide-12.png",
+      "image_sha256": "4441463ec841bdc930edbd03d6f12d095d38fabadc77137136582660e74018d9",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 68,
+      "center_time_seconds": 201,
+      "team_slide_index": 12,
+      "color_round": 12
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 12,
+      "image": "slides/red/slide-12.png",
+      "image_sha256": "3c6d23aba32ba8d68460070027c90d28541292071aca3034a649e17fe6fa0f48",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 69,
+      "center_time_seconds": 204,
+      "team_slide_index": 12,
+      "color_round": 12
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 12,
+      "image": "slides/blue/slide-12.png",
+      "image_sha256": "3e5ad3039da26a5b31951515803ae915cc25f058e664ad4386146269f948329d",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 70,
+      "center_time_seconds": 207,
+      "team_slide_index": 12,
+      "color_round": 12
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 15,
+      "image": "slides/yellow/slide-015.png",
+      "image_sha256": "64b15316fc16ddba6c874e444a13c52c7bfc45f63e3f3092d795270b2e9a6ace",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 71,
+      "center_time_seconds": 210,
+      "team_slide_index": 12,
+      "color_round": 12
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 12,
+      "image": "slides/pink/slide-12.png",
+      "image_sha256": "1dbb31a9f8c2a6f6c45c2448c4d942f2252abf3dce6489f9d7247e4da4cdc413",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 72,
+      "center_time_seconds": 213,
+      "team_slide_index": 12,
+      "color_round": 12
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 13,
+      "image": "slides/green/slide-13.png",
+      "image_sha256": "ba63ab6c405aeda0af65572901bd1fb95f723fa5c462a075975194350c78a8fe",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 73,
+      "center_time_seconds": 216,
+      "team_slide_index": 13,
+      "color_round": 13
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 13,
+      "image": "slides/purple/slide-13.png",
+      "image_sha256": "3a3460fbd83535cfb39323580890e0b05189e3712b12ac2240ca9e456c8a6182",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 74,
+      "center_time_seconds": 219,
+      "team_slide_index": 13,
+      "color_round": 13
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 13,
+      "image": "slides/red/slide-13.png",
+      "image_sha256": "5b6e1eacf6c4f61d265008dc96459d4136c421fd1ea0e60f4b083401fbc2e76c",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 75,
+      "center_time_seconds": 222,
+      "team_slide_index": 13,
+      "color_round": 13
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 13,
+      "image": "slides/blue/slide-13.png",
+      "image_sha256": "28039b18dea88e84cc1b7e660d1d50db0f033912a474b39ffb2d6ec431bef205",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 76,
+      "center_time_seconds": 225,
+      "team_slide_index": 13,
+      "color_round": 13
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 16,
+      "image": "slides/yellow/slide-016.png",
+      "image_sha256": "0d25b4cd45adeaeaea481c57d2676fed02aff55a808e8d1dedac8ac46c8df08b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 77,
+      "center_time_seconds": 228,
+      "team_slide_index": 13,
+      "color_round": 13
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 13,
+      "image": "slides/pink/slide-13.png",
+      "image_sha256": "0175ba9b16f51ae4a79178ae13ef438b76b672544b2a98a8e83e2b452ee71d57",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 78,
+      "center_time_seconds": 231,
+      "team_slide_index": 13,
+      "color_round": 13
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 14,
+      "image": "slides/green/slide-14.png",
+      "image_sha256": "8f29932483e939e9941e9b6fee3d2d9f2ce7bb944e5359a8bd0dca93a8b8ac58",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 79,
+      "center_time_seconds": 234,
+      "team_slide_index": 14,
+      "color_round": 14
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 14,
+      "image": "slides/purple/slide-14.png",
+      "image_sha256": "f1152f95ca0a32454671d51b671dc681b6a584ff03c32fe13e8762c458c9a519",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 80,
+      "center_time_seconds": 237,
+      "team_slide_index": 14,
+      "color_round": 14
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 14,
+      "image": "slides/red/slide-14.png",
+      "image_sha256": "05d9ee41c1124b68fa45d3fa3f21fd51ede6c8f54d70ba52bb05f65f73c98322",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 81,
+      "center_time_seconds": 240,
+      "team_slide_index": 14,
+      "color_round": 14
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 14,
+      "image": "slides/blue/slide-14.png",
+      "image_sha256": "991ca9c18b9aacd580567762df7a1950121581aa9ab9792dca22680a7cb5fbbe",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 82,
+      "center_time_seconds": 243,
+      "team_slide_index": 14,
+      "color_round": 14
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 17,
+      "image": "slides/yellow/slide-017.png",
+      "image_sha256": "f9377e307bbe3380e575af3074e692ffa18119d9178dbc1cd80e2466e5113d66",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 83,
+      "center_time_seconds": 246,
+      "team_slide_index": 14,
+      "color_round": 14
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 14,
+      "image": "slides/pink/slide-14.png",
+      "image_sha256": "f0c4180dd2843ebcad23eee087c149532ead39b65f9b1bbbac7251f30598f0a2",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 84,
+      "center_time_seconds": 249,
+      "team_slide_index": 14,
+      "color_round": 14
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 15,
+      "image": "slides/green/slide-15.png",
+      "image_sha256": "99bfd79547450ea7bdf4d5ab876f6ee5f7c9cbc3feb24bc971dc017ad921ff3a",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 85,
+      "center_time_seconds": 252,
+      "team_slide_index": 15,
+      "color_round": 15
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 15,
+      "image": "slides/purple/slide-15.png",
+      "image_sha256": "ab67a6686bef041a93c41dafbf9b52ad2665aaea7a06845f394bb1cb0c6f2b00",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 86,
+      "center_time_seconds": 255,
+      "team_slide_index": 15,
+      "color_round": 15
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 15,
+      "image": "slides/red/slide-15.png",
+      "image_sha256": "a4a7addfeb8243d1182e03561019bb9794986e85a1dbe6e9d02f35385f6cd047",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 87,
+      "center_time_seconds": 258,
+      "team_slide_index": 15,
+      "color_round": 15
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 15,
+      "image": "slides/blue/slide-15.png",
+      "image_sha256": "5e2b5b8b51bc23dd9c23e43e75efb9aadef267627af2c5c8d943ce8cd1578f2f",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 88,
+      "center_time_seconds": 261,
+      "team_slide_index": 15,
+      "color_round": 15
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 18,
+      "image": "slides/yellow/slide-018.png",
+      "image_sha256": "d2d3568a0df466f094e813777c068417e7d2eeab2ca60a04e7493b7e85f38341",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 89,
+      "center_time_seconds": 264,
+      "team_slide_index": 15,
+      "color_round": 15
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 15,
+      "image": "slides/pink/slide-15.png",
+      "image_sha256": "027b4fb5ed2f1bf712ced1eb00a51521d5d3c3773950210d8497716dfeb2459e",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 90,
+      "center_time_seconds": 267,
+      "team_slide_index": 15,
+      "color_round": 15
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 16,
+      "image": "slides/green/slide-16.png",
+      "image_sha256": "48a4e54868c4147c3bf21f8d32c8d227c45da35f2ea66464624d8071910f88f1",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 91,
+      "center_time_seconds": 270,
+      "team_slide_index": 16,
+      "color_round": 16
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 16,
+      "image": "slides/purple/slide-16.png",
+      "image_sha256": "4edc34cbb195933755eefe68045576610e1e4dc8917bab1513efa04c87cc3566",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 92,
+      "center_time_seconds": 273,
+      "team_slide_index": 16,
+      "color_round": 16
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 16,
+      "image": "slides/red/slide-16.png",
+      "image_sha256": "0a5dc94578fd03ffd688570065cdb1ea136a84d9c5a79cc306cb977aa9d38335",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 93,
+      "center_time_seconds": 276,
+      "team_slide_index": 16,
+      "color_round": 16
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 16,
+      "image": "slides/blue/slide-16.png",
+      "image_sha256": "b7d38604d8e3f8640f3e9046eb0bc4f5a9d6af4dc557f60b6d18c1fc2e942516",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 94,
+      "center_time_seconds": 279,
+      "team_slide_index": 16,
+      "color_round": 16
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 19,
+      "image": "slides/yellow/slide-019.png",
+      "image_sha256": "b9741f7e194bf25d99aa1e8958165bea30ab45cdc9c03752481fe2947722f27e",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 95,
+      "center_time_seconds": 282,
+      "team_slide_index": 16,
+      "color_round": 16
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 16,
+      "image": "slides/pink/slide-16.png",
+      "image_sha256": "9d56b856b663755f4acfb21b1fe269ec085f3e7083c35fe58a9ed85a3ae1a2f3",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 96,
+      "center_time_seconds": 285,
+      "team_slide_index": 16,
+      "color_round": 16
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 17,
+      "image": "slides/green/slide-17.png",
+      "image_sha256": "ec38390974955b269feca60473a1900504c3214e7af6a41c6fd7058203fc4aa1",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 97,
+      "center_time_seconds": 288,
+      "team_slide_index": 17,
+      "color_round": 17
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 17,
+      "image": "slides/purple/slide-17.png",
+      "image_sha256": "f8e556c20dddf2f29760f406ea2c5ad22d52a11022cfbd6baf06c31e375376b4",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 98,
+      "center_time_seconds": 291,
+      "team_slide_index": 17,
+      "color_round": 17
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 17,
+      "image": "slides/red/slide-17.png",
+      "image_sha256": "76c8f062aba212ff9e0afc4f0390b3c3f5800b3f036e009dd636adc79a822069",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 99,
+      "center_time_seconds": 294,
+      "team_slide_index": 17,
+      "color_round": 17
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 17,
+      "image": "slides/blue/slide-17.png",
+      "image_sha256": "d013762142ed2d640a8929514594823874a303eeddc88a02e56bbbce0ea9a0b3",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 100,
+      "center_time_seconds": 297,
+      "team_slide_index": 17,
+      "color_round": 17
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 20,
+      "image": "slides/yellow/slide-020.png",
+      "image_sha256": "37b87811a89f3b5dfdb7ba12fc71270c7bab063d04851465a4c9ae39778ec865",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 101,
+      "center_time_seconds": 300,
+      "team_slide_index": 17,
+      "color_round": 17
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 17,
+      "image": "slides/pink/slide-17.png",
+      "image_sha256": "9d73b89bed2ff0ede3e69faaa3df4735c43c8c28879cf495eefef5b89230d5cf",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 102,
+      "center_time_seconds": 303,
+      "team_slide_index": 17,
+      "color_round": 17
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 18,
+      "image": "slides/green/slide-18.png",
+      "image_sha256": "8cc62a1f429e5ea32321d2b84e8aa52010055a1c9f3c5949448e7cecf2855001",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 103,
+      "center_time_seconds": 306,
+      "team_slide_index": 18,
+      "color_round": 18
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 18,
+      "image": "slides/purple/slide-18.png",
+      "image_sha256": "6e8f677e197a2fdab5fb0e3f1b4c106a30569d3cc6699e2bfe351dbab5c41b58",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 104,
+      "center_time_seconds": 309,
+      "team_slide_index": 18,
+      "color_round": 18
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 18,
+      "image": "slides/red/slide-18.png",
+      "image_sha256": "a25ba05da489119aee6621fe8836fd164fcee8b81905335dd559ca7aff00a45c",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 105,
+      "center_time_seconds": 312,
+      "team_slide_index": 18,
+      "color_round": 18
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 18,
+      "image": "slides/blue/slide-18.png",
+      "image_sha256": "c518738283e3b8fb73560c52807ba89bfac56eabb91f752a2f6099bbbbf5bf16",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 106,
+      "center_time_seconds": 315,
+      "team_slide_index": 18,
+      "color_round": 18
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 21,
+      "image": "slides/yellow/slide-021.png",
+      "image_sha256": "bd4243ed769bb3da359ab2ed89427524129cb0224ac7b6f3eeaab6851043219f",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 107,
+      "center_time_seconds": 318,
+      "team_slide_index": 18,
+      "color_round": 18
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 18,
+      "image": "slides/pink/slide-18.png",
+      "image_sha256": "139beafe0bd25eb3e257d6abb6d4891b4e2390ca4db1463857e5d91321fe100d",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 108,
+      "center_time_seconds": 321,
+      "team_slide_index": 18,
+      "color_round": 18
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 19,
+      "image": "slides/green/slide-19.png",
+      "image_sha256": "2926f513a95ba36226ae23a7a607ba828d65c0b0f1b24fd12290a307ac6be42b",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 109,
+      "center_time_seconds": 324,
+      "team_slide_index": 19,
+      "color_round": 19
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 19,
+      "image": "slides/purple/slide-19.png",
+      "image_sha256": "819662c19318b04ee6c73408d7b57b510b371ef20332ab7452bf6082d26b4f1b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 110,
+      "center_time_seconds": 327,
+      "team_slide_index": 19,
+      "color_round": 19
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 19,
+      "image": "slides/red/slide-19.png",
+      "image_sha256": "99ff6896825e87e935d01faf37281f7a502bf765336288c8e338c6f23136f447",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 111,
+      "center_time_seconds": 330,
+      "team_slide_index": 19,
+      "color_round": 19
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 19,
+      "image": "slides/blue/slide-19.png",
+      "image_sha256": "4955062cc8b2c1d6dec4bda1bca8b46defb53e116316d7dda2cda80151b668cf",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 112,
+      "center_time_seconds": 333,
+      "team_slide_index": 19,
+      "color_round": 19
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 22,
+      "image": "slides/yellow/slide-022.png",
+      "image_sha256": "a1b7eed51e7ec348b061cceca16fc7738285e2db386a96673f34a46cf3ac3646",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 113,
+      "center_time_seconds": 336,
+      "team_slide_index": 19,
+      "color_round": 19
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 19,
+      "image": "slides/pink/slide-19.png",
+      "image_sha256": "04dbcaa12ce14a447c2510b2cb613c7c0f6f017962669a1b2cbb365d3ec2218b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 114,
+      "center_time_seconds": 339,
+      "team_slide_index": 19,
+      "color_round": 19
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 20,
+      "image": "slides/green/slide-20.png",
+      "image_sha256": "c6ac9d924bbae49c1b89263c7387f30a6d27376742a3833941c24e0a9d8660a1",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 115,
+      "center_time_seconds": 342,
+      "team_slide_index": 20,
+      "color_round": 20
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 20,
+      "image": "slides/purple/slide-20.png",
+      "image_sha256": "a2f090f0627c63b73a04139ab9189fb0396f8d34f8323a1059f7428d51964968",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 116,
+      "center_time_seconds": 345,
+      "team_slide_index": 20,
+      "color_round": 20
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 20,
+      "image": "slides/red/slide-20.png",
+      "image_sha256": "c7218a84b16a8aeeede2e6ef8f37af9fb912d86b27fad8ff9b0cd9be0d39c3c9",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 117,
+      "center_time_seconds": 348,
+      "team_slide_index": 20,
+      "color_round": 20
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 20,
+      "image": "slides/blue/slide-20.png",
+      "image_sha256": "fa165b51aa725a5d8abd516d1f8a34f5ccf015911192f6f6b41b7dba77d72552",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 118,
+      "center_time_seconds": 351,
+      "team_slide_index": 20,
+      "color_round": 20
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 23,
+      "image": "slides/yellow/slide-023.png",
+      "image_sha256": "20f4bd608a076fd27e7690d0624793c2cfd362a270753495089cd70394095936",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 119,
+      "center_time_seconds": 354,
+      "team_slide_index": 20,
+      "color_round": 20
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 20,
+      "image": "slides/pink/slide-20.png",
+      "image_sha256": "5af24fb6c22fec33144fb4159aa9fd73e23331f819f18fe2011d103fc5f03909",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 120,
+      "center_time_seconds": 357,
+      "team_slide_index": 20,
+      "color_round": 20
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 21,
+      "image": "slides/green/slide-21.png",
+      "image_sha256": "bfe06dd6e562dbcbf10633b725633e2cc5eb41415d93390c572062a19c6b0553",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 121,
+      "center_time_seconds": 360,
+      "team_slide_index": 21,
+      "color_round": 21
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 21,
+      "image": "slides/purple/slide-21.png",
+      "image_sha256": "4dffe3dfedab669c264160a714dfb4230dca2b500a076784fe06bcfd9718807e",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 122,
+      "center_time_seconds": 363,
+      "team_slide_index": 21,
+      "color_round": 21
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 21,
+      "image": "slides/red/slide-21.png",
+      "image_sha256": "b132b3eda97304d2aed65c7d38c8c681420a7ddbfc585b5e724a1c794aea1660",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 123,
+      "center_time_seconds": 366,
+      "team_slide_index": 21,
+      "color_round": 21
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 21,
+      "image": "slides/blue/slide-21.png",
+      "image_sha256": "2d23c3b607e4c97d17a2cc57dad8bb97f85d0cfc84836adf7394482beafcbb46",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 124,
+      "center_time_seconds": 369,
+      "team_slide_index": 21,
+      "color_round": 21
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 24,
+      "image": "slides/yellow/slide-024.png",
+      "image_sha256": "1ab04f0135d603098220a266c32375d448b39222747fd616abb95522a4481aec",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 125,
+      "center_time_seconds": 372,
+      "team_slide_index": 21,
+      "color_round": 21
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 21,
+      "image": "slides/pink/slide-21.png",
+      "image_sha256": "7c36d5312dfb5065bcf4a9804501f94c6020508f8a0f774f9c142f0de0e45058",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 126,
+      "center_time_seconds": 375,
+      "team_slide_index": 21,
+      "color_round": 21
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 22,
+      "image": "slides/green/slide-22.png",
+      "image_sha256": "fb6c74f08492ee13717012516505b7979b621f278a4610453f7e469cbf7d8467",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 127,
+      "center_time_seconds": 378,
+      "team_slide_index": 22,
+      "color_round": 22
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 22,
+      "image": "slides/purple/slide-22.png",
+      "image_sha256": "0e86f30ae95c740630549e5d948fba92844e6c0bab9b0931efdf4204b848333f",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 128,
+      "center_time_seconds": 381,
+      "team_slide_index": 22,
+      "color_round": 22
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 22,
+      "image": "slides/red/slide-22.png",
+      "image_sha256": "a9eae1babce336bf95ddf7ae1ab1f4d8b24bae9df421cc3ea78277190ec91bd8",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 129,
+      "center_time_seconds": 384,
+      "team_slide_index": 22,
+      "color_round": 22
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 22,
+      "image": "slides/blue/slide-22.png",
+      "image_sha256": "f0c4bb5f513e585462b90295ff90c85fa6dcf632a687f12d37dd64f1d1a4bc9a",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 130,
+      "center_time_seconds": 387,
+      "team_slide_index": 22,
+      "color_round": 22
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 25,
+      "image": "slides/yellow/slide-025.png",
+      "image_sha256": "a4524cc7e3d3d104cadce58cae153f133ceece445847b01fccb7994471165bcf",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 131,
+      "center_time_seconds": 390,
+      "team_slide_index": 22,
+      "color_round": 22
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 22,
+      "image": "slides/pink/slide-22.png",
+      "image_sha256": "849f7f7687fbe330f1fb367c4896835d212fbc038bd47ed3c4b8d7a839fd78dd",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 132,
+      "center_time_seconds": 393,
+      "team_slide_index": 22,
+      "color_round": 22
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 23,
+      "image": "slides/green/slide-23.png",
+      "image_sha256": "abb8a83832c0613f42c33bb4429a3bbe70624663768556b085a4f5110a197cd8",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 133,
+      "center_time_seconds": 396,
+      "team_slide_index": 23,
+      "color_round": 23
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 23,
+      "image": "slides/purple/slide-23.png",
+      "image_sha256": "0d27524d351425e3d8875103a16f074129d965cb9a5f4d245896be2bdc52a610",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 134,
+      "center_time_seconds": 399,
+      "team_slide_index": 23,
+      "color_round": 23
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 23,
+      "image": "slides/red/slide-23.png",
+      "image_sha256": "f5cf052d5ffa2c4fc6235ca7b59d0b46fc8cacf0440fdc0caee89d03a5f244d6",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 135,
+      "center_time_seconds": 402,
+      "team_slide_index": 23,
+      "color_round": 23
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 23,
+      "image": "slides/blue/slide-23.png",
+      "image_sha256": "b417ad20d6d0f88e492869991835d2bf5d492eb2727a5857f19b3c4c1861da1c",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 136,
+      "center_time_seconds": 405,
+      "team_slide_index": 23,
+      "color_round": 23
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 26,
+      "image": "slides/yellow/slide-026.png",
+      "image_sha256": "5e78ebf0689bb3f3977fe5b4f97ba3b5948f410fe3011daa2a33fa0e72c58c8f",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 137,
+      "center_time_seconds": 408,
+      "team_slide_index": 23,
+      "color_round": 23
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 23,
+      "image": "slides/pink/slide-23.png",
+      "image_sha256": "0ea8108e2e50b33bfa851eb98299d3d52f81583b4c9af3bc469c5aa950c4d714",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 138,
+      "center_time_seconds": 411,
+      "team_slide_index": 23,
+      "color_round": 23
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 24,
+      "image": "slides/green/slide-24.png",
+      "image_sha256": "70ddac822bac805e7db50e1cbac12a96fb419985b4a71b696f62dd40dff42db2",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 139,
+      "center_time_seconds": 414,
+      "team_slide_index": 24,
+      "color_round": 24
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 24,
+      "image": "slides/purple/slide-24.png",
+      "image_sha256": "b3201ef724f326f39168b9590dd86879fd130869e40f2c0cf47718d996bb1a49",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 140,
+      "center_time_seconds": 417,
+      "team_slide_index": 24,
+      "color_round": 24
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 24,
+      "image": "slides/red/slide-24.png",
+      "image_sha256": "16e88c6115453c27ac0aa17203df4f7d5fd019e57e9efcdb1802d4628c9bf19d",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 141,
+      "center_time_seconds": 420,
+      "team_slide_index": 24,
+      "color_round": 24
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 24,
+      "image": "slides/blue/slide-24.png",
+      "image_sha256": "e91d45755085915d6f2f8ef05858905741d01a677ae4b993c73d008cbcfee3c7",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 142,
+      "center_time_seconds": 423,
+      "team_slide_index": 24,
+      "color_round": 24
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 27,
+      "image": "slides/yellow/slide-027.png",
+      "image_sha256": "d8a50c94cc8f23e4e8e22516d06419b9eb6ed6d0548b2f958d78f0f680c4746b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 143,
+      "center_time_seconds": 426,
+      "team_slide_index": 24,
+      "color_round": 24
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 24,
+      "image": "slides/pink/slide-24.png",
+      "image_sha256": "73d3ad93749a14828c09f05ace4304cf821ac7f27850007385263eb1cb48b2f3",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 144,
+      "center_time_seconds": 429,
+      "team_slide_index": 24,
+      "color_round": 24
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 25,
+      "image": "slides/green/slide-25.png",
+      "image_sha256": "eb5c500100aa8eb7a9264afe2d37f1f3ea5625a2ed21a14a5c45d54e26bfba75",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 145,
+      "center_time_seconds": 432,
+      "team_slide_index": 25,
+      "color_round": 25
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 25,
+      "image": "slides/purple/slide-25.png",
+      "image_sha256": "b9f7177a79ebbdc7e8b6333ec4a8607f90980ceb86289169917dea9e79b983bb",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 146,
+      "center_time_seconds": 435,
+      "team_slide_index": 25,
+      "color_round": 25
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 25,
+      "image": "slides/red/slide-25.png",
+      "image_sha256": "a31a68cb7d549af8b064fbdb623bf0c538506534d0d9ebf77a161eed8e031780",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 147,
+      "center_time_seconds": 438,
+      "team_slide_index": 25,
+      "color_round": 25
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 25,
+      "image": "slides/blue/slide-25.png",
+      "image_sha256": "9f40a5437579f94d0656a2191321a7cbfd2ef54a18235b795300f440aa7b1090",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 148,
+      "center_time_seconds": 441,
+      "team_slide_index": 25,
+      "color_round": 25
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 28,
+      "image": "slides/yellow/slide-028.png",
+      "image_sha256": "c9a21d37d48b36b1f2480dd84b072348a6b3428051e311747b085f62abe3b355",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 149,
+      "center_time_seconds": 444,
+      "team_slide_index": 25,
+      "color_round": 25
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 25,
+      "image": "slides/pink/slide-25.png",
+      "image_sha256": "cd1b96cace26188cb5ccdfea5da44dad4ae533c63b6a7c3e819732f12f6c71db",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 150,
+      "center_time_seconds": 447,
+      "team_slide_index": 25,
+      "color_round": 25
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 26,
+      "image": "slides/green/slide-26.png",
+      "image_sha256": "481074d23e37c5de77621c556b9ad458e11802ad45ef38b6cb1f27f587c38d51",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 151,
+      "center_time_seconds": 450,
+      "team_slide_index": 26,
+      "color_round": 26
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 26,
+      "image": "slides/purple/slide-26.png",
+      "image_sha256": "718d58bbca9a207600a820de00139836968d0942c81deb386562dd1c18d561f6",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 152,
+      "center_time_seconds": 453,
+      "team_slide_index": 26,
+      "color_round": 26
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 26,
+      "image": "slides/red/slide-26.png",
+      "image_sha256": "f088170888dea04835d0e3531dd1b5568bb3e0e6135119fd5ba61257210db5e0",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 153,
+      "center_time_seconds": 456,
+      "team_slide_index": 26,
+      "color_round": 26
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 26,
+      "image": "slides/blue/slide-26.png",
+      "image_sha256": "8ddde02ec09b8eb96dbe58ebbfc4487076a7b635b6f9eae712fb873db16732d5",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 154,
+      "center_time_seconds": 459,
+      "team_slide_index": 26,
+      "color_round": 26
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 29,
+      "image": "slides/yellow/slide-029.png",
+      "image_sha256": "9b975c161e0bd753f7ec743956a977a4a8c9d6c1db05ee5353de17cce7eb93ad",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 155,
+      "center_time_seconds": 462,
+      "team_slide_index": 26,
+      "color_round": 26
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 26,
+      "image": "slides/pink/slide-26.png",
+      "image_sha256": "c35b96aa904c650a3486d57bbaea42e98c29c3252948c21d7a1691f116ad00c8",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 156,
+      "center_time_seconds": 465,
+      "team_slide_index": 26,
+      "color_round": 26
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 27,
+      "image": "slides/green/slide-27.png",
+      "image_sha256": "4b41b947985b05f024b7b11faa994e1576bdebb0f99429c91ce7295334800ddb",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 157,
+      "center_time_seconds": 468,
+      "team_slide_index": 27,
+      "color_round": 27
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 27,
+      "image": "slides/purple/slide-27.png",
+      "image_sha256": "da052fc3b07c3c4aac9044ece6f9f3bc95ee89a8ab12bed73173f35f7652fa94",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 158,
+      "center_time_seconds": 471,
+      "team_slide_index": 27,
+      "color_round": 27
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 27,
+      "image": "slides/red/slide-27.png",
+      "image_sha256": "4d7122eca1af9328deadaf16db58964d32a88827bf21b82b5fc33e4041acef6e",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 159,
+      "center_time_seconds": 474,
+      "team_slide_index": 27,
+      "color_round": 27
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 27,
+      "image": "slides/blue/slide-27.png",
+      "image_sha256": "f8aba867b7030d14c680698623a340d34fbcfc7badc4de29d5d200880c3fe91a",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 160,
+      "center_time_seconds": 477,
+      "team_slide_index": 27,
+      "color_round": 27
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 30,
+      "image": "slides/yellow/slide-030.png",
+      "image_sha256": "fde9ae9c0aca88c679446299ee8db0ee2cba2f327a549a2191ed4e0b96f007fe",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 161,
+      "center_time_seconds": 480,
+      "team_slide_index": 27,
+      "color_round": 27
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 27,
+      "image": "slides/pink/slide-27.png",
+      "image_sha256": "50c47b8983e053248bd94dc1f788748f7bb3933ca2634482e19202c5dad53633",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 162,
+      "center_time_seconds": 483,
+      "team_slide_index": 27,
+      "color_round": 27
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 28,
+      "image": "slides/green/slide-28.png",
+      "image_sha256": "6aaa0ab9d39b6dfb2d74c72b2f50fe930cb83d34933d2c5bf137189f8d8653ee",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 163,
+      "center_time_seconds": 486,
+      "team_slide_index": 28,
+      "color_round": 28
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 28,
+      "image": "slides/purple/slide-28.png",
+      "image_sha256": "d78cfb19599da7bae76d1b30975aa9a747f01c6865f0438cba6ffe8737db3a4c",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 164,
+      "center_time_seconds": 489,
+      "team_slide_index": 28,
+      "color_round": 28
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 28,
+      "image": "slides/red/slide-28.png",
+      "image_sha256": "3d5a6cfba21f699d95ac35c6dc16e3209d6ae3cfc3caca345b3c47d7233d4ad1",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 165,
+      "center_time_seconds": 492,
+      "team_slide_index": 28,
+      "color_round": 28
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 28,
+      "image": "slides/blue/slide-28.png",
+      "image_sha256": "44e993ac223499b0ea3f2716e2e8d3d3628f190cf1c939fce7ab3e8c67ec4021",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 166,
+      "center_time_seconds": 495,
+      "team_slide_index": 28,
+      "color_round": 28
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 31,
+      "image": "slides/yellow/slide-031.png",
+      "image_sha256": "32c7089c0298cb5fd400446ba2d88d52ef343bf2f8d29c5d6bf23fa400e44927",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 167,
+      "center_time_seconds": 498,
+      "team_slide_index": 28,
+      "color_round": 28
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 28,
+      "image": "slides/pink/slide-28.png",
+      "image_sha256": "9fe796191431d1ba1c641464e39ebfc3c14a0356b2d7dedfb6a9b1b3720a0753",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 168,
+      "center_time_seconds": 501,
+      "team_slide_index": 28,
+      "color_round": 28
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 29,
+      "image": "slides/green/slide-29.png",
+      "image_sha256": "138d7c5ae1188650706a937e2ca6ca1bfd812b7916e2a257465d744c0c5d0633",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 169,
+      "center_time_seconds": 504,
+      "team_slide_index": 29,
+      "color_round": 29
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 29,
+      "image": "slides/purple/slide-29.png",
+      "image_sha256": "692f5fe590b8a96d69d079a0f7288456bb490e42719ed73bb5dbf65d67b5391b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 170,
+      "center_time_seconds": 507,
+      "team_slide_index": 29,
+      "color_round": 29
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 29,
+      "image": "slides/red/slide-29.png",
+      "image_sha256": "c8f4da6878751b332831e17e61db1d2cd3a94c400bab5d4bc66d5343d06396a4",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 171,
+      "center_time_seconds": 510,
+      "team_slide_index": 29,
+      "color_round": 29
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 29,
+      "image": "slides/blue/slide-29.png",
+      "image_sha256": "e404598cf1588590567e0057379aaeba4b099f72659df8d1206e8780c1d4fdb8",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 172,
+      "center_time_seconds": 513,
+      "team_slide_index": 29,
+      "color_round": 29
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 32,
+      "image": "slides/yellow/slide-032.png",
+      "image_sha256": "a7d6ad49aa41f65b22bab935abdaf102d6eefb075e7a75b4a22b533968b287d1",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 173,
+      "center_time_seconds": 516,
+      "team_slide_index": 29,
+      "color_round": 29
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 29,
+      "image": "slides/pink/slide-29.png",
+      "image_sha256": "50bc597ee6421aac35150b1062a20fbff77f6554499ffce5347ff9505e8ae4c5",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 174,
+      "center_time_seconds": 519,
+      "team_slide_index": 29,
+      "color_round": 29
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 30,
+      "image": "slides/green/slide-30.png",
+      "image_sha256": "7fa442f65824c6abc2c21070393ce602b0c2450920b1f669d42170b80780ba50",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 175,
+      "center_time_seconds": 522,
+      "team_slide_index": 30,
+      "color_round": 30
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 30,
+      "image": "slides/purple/slide-30.png",
+      "image_sha256": "057a4c5655b8805101df4d28f7eea2c7eabf672d6cb75cee6d40144313f5696b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 176,
+      "center_time_seconds": 525,
+      "team_slide_index": 30,
+      "color_round": 30
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 30,
+      "image": "slides/red/slide-30.png",
+      "image_sha256": "0ea70c8bcfaf6f446c1d3103bc4305204227f4edb68daaea7a11150f0b6e38e6",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 177,
+      "center_time_seconds": 528,
+      "team_slide_index": 30,
+      "color_round": 30
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 30,
+      "image": "slides/blue/slide-30.png",
+      "image_sha256": "d6664acf5d2e641c90c2c4242e74740443079ad6628b73f49240ef1dc117e419",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 178,
+      "center_time_seconds": 531,
+      "team_slide_index": 30,
+      "color_round": 30
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 33,
+      "image": "slides/yellow/slide-033.png",
+      "image_sha256": "011b0466e630e87c34b605ca5aa82adb90b7fd66722580f046c140f4dc385531",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 179,
+      "center_time_seconds": 534,
+      "team_slide_index": 30,
+      "color_round": 30
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 30,
+      "image": "slides/pink/slide-30.png",
+      "image_sha256": "9de5c111cde4c645461f2a7a354dac6e60912724272eab8a93ce08fa01174b3b",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 180,
+      "center_time_seconds": 537,
+      "team_slide_index": 30,
+      "color_round": 30
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 31,
+      "image": "slides/green/slide-31.png",
+      "image_sha256": "7a259fd87fd9760e19c1e20d4fb156c7007777bc74b106a2028409111d1b0a46",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 181,
+      "center_time_seconds": 540,
+      "team_slide_index": 31,
+      "color_round": 31
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 31,
+      "image": "slides/purple/slide-31.png",
+      "image_sha256": "f8e9723310dde9f3e123729307bed223a2a902a426d65f30e5f30272e6deb31e",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 182,
+      "center_time_seconds": 543,
+      "team_slide_index": 31,
+      "color_round": 31
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 31,
+      "image": "slides/red/slide-31.png",
+      "image_sha256": "4bd0345f8a3044f141e4d5a17a7201ac7c42d0255a9d96da92c2e23018496fb4",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 183,
+      "center_time_seconds": 546,
+      "team_slide_index": 31,
+      "color_round": 31
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "source/blueteamt25_LATE_157747_6910354_Blue Team Feasibility Milestone.pdf",
+      "source_page": 31,
+      "image": "slides/blue/slide-31.png",
+      "image_sha256": "ab6d9f8c8b7e2fd1a89c98778010d28c9f9067ced17a1f6e9e4e201c15365f47",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 184,
+      "center_time_seconds": 549,
+      "team_slide_index": 31,
+      "color_round": 31
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 34,
+      "image": "slides/yellow/slide-034.png",
+      "image_sha256": "8b67672d1aaa0fd7bfc49045e898a24318d65c9a1e500859573d769a6530816f",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 185,
+      "center_time_seconds": 552,
+      "team_slide_index": 31,
+      "color_round": 31
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 31,
+      "image": "slides/pink/slide-31.png",
+      "image_sha256": "1feb35277778539ed8b706ebe28aa15ddfcd79ff4e4eea224545d8cf9b8d0771",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 186,
+      "center_time_seconds": 555,
+      "team_slide_index": 31,
+      "color_round": 31
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 32,
+      "image": "slides/green/slide-32.png",
+      "image_sha256": "d4708149753a2edbcb4f8d7cc3903102c3969318720cc911e7d468ee1b7f46ca",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 187,
+      "center_time_seconds": 558,
+      "team_slide_index": 32,
+      "color_round": 32
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 32,
+      "image": "slides/purple/slide-32.png",
+      "image_sha256": "b360531fa5e4ad4867ec0371762daa9c7440e1f7a5bf35725c460660be6aeb74",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 188,
+      "center_time_seconds": 561,
+      "team_slide_index": 32,
+      "color_round": 32
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 32,
+      "image": "slides/red/slide-32.png",
+      "image_sha256": "987fb3be5aacb32339fc953ff4d538196fc1183fcb13cc88118141c99e654f46",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 189,
+      "center_time_seconds": 564,
+      "team_slide_index": 32,
+      "color_round": 32
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "pdf/Feasilbility Student Feedback Forms 2026.pdf",
+      "source_page": 35,
+      "image": "slides/yellow/slide-035.png",
+      "image_sha256": "0641a954491e7159fee9f339932dbcfc83721fc9ac82f72f819664d87840a473",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 190,
+      "center_time_seconds": 567,
+      "team_slide_index": 32,
+      "color_round": 32
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 32,
+      "image": "slides/pink/slide-32.png",
+      "image_sha256": "bbe74d08ec6d7dbaeea6561b1b911ff907ec49f1a831c7dc0b3ce4daa5802941",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 191,
+      "center_time_seconds": 570,
+      "team_slide_index": 32,
+      "color_round": 32
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 33,
+      "image": "slides/green/slide-33.png",
+      "image_sha256": "f97037619e0c6d297942eeff34e3ec72f5c9d06afd7cce25ed36a8066794bd91",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 192,
+      "center_time_seconds": 573,
+      "team_slide_index": 33,
+      "color_round": 33
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 33,
+      "image": "slides/purple/slide-33.png",
+      "image_sha256": "9c98a2995011f42370f46f415d870b4b3737386f5c2a161f66f489222b8ac7e5",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 193,
+      "center_time_seconds": 576,
+      "team_slide_index": 33,
+      "color_round": 33
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 33,
+      "image": "slides/red/slide-33.png",
+      "image_sha256": "4c8d294bcd9bbee03dba6140662e10bc09469dc7f9cdb1023f4df01989dfedda",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 194,
+      "center_time_seconds": 579,
+      "team_slide_index": 33,
+      "color_round": 33
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 33,
+      "image": "slides/pink/slide-33.png",
+      "image_sha256": "d8d2b11aecb79dbb7477c72552e88d3ae6633bce9b256803f89b3d4a5fa92aeb",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 195,
+      "center_time_seconds": 582,
+      "team_slide_index": 33,
+      "color_round": 33
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 34,
+      "image": "slides/green/slide-34.png",
+      "image_sha256": "e4281fe07d62ab7e886ffc5c9c80f086e2ca49ee96ce3dab1498bdc3e2d15c14",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 196,
+      "center_time_seconds": 585,
+      "team_slide_index": 34,
+      "color_round": 34
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 34,
+      "image": "slides/purple/slide-34.png",
+      "image_sha256": "c9dd5f47ce36292233a78f287d2b1c89d8ef7a8949369e971baa8e389f3c5bb7",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 197,
+      "center_time_seconds": 588,
+      "team_slide_index": 34,
+      "color_round": 34
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 34,
+      "image": "slides/red/slide-34.png",
+      "image_sha256": "6361c50e57bfde9d37eea4edc5afb023504b6b5726d8130c79db1159caed13ee",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 198,
+      "center_time_seconds": 591,
+      "team_slide_index": 34,
+      "color_round": 34
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 34,
+      "image": "slides/pink/slide-34.png",
+      "image_sha256": "d70ef65df1cc5cfcc927815502ef5867dda410e4eac84a180d4945a2194d2634",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 199,
+      "center_time_seconds": 594,
+      "team_slide_index": 34,
+      "color_round": 34
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 35,
+      "image": "slides/green/slide-35.png",
+      "image_sha256": "2b29825fa66f626b0f45d9b9f7bcaf994f99b787fb2367d4b5054e50e682187b",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 200,
+      "center_time_seconds": 597,
+      "team_slide_index": 35,
+      "color_round": 35
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 35,
+      "image": "slides/purple/slide-35.png",
+      "image_sha256": "ff476f56694835f85a6f4cd5bb611b2ef576a653e0ef809d5b97b2525862074c",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 201,
+      "center_time_seconds": 600,
+      "team_slide_index": 35,
+      "color_round": 35
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 35,
+      "image": "slides/red/slide-35.png",
+      "image_sha256": "c8430b3e65a14c7437c56aa47ed165eaff365038e09249619025a8afaf02dbf4",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 202,
+      "center_time_seconds": 603,
+      "team_slide_index": 35,
+      "color_round": 35
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 35,
+      "image": "slides/pink/slide-35.png",
+      "image_sha256": "9dcdf7e47c2245a41c5cd7f41396d5e7067edcf3438a1be8f19c1a4288bb88b0",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 203,
+      "center_time_seconds": 606,
+      "team_slide_index": 35,
+      "color_round": 35
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 36,
+      "image": "slides/green/slide-36.png",
+      "image_sha256": "1637cda9d77c687afbde8fa3ad6f8e176fa1216a410f091b59b678f4486c2775",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 204,
+      "center_time_seconds": 609,
+      "team_slide_index": 36,
+      "color_round": 36
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 36,
+      "image": "slides/purple/slide-36.png",
+      "image_sha256": "8300ce8a7bc58be6ce8218099339aeb0dc3d960ec75b809ce1684d53fd3e5adf",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 205,
+      "center_time_seconds": 612,
+      "team_slide_index": 36,
+      "color_round": 36
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 36,
+      "image": "slides/red/slide-36.png",
+      "image_sha256": "8869ef8ec9ac49028314dbe9e501d72a9c43620c9af1e8793dba949a68c17d68",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 206,
+      "center_time_seconds": 615,
+      "team_slide_index": 36,
+      "color_round": 36
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 36,
+      "image": "slides/pink/slide-36.png",
+      "image_sha256": "be6059680f7698612e6ae7a17b7f1d5c6ab021fe2c4b421c4b6e4c5781757752",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 207,
+      "center_time_seconds": 618,
+      "team_slide_index": 36,
+      "color_round": 36
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 37,
+      "image": "slides/green/slide-37.png",
+      "image_sha256": "c3e671a7acb939d2950be01022193c89baeffd39ad69864dc51af927e7d44025",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 208,
+      "center_time_seconds": 621,
+      "team_slide_index": 37,
+      "color_round": 37
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 37,
+      "image": "slides/purple/slide-37.png",
+      "image_sha256": "bc8d733bc97b7caef927f0efe3deae03b08e17a1c6697f7bb693a6f482f7f152",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 209,
+      "center_time_seconds": 624,
+      "team_slide_index": 37,
+      "color_round": 37
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 37,
+      "image": "slides/red/slide-37.png",
+      "image_sha256": "a26d3d6a368120c465cc364f1b387ab69fbb9d015d4443a144efe55d6d1f39a1",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 210,
+      "center_time_seconds": 627,
+      "team_slide_index": 37,
+      "color_round": 37
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "source/pinkteamt25_LATE_157188_6910174_Pink Team Feasibility Analysis (2).pdf",
+      "source_page": 37,
+      "image": "slides/pink/slide-37.png",
+      "image_sha256": "3273b77197571a83b05ba65979daa0d8e3a527d40d8d976eec16abef83737500",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 211,
+      "center_time_seconds": 630,
+      "team_slide_index": 37,
+      "color_round": 37
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 38,
+      "image": "slides/green/slide-38.png",
+      "image_sha256": "a42ca4b620363c1b41acc2d31d88160437d2f60d35a0cddb8b572ea8c44f1f0f",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 212,
+      "center_time_seconds": 633,
+      "team_slide_index": 38,
+      "color_round": 38
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 38,
+      "image": "slides/purple/slide-38.png",
+      "image_sha256": "1f7b583b9e2a0e27fbc38c4822611219108de500935d3f20305a4381c89a3a5c",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 213,
+      "center_time_seconds": 636,
+      "team_slide_index": 38,
+      "color_round": 38
+    },
+    {
+      "color": "Red",
+      "source_pdf": "source/redteamm25_199604_6899984_Red Team Feasibility Analysis.pdf",
+      "source_page": 38,
+      "image": "slides/red/slide-38.png",
+      "image_sha256": "22dabe5c0e8cf5334b2822a0b1d2471dd8c68cf73ab47e61e4aaa4bf2778b1c2",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 214,
+      "center_time_seconds": 639,
+      "team_slide_index": 38,
+      "color_round": 38
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 39,
+      "image": "slides/green/slide-39.png",
+      "image_sha256": "a442d1022b5268c93c3b0b1923d06de500a8541fc115ce87b1300c41e4eba263",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 215,
+      "center_time_seconds": 642,
+      "team_slide_index": 39,
+      "color_round": 39
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 39,
+      "image": "slides/purple/slide-39.png",
+      "image_sha256": "f2b154b8311d20f682d5c3d6d695452a2bb80b736cbfb1b72be476e0338333a7",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 216,
+      "center_time_seconds": 645,
+      "team_slide_index": 39,
+      "color_round": 39
+    },
+    {
+      "color": "Green",
+      "source_pdf": "source/greenteamt912_156864_6900008_Green Team Feasibility.pdf",
+      "source_page": 40,
+      "image": "slides/green/slide-40.png",
+      "image_sha256": "4e486e62372fca882d4d31bf3e9a8bdf88d67e5274b7abe00e6396e58b2a7db9",
+      "image_size": [
+        1920,
+        1080
+      ],
+      "index": 217,
+      "center_time_seconds": 648,
+      "team_slide_index": 40,
+      "color_round": 40
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 40,
+      "image": "slides/purple/slide-40.png",
+      "image_sha256": "654707c0395fa7f1b55d6799094b93b9e9ce814d17a4da2f8d2d6de3b2fa59bc",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 218,
+      "center_time_seconds": 651,
+      "team_slide_index": 40,
+      "color_round": 40
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 41,
+      "image": "slides/purple/slide-41.png",
+      "image_sha256": "6388d8140eec64337b9c082bc314de8b7be03a142b2522d02ccd122b73fad98d",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 219,
+      "center_time_seconds": 654,
+      "team_slide_index": 41,
+      "color_round": 41
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 42,
+      "image": "slides/purple/slide-42.png",
+      "image_sha256": "560fe45614e753f58a311bacd71d9a383837cf335f5877d0ba33f3ed2ffd399a",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 220,
+      "center_time_seconds": 657,
+      "team_slide_index": 42,
+      "color_round": 42
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 43,
+      "image": "slides/purple/slide-43.png",
+      "image_sha256": "b4db650764213772fb66ce76d1e3cff83250e4c76987da527c9bbd7660248e49",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 221,
+      "center_time_seconds": 660,
+      "team_slide_index": 43,
+      "color_round": 43
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 44,
+      "image": "slides/purple/slide-44.png",
+      "image_sha256": "1d05e3096bbc6f9041e1eebc030311438585425f98fde5a8e59ee321337af38d",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 222,
+      "center_time_seconds": 663,
+      "team_slide_index": 44,
+      "color_round": 44
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 45,
+      "image": "slides/purple/slide-45.png",
+      "image_sha256": "9ced2d22a83a7d8a35226400aaf407b6346865e32730b754d183af7dc5d483a7",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 223,
+      "center_time_seconds": 666,
+      "team_slide_index": 45,
+      "color_round": 45
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 46,
+      "image": "slides/purple/slide-46.png",
+      "image_sha256": "630203284bd57504daeba9e4ae8b1be595113f8e4de642e7c0b28885926c3aec",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 224,
+      "center_time_seconds": 669,
+      "team_slide_index": 46,
+      "color_round": 46
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 47,
+      "image": "slides/purple/slide-47.png",
+      "image_sha256": "8aeba21e21d2b8f8b0ba8cfcc32d19888076712d6e45bd58efa333b2393e14f4",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 225,
+      "center_time_seconds": 672,
+      "team_slide_index": 47,
+      "color_round": 47
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 48,
+      "image": "slides/purple/slide-48.png",
+      "image_sha256": "c1056693f91b3bdf9b9c3f1fb229e2db84ba1a47e75d951951f746a46f9af53e",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 226,
+      "center_time_seconds": 675,
+      "team_slide_index": 48,
+      "color_round": 48
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 49,
+      "image": "slides/purple/slide-49.png",
+      "image_sha256": "371d944ac7e67f2edc2ec792eaaf2c1bbc38e969e646e8c68a821625beda4ab3",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 227,
+      "center_time_seconds": 678,
+      "team_slide_index": 49,
+      "color_round": 49
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 50,
+      "image": "slides/purple/slide-50.png",
+      "image_sha256": "54468caa8493d88d88fb973c599710135246d5f2f4776b0ee39f38571b07fa66",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 228,
+      "center_time_seconds": 681,
+      "team_slide_index": 50,
+      "color_round": 50
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf",
+      "source_page": 51,
+      "image": "slides/purple/slide-51.png",
+      "image_sha256": "b4e92ac95a8732474906f94f9feaff6f038c89770230cee9239cd3f2f7e2a1bd",
+      "image_size": [
+        1920,
+        1081
+      ],
+      "index": 229,
+      "center_time_seconds": 684,
+      "team_slide_index": 51,
+      "color_round": 51
+    }
+  ],
+  "selection_notes": [
+    "Each team submission included once; paired PowerPoint/PDF exports use the submitted PDF.",
+    "Yellow project slides 4–35 from the feedback deck duplicate the legacy PPT project content, confirmed by extracted text; bundled renderer cannot open that legacy PPT.",
+    "The ZIP supplies complete Green, Purple, Red, Blue and Pink decks, including appendix slides and progressive diagrams.",
+    "Classroom introduction, seating instructions, blank separators and feedback cards omitted.",
+    "Two Yellow CAD GIF illustrations use original frame 171; slide-to-PDF export omitted those illustrations. Embedded slide media otherwise appear as their supplied poster frames.",
+    "Revision 2: alternate teams; upcoming slides enter from the right, with source pages progressing forward. Each source slide appears once; teams drop out when finished."
+  ],
+  "input_zip_sha256": "678ae0403cdcb6a3c25ca9d4d2345268dc8cb6f5983d8a0618dd39ec8ad4783b",
+  "rendered_pdf_sha256": {
+    "pdf/Feasilbility Student Feedback Forms 2026.pdf": "786823c0cb19eafd1c791b8074a1c684273edddcd57150f7949e4d37f8f7e525",
+    "pdf/purpleteamw25_LATE_157340_6910155_Purple2026 Feasibility Analysis.pdf": "2ef9bff3a1add5bd50b67320efeaae896d9c00df2e5997d1508a4abe7eac1814"
+  },
+  "revision": 2,
+  "motion_direction": "right to left",
+  "rotation_mode": "once",
+  "unique_slide_count": 229
+}

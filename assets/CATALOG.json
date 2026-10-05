@@ -1262,19 +1262,19 @@
   {
     "number": 62,
     "title": "Feasibility slides — Curved carousel",
-    "description": "229 feasibility slides from all six teams, touching edge to edge and moving continuously left to right. Each team’s presentation stays together: Green → Purple → Red → Blue → Yellow → Pink. A new slide crosses the center every three seconds. Silent 11-minute, 27-second seamless loop. Duplicate submissions and classroom instructions are omitted.",
-    "file": "videos/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s.mp4",
+    "description": "Green → Purple → Red → Blue → Yellow → Pink, alternating every three seconds. Slides travel right to left in normal reading order, with each team’s pages progressing forward. Each slide appears once; teams leave the rotation as they finish. Full HD, silent, seamless loop.",
+    "file": "videos/MIT-2.009-Feasibility-Curved-Carousel-HD.mp4",
     "source_parts": [
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/001.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/002.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/003.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/004.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/005.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/006.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/007.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/008.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/009.bin",
-      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s/010.bin"
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/001.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/002.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/003.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/004.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/005.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/006.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/007.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/008.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/009.bin",
+      "video-parts/MIT-2.009-Feasibility-Curved-Carousel-HD-r2/010.bin"
     ],
     "seconds": 687,
     "dimensions": "1920 × 1080",
@@ -1298,14 +1298,18 @@
       "Pink": 37
     },
     "seconds_per_slide": 3,
-    "size_mb": 648.5,
+    "size_mb": 619.9,
     "online_url": "",
     "thumbnail": "previews/62.jpg",
-    "sha256": "8c4c96bb14c4559b24b24ca9b75a6d92bcd3b2b5d8d8fa197520ca87ea7eea6b",
+    "sha256": "ca08c8272080e9338c279a5ef043556cf9a9d9788db022f971b437e3196f7549",
     "fps": 60,
     "codec": "H.264",
     "audio": "Silent",
     "fast_start": true,
-    "loop": true
+    "loop": true,
+    "revision": 2,
+    "unique_slide_count": 229,
+    "rotation_mode": "once",
+    "motion_direction": "right to left"
   }
 ]

@@ -119,7 +119,8 @@ if feasibility_numbers:
         'Feasibility carousel',
         'The six teams’ feasibility slides in a continuous, silent loop. '
         'A new slide passes the center every three seconds. '
-        'Team presentations stay together in Green → Purple → Red → Blue → Yellow → Pink order.',
+        'Green → Purple → Red → Blue → Yellow → Pink, alternating as each team’s pages advance. '
+        'Slides enter from the right. Finished teams leave the rotation.',
         feasibility_numbers,
         '<nav aria-label="Collections"><a href="/feasibility/" aria-current="page">Feasibility carousel</a>'
         '<a href="/posters/">Lecture posters</a><a href="/tests/">All Tests</a></nav>')

@@ -80,8 +80,8 @@ test('lecture loops retain all 36 posters, requested timing, color sequence, and
 
 test('the feasibility share page loops the complete three-second slide sequence without changing Selects', async () => {
   const record = catalog.find(r => r.number === 62);
-  const sequence = JSON.parse(await readFile(new URL('../assets/production-notes/feasibility-carousel-2026-10-05/sequence.json', import.meta.url)));
-  const verification = JSON.parse(await readFile(new URL('../assets/production-notes/feasibility-carousel-2026-10-05/verification.json', import.meta.url)));
+  const sequence = JSON.parse(await readFile(new URL('../assets/production-notes/feasibility-carousel-2026-10-05-r2/sequence.json', import.meta.url)));
+  const verification = JSON.parse(await readFile(new URL('../assets/production-notes/feasibility-carousel-2026-10-05-r2/verification.json', import.meta.url)));
   assert.equal(record.slide_count, 229);
   assert.equal(record.seconds_per_slide, 3);
   assert.equal(record.seconds, 687);
@@ -93,6 +93,23 @@ test('the feasibility share page loops the complete three-second slide sequence 
   assert.equal(verification.sha256, record.sha256);
   assert.equal(verification.all_center_crossings_checked, 229);
   assert.equal(verification.full_decode_errors, 0);
+  assert.equal(record.revision, 2);
+  assert.equal(record.rotation_mode, 'once');
+  assert.equal(record.motion_direction, 'right to left');
+  assert.equal(verification.forward_page_order, true);
+  assert.ok(verification.measured_horizontal_motion_px < 0);
+  const colors = ['Green', 'Purple', 'Red', 'Blue', 'Yellow', 'Pink'];
+  const expectedColors = [];
+  for (let round = 0; round < 51; round++) {
+    for (const color of colors) if (round < sequence.team_counts[color]) expectedColors.push(color);
+  }
+  assert.deepEqual(sequence.slides.map(s => s.color), expectedColors);
+  for (const color of colors) {
+    const pages = sequence.slides.filter(s => s.color === color).map(s => s.source_page);
+    assert.deepEqual(pages, [...pages].sort((a, b) => a - b));
+  }
+  const config = JSON.parse(await readFile(new URL('../vercel.json', import.meta.url)));
+  assert.ok(config.redirects.some(r => r.source === '/videos/MIT-2.009-Feasibility-Curved-Carousel-229-Slides-687s.mp4' && r.destination === '/' + record.file));
   const page = await readFile(new URL('feasibility/index.html', site), 'utf8');
   assert.deepEqual([...page.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), [62]);
   assert.match(page, /<video id="player-62"[^>]* loop>/);
