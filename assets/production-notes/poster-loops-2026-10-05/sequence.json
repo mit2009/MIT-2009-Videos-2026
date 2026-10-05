@@ -1,0 +1,633 @@
+{
+  "date": "2026-10-05",
+  "source_zip": "submissions.zip",
+  "source_zip_sha256": "5db938d64a38d75f01856edf8dbfa1b4cda277f4c62f3046046b2750ef4dbe54",
+  "color_cycle": [
+    "Green",
+    "Purple",
+    "Red",
+    "Blue",
+    "Yellow",
+    "Pink"
+  ],
+  "seconds_per_poster": 5,
+  "duration_seconds": 180,
+  "poster_count": 36,
+  "audio": "Silent",
+  "motion": "Continuous left to right; new poster crosses center every 5 seconds",
+  "selection_notes": "Use BubblegumSixOpps six-page consolidated Pink team export, including finished Pink Panther 1-3 and Bubblegum 4-6. Exclude duplicate BubblegumThreeOpps and PinkPantherSixOpps draft/template export.",
+  "posters": [
+    {
+      "color": "Green",
+      "source_pdf": "seagreen_175423_6857867_SeaGreenSixOpps.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 1,
+      "image": "posters/01-green.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "2a19e34b6616675658a896503a5ca06bc158d8972e9d65c5a6b889d56c6ea428",
+      "source_sha256": "143a02eaa7d3895fb75a0074628f0124eb46c92363c234b64beafd0c849ab1ee"
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "purplehaze_157340_6857937_PurpleHazeSixOpps.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        2400.0,
+        3600.0
+      ],
+      "number": 2,
+      "image": "posters/02-purple.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "6157c86f28fc80d49856c1bdcfacad937698718cec9341de7c07ce32bcc0abed",
+      "source_sha256": "d16d77b47b68082bba5816a2a040375efbb5ed2ecc8ab64738befdc2b904b9c6"
+    },
+    {
+      "color": "Red",
+      "source_pdf": "fireengine_157284_6857450_FireEngineThreeOpps.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 3,
+      "image": "posters/03-red.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "ca249a70e092fad7f34f507fb4e48aa7bc5f00254b03e8fb3e29e39eb6224876",
+      "source_sha256": "2b65c10223a83253a23ca7b3e648f914c92e5c8a3ca530ce5c07f37fe4fc18f7"
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "cobalt_157747_6858401_CobaltSixOpps-1.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.000001
+      ],
+      "number": 4,
+      "image": "posters/04-blue.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "a1ea72faf3f813ed9faeb0bcaab2cd9902be211eedc918916e72bfd922735b8d",
+      "source_sha256": "d5893bf6f3811aefa43a69ef873a1bba4e460a881d7e75cb93cf0bb176acd470"
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "taxicab_156837_6859067_TaxicabSixOpps.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 5,
+      "image": "posters/05-yellow.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "4436de04bbd257b61c979ebc7c4bc67c9d4e13bf4458b0d1eb20810b5a7b268f",
+      "source_sha256": "62bcf3dda7883c024436752bd266d83f1ef989cd16933b969376d4db47242a81"
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "bubblegum_157188_6857952_BubblegumSixOpps-1.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 6,
+      "image": "posters/06-pink.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "7619df60917eb580775fa5de6d05da7105a4b38e5b1c070f488b71f450c41908",
+      "source_sha256": "cac240a9c3df217ac974787e844139ad51b2bb183f8618d7761f7e614bc10f47"
+    },
+    {
+      "color": "Green",
+      "source_pdf": "seagreen_175423_6857867_SeaGreenSixOpps.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 7,
+      "image": "posters/07-green.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "807d3cc6e976b10edc8c477894bff0e5a4fac601b97c513edc3571f8bfb4a057",
+      "source_sha256": "143a02eaa7d3895fb75a0074628f0124eb46c92363c234b64beafd0c849ab1ee"
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "purplehaze_157340_6857937_PurpleHazeSixOpps.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        2400.0,
+        3600.0
+      ],
+      "number": 8,
+      "image": "posters/08-purple.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "a7cbcf0a512778484da02758d461a8619434707864914ddb361c259584aa5117",
+      "source_sha256": "d16d77b47b68082bba5816a2a040375efbb5ed2ecc8ab64738befdc2b904b9c6"
+    },
+    {
+      "color": "Red",
+      "source_pdf": "fireengine_157284_6857450_FireEngineThreeOpps.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 9,
+      "image": "posters/09-red.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "b33094355a688d12318a3637478d0629b73cafac5cdf1ac01d85c6121e25a9d6",
+      "source_sha256": "2b65c10223a83253a23ca7b3e648f914c92e5c8a3ca530ce5c07f37fe4fc18f7"
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "cobalt_157747_6858401_CobaltSixOpps-1.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.000001
+      ],
+      "number": 10,
+      "image": "posters/10-blue.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "cd900410ae605c845e3f8170079f618bd969838b072e396a749f9425d8a712de",
+      "source_sha256": "d5893bf6f3811aefa43a69ef873a1bba4e460a881d7e75cb93cf0bb176acd470"
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "taxicab_156837_6859067_TaxicabSixOpps.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 11,
+      "image": "posters/11-yellow.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "0b887cc929ca14b22f0035041b6437ce931ff0d6c87e69658dbafe952c79ffa7",
+      "source_sha256": "62bcf3dda7883c024436752bd266d83f1ef989cd16933b969376d4db47242a81"
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "bubblegum_157188_6857952_BubblegumSixOpps-1.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 12,
+      "image": "posters/12-pink.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "ad285ac24e86763a0b450cd0a9910a97f448738f2d1e638412b5f3bd75590555",
+      "source_sha256": "cac240a9c3df217ac974787e844139ad51b2bb183f8618d7761f7e614bc10f47"
+    },
+    {
+      "color": "Green",
+      "source_pdf": "seagreen_175423_6857867_SeaGreenSixOpps.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 13,
+      "image": "posters/13-green.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "00a082e7369be17dbea3fc9f1a64cc8e5aa08213fa3ad8b990017d9bdc0a6f5e",
+      "source_sha256": "143a02eaa7d3895fb75a0074628f0124eb46c92363c234b64beafd0c849ab1ee"
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "purplehaze_157340_6857937_PurpleHazeSixOpps.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        2400.0,
+        3600.0
+      ],
+      "number": 14,
+      "image": "posters/14-purple.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "5085e016b494151a5bfe8ccd55403800a5d0554f7fe8800722a133ee4e1402f2",
+      "source_sha256": "d16d77b47b68082bba5816a2a040375efbb5ed2ecc8ab64738befdc2b904b9c6"
+    },
+    {
+      "color": "Red",
+      "source_pdf": "fireengine_157284_6857450_FireEngineThreeOpps.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 15,
+      "image": "posters/15-red.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "23778988ad1b63f417092eefb4b4b89c505dd74432211d2813c5cfcbb8d04130",
+      "source_sha256": "2b65c10223a83253a23ca7b3e648f914c92e5c8a3ca530ce5c07f37fe4fc18f7"
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "cobalt_157747_6858401_CobaltSixOpps-1.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.000001
+      ],
+      "number": 16,
+      "image": "posters/16-blue.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "598417404191631743ff0ae3c77c95c0ac988116c93fd63bf110e22143051477",
+      "source_sha256": "d5893bf6f3811aefa43a69ef873a1bba4e460a881d7e75cb93cf0bb176acd470"
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "taxicab_156837_6859067_TaxicabSixOpps.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 17,
+      "image": "posters/17-yellow.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "97283cc5ef4291cd2e004fcc647ab7cee6ca3ba0efabbeb9323a5386c42e5512",
+      "source_sha256": "62bcf3dda7883c024436752bd266d83f1ef989cd16933b969376d4db47242a81"
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "bubblegum_157188_6857952_BubblegumSixOpps-1.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 18,
+      "image": "posters/18-pink.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "c84c95bf9e292d19e111057b999a7d8b9ec44cf12abfd1685fab1413c0cac6b4",
+      "source_sha256": "cac240a9c3df217ac974787e844139ad51b2bb183f8618d7761f7e614bc10f47"
+    },
+    {
+      "color": "Green",
+      "source_pdf": "malachite_156864_6857823_MalachiteSixOpps.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 19,
+      "image": "posters/19-green.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "8a23d464974325312c891b4816c267d7f38737599b0edf9f2d9f42a4de13f675",
+      "source_sha256": "ec3a39f9edb138437ee34bb88aeb4e3795f224f64c7a1a131e6709a946ea121b"
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "twilight_156988_6858040_TwilightThreeOpps.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 20,
+      "image": "posters/20-purple.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "16ca1463d95d9e89886776d9f5ac0c11e94e9a21b824b61e7b875cd7b11aa570",
+      "source_sha256": "cc7edecf1ce11f752f77ef63f2932142634fb116035f5a68b613ae1a7983f11a"
+    },
+    {
+      "color": "Red",
+      "source_pdf": "poppy_199604_6857808_PoppyThreeOpps (2).pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 21,
+      "image": "posters/21-red.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "7b6a70939990dec26f2354395644130b0c9f7ca079558d12859365dcddbf6af2",
+      "source_sha256": "9fb0fcbbfb8a476330ac5a5a03c7b6511ffe637564456773804a3c24c7f5be4e"
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "sky_157571_6858320_SkySixOpps.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.000001
+      ],
+      "number": 22,
+      "image": "posters/22-blue.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "f738d04e05fa539c8ceba9f08e7061f45a8a6f53fff9c6c99200df405bbae13c",
+      "source_sha256": "535bc018dc473f3fee1b35034b60307979f43ac7b830388f2ddc13a8564195ed"
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "banana_154835_6857969_BananaSixOpps.pdf",
+      "source_page": 1,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 23,
+      "image": "posters/23-yellow.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "57ba14b59ae8468de371f87a46868dd8372111e1e8aeb3c14be59f499677e95a",
+      "source_sha256": "336a7e10d6907e1b50e8ddec5b4d2afb037db6178a07cbb5979dea067a3342a5"
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "bubblegum_157188_6857952_BubblegumSixOpps-1.pdf",
+      "source_page": 4,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 24,
+      "image": "posters/24-pink.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "a115e39636b2b3bbf44321de0b3848ee8b10b6529cb7008496b89e31b82b64cc",
+      "source_sha256": "cac240a9c3df217ac974787e844139ad51b2bb183f8618d7761f7e614bc10f47"
+    },
+    {
+      "color": "Green",
+      "source_pdf": "malachite_156864_6857823_MalachiteSixOpps.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 25,
+      "image": "posters/25-green.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "32b4e4944627334cf6550c427d998f314b8fed0b74240846464d8bdc1c1d8bcd",
+      "source_sha256": "ec3a39f9edb138437ee34bb88aeb4e3795f224f64c7a1a131e6709a946ea121b"
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "twilight_156988_6858040_TwilightThreeOpps.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 26,
+      "image": "posters/26-purple.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "4dc5485b66a24a44bc184088a7678c015711ed97088fb3fc7e9f874e04054344",
+      "source_sha256": "cc7edecf1ce11f752f77ef63f2932142634fb116035f5a68b613ae1a7983f11a"
+    },
+    {
+      "color": "Red",
+      "source_pdf": "poppy_199604_6857808_PoppyThreeOpps (2).pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 27,
+      "image": "posters/27-red.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "1e1170c39c5fcd7dd274066f5c1dc78d3126f538707f5065f13f6ce9db4238b9",
+      "source_sha256": "9fb0fcbbfb8a476330ac5a5a03c7b6511ffe637564456773804a3c24c7f5be4e"
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "sky_157571_6858320_SkySixOpps.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.000001
+      ],
+      "number": 28,
+      "image": "posters/28-blue.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "e4a3b8f4c0157a89d123373803758e8078ff4e093f5c0875721d35ad755d19d2",
+      "source_sha256": "535bc018dc473f3fee1b35034b60307979f43ac7b830388f2ddc13a8564195ed"
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "banana_154835_6857969_BananaSixOpps.pdf",
+      "source_page": 2,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 29,
+      "image": "posters/29-yellow.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "ed04622dc78d306afa181f70aa0ab1ce24331fdc80883fe1a1bf8adab1df581b",
+      "source_sha256": "336a7e10d6907e1b50e8ddec5b4d2afb037db6178a07cbb5979dea067a3342a5"
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "bubblegum_157188_6857952_BubblegumSixOpps-1.pdf",
+      "source_page": 5,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 30,
+      "image": "posters/30-pink.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "6dd6a0304480fdab612d9963107766526e0f9b38dc0d93e632a9cd4bb7f5785b",
+      "source_sha256": "cac240a9c3df217ac974787e844139ad51b2bb183f8618d7761f7e614bc10f47"
+    },
+    {
+      "color": "Green",
+      "source_pdf": "malachite_156864_6857823_MalachiteSixOpps.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 31,
+      "image": "posters/31-green.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "51c9924e2cd930763c875bdd14686dfd01f45c025ae7c405cea86761d0a12a2c",
+      "source_sha256": "ec3a39f9edb138437ee34bb88aeb4e3795f224f64c7a1a131e6709a946ea121b"
+    },
+    {
+      "color": "Purple",
+      "source_pdf": "twilight_156988_6858040_TwilightThreeOpps.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 32,
+      "image": "posters/32-purple.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "9c8a0469ef1a65ece817da283f4bd2dce451b192a009187408224bddcc61e1bd",
+      "source_sha256": "cc7edecf1ce11f752f77ef63f2932142634fb116035f5a68b613ae1a7983f11a"
+    },
+    {
+      "color": "Red",
+      "source_pdf": "poppy_199604_6857808_PoppyThreeOpps (2).pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 33,
+      "image": "posters/33-red.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "3d066d69bc45c967b4648cfdeaf3ab84b48550fb5fbf2099fc98340a8f9b8076",
+      "source_sha256": "9fb0fcbbfb8a476330ac5a5a03c7b6511ffe637564456773804a3c24c7f5be4e"
+    },
+    {
+      "color": "Blue",
+      "source_pdf": "sky_157571_6858320_SkySixOpps.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.000001
+      ],
+      "number": 34,
+      "image": "posters/34-blue.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "ddd85e2b7c3c4d38d069317b1bbdc46355e7a7f8d95ae80b1eb7cfebb99b6956",
+      "source_sha256": "535bc018dc473f3fee1b35034b60307979f43ac7b830388f2ddc13a8564195ed"
+    },
+    {
+      "color": "Yellow",
+      "source_pdf": "banana_154835_6857969_BananaSixOpps.pdf",
+      "source_page": 3,
+      "source_dimensions_pt": [
+        1728.0,
+        2592.0
+      ],
+      "number": 35,
+      "image": "posters/35-yellow.png",
+      "pixel_dimensions": [
+        1440,
+        2160
+      ],
+      "image_sha256": "0341d3f1c65ecf0999f5bad5f3b388829abe7d4ec13f9b1f754764732f5e2218",
+      "source_sha256": "336a7e10d6907e1b50e8ddec5b4d2afb037db6178a07cbb5979dea067a3342a5"
+    },
+    {
+      "color": "Pink",
+      "source_pdf": "bubblegum_157188_6857952_BubblegumSixOpps-1.pdf",
+      "source_page": 6,
+      "source_dimensions_pt": [
+        1800.0,
+        2699.9999975
+      ],
+      "number": 36,
+      "image": "posters/36-pink.png",
+      "pixel_dimensions": [
+        1441,
+        2160
+      ],
+      "image_sha256": "addd1c8c701472a792c5ad8e4c649dc08b10c70d60a5274a42175416fc566568",
+      "source_sha256": "cac240a9c3df217ac974787e844139ad51b2bb183f8618d7761f7e614bc10f47"
+    }
+  ]
+}

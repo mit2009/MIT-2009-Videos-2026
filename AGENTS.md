@@ -1,9 +1,9 @@
 # MIT 2.009 Videos 2026
 
-All Tests is the fifty-nine-video collection at https://26-mit-2009-videos.vercel.app/tests/.
+All Tests is the sixty-video collection at https://26-mit-2009-videos.vercel.app/tests/.
 Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /selects/ URL shows the same picks.
 
-- Preserve every catalog item numbered 1–59 unless requested otherwise.
+- Preserve every catalog item numbered 1–60 unless requested otherwise.
 - Use the names All Tests and Selects. Selects currently contains 1, 3, 6, 9, 20, 25, 38, 39, 40, and 41; change assets/SELECTS.json only when Danny changes his picks.
 - Both pages show newest first. Keep existing catalog numbers and MP4 URLs. The root URL must show only Selects; all experiments belong at /tests/. Selects must not link back to experiments.
 - Danny chose Disco D (Space Disco) for all four digital graphics, with the pink background glow changed to blue and slowly changing accents that settle on blue at the 12-second landing. Updated items 38–41 are in Selects. Keep their music identical in timing and volume; preserve earlier versions 30–37 in All Tests.
@@ -31,3 +31,5 @@ Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /select
 - Items 57–59 are the October 4 Finals invitation tests: 13, 15, and 17 seconds total. Same Pixel + Prism look and original 54-photo order. Land at 5, 7, and 9 seconds, celebrate for three seconds, transition through a one-second light tunnel, then hold a static Finals card for four seconds. Danny approved “MIT 2.009 FINALS · WATCH LIVE DEC 7” with no URL or time yet. All versions have an identical eight-second Disco D ending, extended by one two-second bar before the original resolution; tempo and gain stay unchanged. All Tests only.
 
 - Items 2, 4, 5, 7, 8, and 10–17 were restored on October 4 from the original September 24 archive at Danny’s request. Item 18 was already present. All Tests now has every number 1–59; keep the original bytes, numbers, and newest-first order. Earlier Lecture 1 display titles use the corrected 2025 Finals name. Selects is unchanged.
+
+- Item 60 is the first October 5 lecture poster loop; item 61 (carousel) is rendering: 36 complete posters, silent, 1920 × 1080 at 60 fps, 180 seconds. Continuous edge-to-edge movement left to right; center crossings every five seconds in the order Green, Purple, Red, Blue, Yellow, Pink. Both loop. Use the consolidated six-page Pink export, omitting duplicate and draft/template pages. The dedicated lecture link is /posters/, showing Flat ribbon then Curved carousel. These originals use ordered source_parts and complete SHA-256 verification so their published MP4s retain exact original quality. All Tests only.

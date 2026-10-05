@@ -1,0 +1,30 @@
+{
+  "source_poster_count": 36,
+  "color_cycle": [
+    "Green",
+    "Purple",
+    "Red",
+    "Blue",
+    "Yellow",
+    "Pink"
+  ],
+  "videos": {
+    "flat": {
+      "filename": "MIT-2.009-36-Posters-Flat-Ribbon-180s.mp4",
+      "sha256": "c2004e79b48a0d18a117727f8be8efab32b2b043fa28af508d44f4ab27792696",
+      "bytes": 166555290,
+      "duration": 180.0,
+      "frames": 10800,
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "audio_streams": 0,
+      "complete_decode": "passed",
+      "periodic_loop_closure": "exact",
+      "source_sequence": "36 original pages; 6 complete color cycles",
+      "motion": "left to right",
+      "seconds_per_center_crossing": 5,
+      "all_center_posters_pixel_verified": true
+    }
+  }
+}
