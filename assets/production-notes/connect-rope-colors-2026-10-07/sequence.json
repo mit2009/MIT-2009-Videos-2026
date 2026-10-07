@@ -1,0 +1,40 @@
+{
+  "number": 92,
+  "name": "Upward pull — six colors",
+  "slug": "MIT-2.009-Connect-Rope-Upward-Six-Colors-30s",
+  "kind": "pull",
+  "description": "The rope changes color with every photo: Green → Purple → Red → Blue → Yellow → Pink, then repeats. Photo halves connect, and the matching rope tightens and is pulled upward. Same ten photos with two-second clean holds.",
+  "title": "Connect photo tests — upward pull, six colors",
+  "size": [
+    1080,
+    1080
+  ],
+  "seconds": 30,
+  "fps": 60,
+  "audio": "Silent",
+  "added_text": false,
+  "photo_count": 10,
+  "photo_ids": [
+    "1498",
+    "0898",
+    "0670",
+    "1021",
+    "1196",
+    "1149",
+    "1491",
+    "1596",
+    "1527",
+    "1628"
+  ],
+  "assembly_seconds": 0.5,
+  "rope_exit_seconds": 0.5,
+  "hold_seconds": 2,
+  "color_cycle": [
+    "green",
+    "purple",
+    "red",
+    "blue",
+    "yellow",
+    "pink"
+  ]
+}

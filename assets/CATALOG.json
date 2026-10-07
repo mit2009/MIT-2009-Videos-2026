@@ -1963,5 +1963,39 @@
     "rope_exit_seconds": 0.5,
     "rope_exit": "pull",
     "full_bleed": true
+  },
+  {
+    "number": 92,
+    "title": "Connect photo tests — upward pull, six colors",
+    "description": "The rope changes color with every photo: Green → Purple → Red → Blue → Yellow → Pink, then repeats. Photo halves connect, and the matching rope tightens and is pulled upward. Same ten photos with two-second clean holds.",
+    "file": "videos/MIT-2.009-Connect-Rope-Upward-Six-Colors-30s.mp4",
+    "seconds": 30,
+    "dimensions": "1080 × 1080",
+    "format": "Square 1:1",
+    "photo_count": 10,
+    "size_mb": 10.6,
+    "online_url": "",
+    "thumbnail": "previews/92.jpg",
+    "sha256": "b5235f13afb81b6a4eb7c6fcf60f54024f387d117d9b9ce70cf7c6bd0b1ecfd8",
+    "fps": 60,
+    "codec": "H.264",
+    "audio": "Silent",
+    "fast_start": true,
+    "loop": true,
+    "collection": "connect-photo-strings",
+    "added_text": false,
+    "hold_seconds": 2,
+    "assembly_seconds": 0.5,
+    "rope_exit_seconds": 0.5,
+    "rope_exit": "pull",
+    "full_bleed": true,
+    "color_cycle": [
+      "green",
+      "purple",
+      "red",
+      "blue",
+      "yellow",
+      "pink"
+    ]
   }
 ]
