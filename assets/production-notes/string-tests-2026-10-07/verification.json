@@ -1,0 +1,290 @@
+[
+  {
+    "number": 69,
+    "sha256": "39915616f49c2e6ea80b71d0965026739311570cfe4a24074a7c0d1a742bb06e",
+    "bytes": 121390,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 0.3358650548696845,
+    "first_step_mean_pixel_difference": 0.33557927526291725,
+    "boundary_to_first_step_ratio": 1.0008516008819177,
+    "velocity_join_max_error_px_per_second": 3.410605131648481e-08,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 70,
+    "sha256": "baec2fb385b0ba72430945e4b7db3effcdfa900c75cddb14b37594f5c0da241b",
+    "bytes": 88785,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 0.41803583676268863,
+    "first_step_mean_pixel_difference": 0.4187525720164609,
+    "boundary_to_first_step_ratio": 0.9982884039366711,
+    "velocity_join_max_error_px_per_second": 4.547473508864641e-08,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 71,
+    "sha256": "cefca2965ee33a97e5f439229712ec9771a01b18f4a56e3061bcb8274fb47a4a",
+    "bytes": 578980,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 0.929266975308642,
+    "first_step_mean_pixel_difference": 0.9269944558756287,
+    "boundary_to_first_step_ratio": 1.0024514919356953,
+    "velocity_join_max_error_px_per_second": 4.547473508864641e-08,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 72,
+    "sha256": "be7397daae0115b4ccf53288ba29cb1a1ec97b0c7a57c0e9a8a95fd2159f31d9",
+    "bytes": 1187446,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 1.239931127114769,
+    "first_step_mean_pixel_difference": 1.2436411179698217,
+    "boundary_to_first_step_ratio": 0.9970168316233312,
+    "velocity_join_max_error_px_per_second": 0.003155111016894807,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 73,
+    "sha256": "b853ceaab70b83d14791da6275520c77177b640e570c0111f8606bff4e6b625c",
+    "bytes": 724889,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 1.2465620713305898,
+    "first_step_mean_pixel_difference": 1.2455418381344308,
+    "boundary_to_first_step_ratio": 1.0008191079295155,
+    "velocity_join_max_error_px_per_second": 1.1368683772161603e-08,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 74,
+    "sha256": "ccb9a7d64d2bcf53e4759f9ac469cc312eed9d05a975dcf5781c98d0ca3c85b1",
+    "bytes": 1020290,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 1.6545544695930499,
+    "first_step_mean_pixel_difference": 1.6704192386831276,
+    "boundary_to_first_step_ratio": 0.990502522526869,
+    "velocity_join_max_error_px_per_second": 0.003240359092160361,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 75,
+    "sha256": "5bd8bec4f09ca3e54e097b7c8a4e01445f6221d7de9ca7886297856900f31cb4",
+    "bytes": 471546,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 0.5859485025148605,
+    "first_step_mean_pixel_difference": 0.5801403177869228,
+    "boundary_to_first_step_ratio": 1.0100116894996962,
+    "velocity_join_max_error_px_per_second": 0.017021608300638036,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 76,
+    "sha256": "e329d6aab21bc35a294b06f7e99b442a83d411a196d66ac03d5c551449d69fdb",
+    "bytes": 1020267,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 0.5159662208504802,
+    "first_step_mean_pixel_difference": 0.5164957704618198,
+    "boundary_to_first_step_ratio": 0.9989747261417723,
+    "velocity_join_max_error_px_per_second": 0.005593960850092116,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 77,
+    "sha256": "e3367128a9d74eb64082bcd32754516a7efcba18c79eefaa4ecee474c058146c",
+    "bytes": 750270,
+    "seconds": 5,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 300,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "string_count": 1,
+    "endpoint_matches_first_frame": true,
+    "boundary_step_mean_pixel_difference": 0.5690294924554183,
+    "first_step_mean_pixel_difference": 0.5690117741197989,
+    "boundary_to_first_step_ratio": 1.0000311387855672,
+    "velocity_join_max_error_px_per_second": 0.0003069786203013791,
+    "local_browser_playback": {
+      "duration": 5,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  }
+]

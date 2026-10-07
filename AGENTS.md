@@ -1,9 +1,9 @@
 # MIT 2.009 Videos 2026
 
-All Tests is the sixty-eight-video collection at https://26-mit-2009-videos.vercel.app/tests/.
+All Tests is the seventy-seven-video collection at https://26-mit-2009-videos.vercel.app/tests/.
 Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /selects/ URL shows the same picks.
 
-- Preserve every catalog item numbered 1–68 unless requested otherwise.
+- Preserve every catalog item numbered 1–77 unless requested otherwise.
 - Use the names All Tests and Selects. Selects currently contains 1, 3, 6, 9, 20, 25, 38, 39, 40, and 41; change assets/SELECTS.json only when Danny changes his picks.
 - Both pages show newest first. Keep existing catalog numbers and MP4 URLs. The root URL must show only Selects; all experiments belong at /tests/. Selects must not link back to experiments.
 - Danny chose Disco D (Space Disco) for all four digital graphics, with the pink background glow changed to blue and slowly changing accents that settle on blue at the 12-second landing. Updated items 38–41 are in Selects. Keep their music identical in timing and volume; preserve earlier versions 30–37 in All Tests.
@@ -37,3 +37,5 @@ Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /select
 - Item 62 is the October 5 feasibility carousel: 229 slides, three seconds per center crossing, silent 687-second loop, 1920 × 1080 at 60 fps. Project submissions appear once; classroom pages are omitted as requested. Revision 2 alternates Green, Purple, Red, Blue, Yellow, Pink, with each team’s pages progressing forward. Slides enter from the right and travel left, so their arrangement reads in normal order. Each slide appears once; finished teams drop out of the rotation. Dedicated share page: /feasibility/. Preserve 60–61 and /posters/. Production provenance and verification are in assets/production-notes/feasibility-carousel-2026-10-05-r2/. The original numbered MP4 URL redirects to the stable HD MP4. Preserve both revisions’ source parts.
 
 - Items 63–68 are the October 6 photo-puzzle tests requested from Danny’s hand sketch: two vertical, two square, two landscape. Photos fill the frame and slide as complementary rectangular-tab puzzle pieces. No added slogans, labels, titles, or graphics inside the videos; silent, 24 seconds, 30 fps, H.264 Constrained Baseline. All Tests only. Treat the previous text-heavy concepts as superseded drafts. Preserve 1–62 and Selects.
+
+- Items 69–77 are Danny’s October 7 String Tests: nine distinct single-string motion studies, all square 1080 × 1080, seamless five-second loops at 60 fps, silent, no text, eyes, or knots. Palettes and flat shaded outlines reference the supplied Slack icons. Three straight translations, three waves, and three curved motions. Production notes and render source are in assets/production-notes/string-tests-2026-10-07/. All Tests only; preserve earlier media and Selects.

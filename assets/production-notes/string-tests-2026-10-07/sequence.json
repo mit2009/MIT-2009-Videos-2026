@@ -1,0 +1,173 @@
+[
+  {
+    "number": 69,
+    "name": "Horizontal glide",
+    "color": "red",
+    "kind": "horizontal",
+    "poster": 0.0,
+    "description": "One red string travels straight across the square from left to right. Rounded ends and diagonal shading follow the supplied artwork.",
+    "title": "String tests — horizontal glide",
+    "slug": "MIT-2.009-String-Horizontal-glide-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  },
+  {
+    "number": 70,
+    "name": "Vertical rise",
+    "color": "blue",
+    "kind": "vertical",
+    "poster": 0.0,
+    "description": "One blue string rises vertically through the frame, with its shaded bands traveling with it.",
+    "title": "String tests — vertical rise",
+    "slug": "MIT-2.009-String-Vertical-rise-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  },
+  {
+    "number": 71,
+    "name": "Diagonal pass",
+    "color": "yellow",
+    "kind": "diagonal",
+    "poster": 0.0,
+    "description": "One yellow string travels diagonally from the lower left to the upper right.",
+    "title": "String tests — diagonal pass",
+    "slug": "MIT-2.009-String-Diagonal-pass-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  },
+  {
+    "number": 72,
+    "name": "Traveling wave",
+    "color": "green",
+    "kind": "wave",
+    "poster": 0.6,
+    "description": "A broad wave travels along a single green string that stretches beyond both sides of the frame.",
+    "title": "String tests — traveling wave",
+    "slug": "MIT-2.009-String-Traveling-wave-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  },
+  {
+    "number": 73,
+    "name": "Standing wave",
+    "color": "purple",
+    "kind": "standing",
+    "poster": 1.1,
+    "description": "A single purple string has still ends and a moving middle. Two opposing bends pass smoothly through a straight line.",
+    "title": "String tests — standing wave",
+    "slug": "MIT-2.009-String-Standing-wave-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  },
+  {
+    "number": 74,
+    "name": "Downward ripple",
+    "color": "pink",
+    "kind": "ripple",
+    "poster": 0.0,
+    "description": "A soft S-shaped ripple travels down a single pink string that extends beyond the top and bottom.",
+    "title": "String tests — downward ripple",
+    "slug": "MIT-2.009-String-Downward-ripple-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  },
+  {
+    "number": 75,
+    "name": "Around the frame",
+    "color": "blue",
+    "kind": "perimeter",
+    "poster": 0.6,
+    "description": "One blue string follows a rounded rectangular route around the inside of the frame, turning each corner without a cut.",
+    "title": "String tests — around the frame",
+    "slug": "MIT-2.009-String-Around-the-frame-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  },
+  {
+    "number": 76,
+    "name": "Open orbit",
+    "color": "red",
+    "kind": "orbit",
+    "poster": 0.0,
+    "description": "One open red arc circles the center. The gap stays open throughout the rotation; there are no crossings or knots.",
+    "title": "String tests — open orbit",
+    "slug": "MIT-2.009-String-Open-orbit-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  },
+  {
+    "number": 77,
+    "name": "Elastic bend",
+    "color": "green",
+    "kind": "bend",
+    "poster": 2.5,
+    "description": "One green string bends from a straight line into a deep open curve and relaxes back. Its centerline length stays constant.",
+    "title": "String tests — elastic bend",
+    "slug": "MIT-2.009-String-Elastic-bend-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1
+  }
+]
