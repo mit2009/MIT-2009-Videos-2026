@@ -1,0 +1,191 @@
+[
+  {
+    "number": 78,
+    "name": "Horizontal feed",
+    "color": "red",
+    "kind": "horizontal",
+    "pitches": 8,
+    "poster": 0,
+    "description": "A red string feeds continuously from the left edge to the right edge. The diagonal bands travel steadily with the string; neither end appears.",
+    "title": "String tests 2 — horizontal feed",
+    "slug": "MIT-2.009-String-Continuous-Horizontal-feed-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  },
+  {
+    "number": 79,
+    "name": "Upward feed",
+    "color": "blue",
+    "kind": "vertical",
+    "pitches": 8,
+    "poster": 0,
+    "description": "A blue string feeds continuously in through the bottom and out through the top. No pauses or visible ends.",
+    "title": "String tests 2 — upward feed",
+    "slug": "MIT-2.009-String-Continuous-Upward-feed-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  },
+  {
+    "number": 80,
+    "name": "Diagonal feed",
+    "color": "yellow",
+    "kind": "diagonal",
+    "pitches": 10,
+    "poster": 0,
+    "description": "A yellow string travels continuously from the lower left to the upper right, extending beyond the frame at both ends.",
+    "title": "String tests 2 — diagonal feed",
+    "slug": "MIT-2.009-String-Continuous-Diagonal-feed-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  },
+  {
+    "number": 81,
+    "name": "Flowing wave",
+    "color": "green",
+    "kind": "wave",
+    "pitches": 10,
+    "poster": 0.6,
+    "description": "A green string keeps feeding left to right while broad waves travel along it. The string crosses both edges throughout the loop.",
+    "title": "String tests 2 — flowing wave",
+    "slug": "MIT-2.009-String-Continuous-Flowing-wave-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  },
+  {
+    "number": 82,
+    "name": "Falling ripple",
+    "color": "pink",
+    "kind": "ripple",
+    "pitches": 10,
+    "poster": 0,
+    "description": "A pink string feeds continuously downward as an S-shaped ripple travels from top to bottom. Both ends stay outside the frame.",
+    "title": "String tests 2 — falling ripple",
+    "slug": "MIT-2.009-String-Continuous-Falling-ripple-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  },
+  {
+    "number": 83,
+    "name": "Over the arch",
+    "color": "purple",
+    "kind": "arch",
+    "pitches": 10,
+    "poster": 1.25,
+    "description": "A purple string flows in from the left, over a gently breathing arch, and out to the right. Its shaded bands make the continuous feed visible.",
+    "title": "String tests 2 — over the arch",
+    "slug": "MIT-2.009-String-Continuous-Over-the-arch-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  },
+  {
+    "number": 84,
+    "name": "Round the corner",
+    "color": "yellow",
+    "kind": "corner",
+    "pitches": 9,
+    "poster": 0,
+    "description": "A yellow string enters from the left, turns a broad rounded corner, and feeds out through the bottom edge.",
+    "title": "String tests 2 — round the corner",
+    "slug": "MIT-2.009-String-Continuous-Round-the-corner-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  },
+  {
+    "number": 85,
+    "name": "Continuous U-turn",
+    "color": "red",
+    "kind": "uturn",
+    "pitches": 12,
+    "poster": 0,
+    "description": "A red string enters at the upper left, follows a wide U-turn, and exits at the lower left. One uninterrupted string keeps feeding around the bend.",
+    "title": "String tests 2 — continuous u-turn",
+    "slug": "MIT-2.009-String-Continuous-Continuous-U-turn-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  },
+  {
+    "number": 86,
+    "name": "Three-pass flow",
+    "color": "blue",
+    "kind": "serpentine",
+    "pitches": 16,
+    "poster": 0,
+    "description": "A blue string enters from the left, follows three horizontal passes joined by rounded bends, and exits at the right. Continuous feed with no crossings.",
+    "title": "String tests 2 — three-pass flow",
+    "slug": "MIT-2.009-String-Continuous-Three-pass-flow-5s",
+    "size": [
+      1080,
+      1080
+    ],
+    "seconds": 5,
+    "fps": 60,
+    "audio": "Silent",
+    "added_text": false,
+    "string_count": 1,
+    "continuous_feed": true
+  }
+]

@@ -27,9 +27,9 @@ test('every Vercel preview, original download, and audio link resolves to a stat
   }
 });
 
-test('all seventy-seven static MP4s match the source bytes, including the assembled lecture originals', async () => {
-  assert.equal(catalog.length, 77);
-  assert.deepEqual(catalog.filter(r => r.number >= 48).map(r => r.number), [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]);
+test('all eighty-six static MP4s match the source bytes, including the assembled lecture originals', async () => {
+  assert.equal(catalog.length, 86);
+  assert.deepEqual(catalog.filter(r => r.number >= 48).map(r => r.number), [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86]);
   for (const record of catalog) {
     const video = new URL(record.file, site);
     const hash = createHash('sha256');
