@@ -54,8 +54,8 @@ for r in records:
     video_loop = ' loop' if r.get('loop', False) else ''
     online = f'<a class="online" href="{html.escape(r["online_url"], quote=True)}" target="_blank" rel="noopener">Open looping slideshow <span aria-hidden="true">↗</span></a>' if r['online_url'] else ''
     card_class = 'card portrait' if r['format'] == 'Portrait 9:16' else 'card'
-    if r.get('collection') in ('puzzle-photos', 'string-tests'): card_class += ' photo-puzzle'
-    screen_style = ' style="aspect-ratio:' + r['dimensions'].replace('×','/') + ';height:auto"' if r.get('collection') in ('puzzle-photos', 'string-tests') else ''
+    if r.get('collection') in ('puzzle-photos', 'string-tests', 'connect-photo-strings'): card_class += ' photo-puzzle'
+    screen_style = ' style="aspect-ratio:' + r['dimensions'].replace('×','/') + ';height:auto"' if r.get('collection') in ('puzzle-photos', 'string-tests', 'connect-photo-strings') else ''
     audio_label = 'Silent' if r.get('audio', 'Silent') == 'Silent' else 'With sound'
     audio_links = []
     for field, label in [('audio_mp3', 'MP3'), ('audio_wav', 'WAV')]:
