@@ -1,0 +1,220 @@
+[
+  {
+    "number": 90,
+    "sha256": "07e5526a47f18e927a7e7aa269725a608eaa5f005ae484d04795257e08d49756",
+    "bytes": 10989827,
+    "seconds": 30,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 1800,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "photo_count": 10,
+    "clean_photo_hold_seconds": 2,
+    "clean_hold_frames_checked": 1200,
+    "holds": [
+      {
+        "photo_id": "1498",
+        "start": 1,
+        "end": 3,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "0898",
+        "start": 4,
+        "end": 6,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "0670",
+        "start": 7,
+        "end": 9,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1021",
+        "start": 10,
+        "end": 12,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1196",
+        "start": 13,
+        "end": 15,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1149",
+        "start": 16,
+        "end": 18,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1491",
+        "start": 19,
+        "end": 21,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1596",
+        "start": 22,
+        "end": 24,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1527",
+        "start": 25,
+        "end": 27,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1628",
+        "start": 28,
+        "end": 30,
+        "clean_still_frames": 120
+      }
+    ],
+    "decoded_hold_mean_absolute_pixel_error": [
+      2.4508847736625516,
+      3.4909567901234566,
+      2.6371296296296296,
+      2.2471604938271605,
+      2.837818930041152,
+      3.567849794238683,
+      2.568034979423868,
+      3.143179012345679,
+      2.7394135802469135,
+      3.6481995884773664
+    ],
+    "loop_join_matches_last_photo": true,
+    "rope_exit": "drop",
+    "physical_endpoint_motion_verified_for_all_ten_photos": true,
+    "fully_offscreen_before_hold": true,
+    "opacity_fade": false,
+    "reference_background_removed": true,
+    "local_browser_playback": {
+      "duration": 30,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  },
+  {
+    "number": 91,
+    "sha256": "0f0f0596837ab13be641f11d22340dc5a57486fa85e0004be7a01162cca39ccf",
+    "bytes": 10562822,
+    "seconds": 30,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "fps": 60,
+    "frames": 1800,
+    "codec": "H.264",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "fast_start": true,
+    "full_decode_errors": 0,
+    "added_text": false,
+    "photo_count": 10,
+    "clean_photo_hold_seconds": 2,
+    "clean_hold_frames_checked": 1200,
+    "holds": [
+      {
+        "photo_id": "1498",
+        "start": 1,
+        "end": 3,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "0898",
+        "start": 4,
+        "end": 6,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "0670",
+        "start": 7,
+        "end": 9,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1021",
+        "start": 10,
+        "end": 12,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1196",
+        "start": 13,
+        "end": 15,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1149",
+        "start": 16,
+        "end": 18,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1491",
+        "start": 19,
+        "end": 21,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1596",
+        "start": 22,
+        "end": 24,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1527",
+        "start": 25,
+        "end": 27,
+        "clean_still_frames": 120
+      },
+      {
+        "photo_id": "1628",
+        "start": 28,
+        "end": 30,
+        "clean_still_frames": 120
+      }
+    ],
+    "decoded_hold_mean_absolute_pixel_error": [
+      2.4449279835390945,
+      3.4909567901234566,
+      2.6446296296296294,
+      2.2471604938271605,
+      2.825329218106996,
+      3.567849794238683,
+      2.5578703703703702,
+      3.143179012345679,
+      2.7340020576131687,
+      3.6481995884773664
+    ],
+    "loop_join_matches_last_photo": true,
+    "rope_exit": "pull",
+    "physical_endpoint_motion_verified_for_all_ten_photos": true,
+    "fully_offscreen_before_hold": true,
+    "opacity_fade": false,
+    "reference_background_removed": true,
+    "local_browser_playback": {
+      "duration": 30,
+      "loop": true,
+      "ready_state": 4,
+      "error": null,
+      "play_button_verified": true
+    }
+  }
+]

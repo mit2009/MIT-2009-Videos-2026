@@ -1,9 +1,9 @@
 # MIT 2.009 Videos 2026
 
-All Tests is the eighty-nine-video collection at https://26-mit-2009-videos.vercel.app/tests/.
+All Tests is the ninety-one-video collection at https://26-mit-2009-videos.vercel.app/tests/.
 Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /selects/ URL shows the same picks.
 
-- Preserve every catalog item numbered 1–89 unless requested otherwise.
+- Preserve every catalog item numbered 1–91 unless requested otherwise.
 - Use the names All Tests and Selects. Selects currently contains 1, 3, 6, 9, 20, 25, 38, 39, 40, and 41; change assets/SELECTS.json only when Danny changes his picks.
 - Both pages show newest first. Keep existing catalog numbers and MP4 URLs. The root URL must show only Selects; all experiments belong at /tests/. Selects must not link back to experiments.
 - Danny chose Disco D (Space Disco) for all four digital graphics, with the pink background glow changed to blue and slowly changing accents that settle on blue at the 12-second landing. Updated items 38–41 are in Selects. Keep their music identical in timing and volume; preserve earlier versions 30–37 in All Tests.
@@ -43,3 +43,5 @@ Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /select
 - Items 78–86 are String Tests set 2: the string continuously enters and exits the frame in every design. All square, five-second seamless silent loops at 60 fps. Both endpoints remain outside; diagonal bands advect continuously along each path. Straight feeds, waves, arch, corner, U-turn, and serpentine route. No text or knots. Preserve set 1 and every prior video; All Tests only. Provenance: assets/production-notes/string-tests-continuous-2026-10-07/.
 
 - Items 87–89 are the Connect photo-and-string tests: same ten theme-balloon photos, each split into two complementary halves with moving Falling Ripple string edges. Pale pink background removed. Halves enter from left/right, meet, and the string disappears for an exact two-second clean photo hold. Three approaches: together, alternating lead, floating join. Square, 30 seconds, 60 fps, silent, no added text. All Tests only. Provenance: assets/production-notes/connect-photo-strings-2026-10-07/.
+
+- Items 90–91 refine the Connect photo tests with a physical rope exit after the join: 90 drops downward, 91 is pulled upward and straightens. Same ten photos and square crops. Each scene has a half-second join, half-second rope exit, and two-second clean photo hold; 30 seconds total, 60 fps, silent, no text. The rope remains opaque and its rounded trailing end visibly exits. All Tests only. Provenance: assets/production-notes/connect-rope-exits-2026-10-07/.

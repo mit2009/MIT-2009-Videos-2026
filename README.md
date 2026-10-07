@@ -8,7 +8,7 @@ dependencies, runs `npm run build:vercel`, and serves `vercel-site/`.
 
 The live Vercel address is https://26-mit-2009-videos.vercel.app/. It provides:
 
-- `/tests/`: all eighty-nine videos, numbered 1–89. Newest: Connect photo-and-string tests 87–89. Ten theme-balloon photos connect from two halves with moving string edges, then hold cleanly for two seconds. Three square, silent 30-second versions.
+- `/tests/`: all ninety-one videos, numbered 1–91. Newest: Connect rope exits 90–91. After the photo halves join, the rope drops below the frame or is pulled out through the top. Same ten photos, two-second clean holds, square silent 30-second videos.
 - `/posters/`: the two silent three-minute lecture loops, with playback and downloads.
 - `/feasibility/`: the silent 229-slide Full HD feasibility carousel, at three seconds per slide. Revision 2 alternates teams in Green, Purple, Red, Blue, Yellow, Pink order; pages advance forward and enter from the right. Each slide appears once, with finished teams dropping out of the rotation.
 - `/selects/` (and `/`): the existing ten Selects, with original MP4 downloads.

@@ -1,0 +1,160 @@
+{
+  "versions": [
+    {
+      "number": 90,
+      "name": "Rope drops away",
+      "slug": "MIT-2.009-Connect-Rope-Drops-Away-30s",
+      "kind": "drop",
+      "description": "The photo halves connect, then the pink rope drops downward with an accelerating fall. Its rounded free end travels down and clears the bottom edge. Each clean photograph holds for two seconds.",
+      "title": "Connect photo tests — rope drops away",
+      "size": [
+        1080,
+        1080
+      ],
+      "seconds": 30,
+      "fps": 60,
+      "audio": "Silent",
+      "added_text": false,
+      "photo_count": 10,
+      "photo_ids": [
+        "1498",
+        "0898",
+        "0670",
+        "1021",
+        "1196",
+        "1149",
+        "1491",
+        "1596",
+        "1527",
+        "1628"
+      ],
+      "assembly_seconds": 0.5,
+      "rope_exit_seconds": 0.5,
+      "hold_seconds": 2
+    },
+    {
+      "number": 91,
+      "name": "Rope pulled upward",
+      "slug": "MIT-2.009-Connect-Rope-Pulled-Upward-30s",
+      "kind": "pull",
+      "description": "The photo halves connect, then the pink rope tightens and is pulled upward. Its rounded trailing end follows it out through the top edge. Each clean photograph holds for two seconds.",
+      "title": "Connect photo tests — rope pulled upward",
+      "size": [
+        1080,
+        1080
+      ],
+      "seconds": 30,
+      "fps": 60,
+      "audio": "Silent",
+      "added_text": false,
+      "photo_count": 10,
+      "photo_ids": [
+        "1498",
+        "0898",
+        "0670",
+        "1021",
+        "1196",
+        "1149",
+        "1491",
+        "1596",
+        "1527",
+        "1628"
+      ],
+      "assembly_seconds": 0.5,
+      "rope_exit_seconds": 0.5,
+      "hold_seconds": 2
+    }
+  ],
+  "source_photos": [
+    {
+      "id": "1498",
+      "filename": "21-26-09-14-Lecture-3-Theme-Balloons-1498.jpg",
+      "sha256": "10947d6ea1ee4c87cf2acf5d2c8c9d0b06ae4831f2c4b3aa5c34b1f8b2ea114d",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "0898",
+      "filename": "17-26-09-14-Lecture-3-Theme-Balloons-0898.jpg",
+      "sha256": "283065c3cc40dc967252ce0944135951264220ac32ac0ea84b7695d847273c7f",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "0670",
+      "filename": "18-26-09-14-Lecture-3-Theme-Balloons-0670.jpg",
+      "sha256": "e8079ca81044a92af3c84a512b44fa3632a68cdc8e4ee91216621023f5540988",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "1021",
+      "filename": "19-26-09-14-Lecture-3-Theme-Balloons-1021.jpg",
+      "sha256": "229e83f6239a354e5471b7e6655cb28acc956d0d1ff7d6a695f4c0f9140c9dd0",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "1196",
+      "filename": "27-26-09-14-Lecture-3-Theme-Balloons-1196.jpg",
+      "sha256": "7501b9c302c7d70c63d46b11edfbf8d6ce9b0f5a4e6e1ba5c5a8c511fd32ffda",
+      "square_crop_center": [
+        0.38,
+        0.5
+      ]
+    },
+    {
+      "id": "1149",
+      "filename": "26-26-09-14-Lecture-3-Theme-Balloons-1149.jpg",
+      "sha256": "367bbaf726cfb501a7dfa871e35adce31a8cc2bae2d6b10c417500513fcde82a",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "1491",
+      "filename": "30-26-09-14-Lecture-3-Theme-Balloons-1491.jpg",
+      "sha256": "0206e695e15fd82412983fb39646253b14ac9d6fb4877ae008200f7f6fdaabf7",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "1596",
+      "filename": "25-26-09-14-Lecture-3-Theme-Balloons-1596.jpg",
+      "sha256": "fbed4fbd8c849ec1d8c20909d201dbb75a94867b5d784603db416f14a4c372ec",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "1527",
+      "filename": "33-26-09-14-Lecture-3-Theme-Balloons-1527.jpg",
+      "sha256": "2c61c487dd232dc9bf690b1de3d7bf4f63302b0ba296678f7c9f1ec124ae43ec",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "1628",
+      "filename": "38-26-09-14-Lecture-3-Theme-Balloons-1628.jpg",
+      "sha256": "fc0fc23a7199ae3bacb84125c8739c2f299b5de534ff582649ba4cb1b0d247f3",
+      "square_crop_center": [
+        0.5,
+        0.5
+      ]
+    }
+  ]
+}
