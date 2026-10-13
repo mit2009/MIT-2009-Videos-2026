@@ -42,7 +42,8 @@ for r in records:
                         archive.write(file, str(file.relative_to(source)))
         shutil.copyfile(SOURCE/r['thumbnail'], SITE/r['thumbnail'])
         url = '/' + r['source_directory'] + '/'
-        offline_link = f'<a class="online offline-download" style="margin-top:0" href="{url.rstrip("/")}.zip" download="MIT-2.009-Lecture-2026-10-13.zip">Download offline ZIP</a>' if target == 'vercel' else ''
+        download_name = html.escape(r.get('download_filename', 'MIT-2.009-Lecture-2026-10-13.zip'), quote=True)
+        offline_link = f'<a class="online offline-download" style="margin-top:0" href="{url.rstrip("/")}.zip" download="{download_name}">Download offline ZIP</a>' if target == 'vercel' else ''
         cards[number] = f'''<article class="card" id="video-{number}">
           <a class="screen" href="{url}" aria-label="Open {html.escape(r['title'], quote=True)}"><img src="/{r['thumbnail']}" alt="Build Challenge lecture slideshow" loading="lazy" style="width:100%;height:100%;object-fit:contain"></a>
           <div class="details"><div class="eyebrow">{number:02d} <span>· Browser slideshow</span></div>

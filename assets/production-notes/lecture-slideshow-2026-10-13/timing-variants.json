@@ -1,0 +1,18 @@
+[
+  {
+    "catalog_number": 94,
+    "source_directory": "slideshows/2026-10-13-3s",
+    "interval_ms": 3000,
+    "dissolve_ms": 100,
+    "loop_seconds": 174,
+    "photo_sequence": "sequence.json"
+  },
+  {
+    "catalog_number": 95,
+    "source_directory": "slideshows/2026-10-13-5s",
+    "interval_ms": 5000,
+    "dissolve_ms": 100,
+    "loop_seconds": 290,
+    "photo_sequence": "sequence.json"
+  }
+]

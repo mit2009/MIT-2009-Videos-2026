@@ -1,9 +1,9 @@
 # MIT 2.009 Videos 2026
 
-All Tests contains ninety-two videos and one browser slideshow at https://26-mit-2009-videos.vercel.app/tests/.
+All Tests contains ninety-two videos and three browser slideshows at https://26-mit-2009-videos.vercel.app/tests/.
 Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /selects/ URL shows the same picks.
 
-- Preserve every catalog item numbered 1–93 unless requested otherwise.
+- Preserve every catalog item numbered 1–95 unless requested otherwise.
 - Use the names All Tests and Selects. Selects currently contains 1, 3, 6, 9, 20, 25, 38, 39, 40, and 41; change assets/SELECTS.json only when Danny changes his picks.
 - Both pages show newest first. Keep existing catalog numbers and MP4 URLs. The root URL must show only Selects; all experiments belong at /tests/. Selects must not link back to experiments.
 - Danny chose Disco D (Space Disco) for all four digital graphics, with the pink background glow changed to blue and slowly changing accents that settle on blue at the 12-second landing. Updated items 38–41 are in Selects. Keep their music identical in timing and volume; preserve earlier versions 30–37 in All Tests.
@@ -11,6 +11,7 @@ Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /select
 - Keep source videos unchanged; do not recompress them for storage.
 - Edit assets/CATALOG.json for titles, descriptions, and media references.
 - Item 93 is the October 13 lecture browser slideshow at /slideshows/2026-10-13/. It contains all 58 supplied Build Challenge photos in filename order, fitted uncropped on black. Each photo starts 1.75 seconds after the last, including a 0.1-second dissolve; the loop is 101.5 seconds. Preserve autoplay, hidden controls, keyboard and full-screen support. Its source is in slideshows/2026-10-13/. The build also packages an offline ZIP. This browser entry has media_type=slideshow, not an MP4. Selects is unchanged.
+- Items 94–95 are the additional October 13 lecture versions at /slideshows/2026-10-13-3s/ and /slideshows/2026-10-13-5s/. They use the same 58 photo files and order as 93, with intervals of 3 and 5 seconds, respectively, including the same 0.1-second dissolve. Loops last 174 and 290 seconds. Keep the original 1.75-second version unchanged. Each version has its own offline ZIP.
 - site/, dist/, and video-manifest.json are generated; use python3 build.py.
 - Run npm test when changing video delivery or the build process.
 - The Cloudflare site uses dashboard Direct Upload, not automatic GitHub deployment.

@@ -8,7 +8,7 @@ const vm = require('node:vm');
 
 const script = readFileSync(join(__dirname, '../slideshows/2026-10-13/slideshow.js'), 'utf8');
 
-function fixture({ count = 58, broken = [], deferred = [], fullscreenReject = false } = {}) {
+function fixture({ count = 58, broken = [], deferred = [], fullscreenReject = false, playbackScript = script } = {}) {
   let now = 0, nextTimer = 0;
   const timers = new Map(), events = new Map(), imageRequests = [], waiting = new Map();
   function element(tagName = 'DIV') {
@@ -50,7 +50,7 @@ function fixture({ count = 58, broken = [], deferred = [], fullscreenReject = fa
     async decode() {}
   }
   const setTimeout = (fn, delay) => { const id = ++nextTimer; timers.set(id, { at: now + delay, fn }); return id; };
-  vm.runInNewContext(script, { window: { SLIDESHOW_PHOTOS: Array.from({ length: count }, (_, i) => `${i + 1}.jpg`) },
+  vm.runInNewContext(playbackScript, { window: { SLIDESHOW_PHOTOS: Array.from({ length: count }, (_, i) => `${i + 1}.jpg`) },
     document, Image, setTimeout, clearTimeout: id => timers.delete(id),
     performance: { now: () => now }, console: { warn() {} } });
   const flush = async () => { for (let i = 0; i < 20; i++) await Promise.resolve(); };
@@ -83,6 +83,23 @@ test('initial autoplay, exact 1.75-second intervals, complete 58-photo order and
   for (let photo = 3; photo <= 58; photo++) { await f.advance(1750); assert.equal(f.photo(), photo); }
   await f.advance(1750); assert.equal(f.photo(), 1);
 });
+
+for (const seconds of [3, 5]) {
+  test(`${seconds}-second version advances at the requested interval, loops, and preserves pause timing`, async () => {
+    const playbackScript = readFileSync(join(__dirname, `../slideshows/2026-10-13-${seconds}s/slideshow.js`), 'utf8');
+    const f = fixture({ playbackScript });
+    const interval = seconds * 1000;
+    await f.flush();
+    await f.advance(interval - 1); assert.equal(f.photo(), 1);
+    await f.advance(1); assert.equal(f.photo(), 2);
+    for (let photo = 3; photo <= 58; photo++) { await f.advance(interval); assert.equal(f.photo(), photo); }
+    await f.advance(interval); assert.equal(f.photo(), 1);
+    await f.advance(1000); await f.click(f.play);
+    await f.advance(10000); assert.equal(f.photo(), 1);
+    await f.click(f.play); await f.advance(interval - 1001); assert.equal(f.photo(), 1);
+    await f.advance(1); assert.equal(f.photo(), 2);
+  });
+}
 
 test('pause holds the image; resume preserves the remaining display time', async () => {
   const f = fixture(); await f.advance(1000); await f.click(f.play);
