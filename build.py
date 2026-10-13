@@ -26,6 +26,30 @@ titles = {r['number']: r['title'] for r in records}
 descriptions = {r['number']: r['description'] for r in records}
 for r in records:
     number = r['number']
+    if r.get('media_type') == 'slideshow':
+        source = WORK / r['source_directory']
+        destination = SITE / r['source_directory']
+        shutil.copytree(source, destination)
+        photo_names = sorted(p.name for p in (source/'photos').glob('*.jpg'))
+        assert len(photo_names) == r['photo_count']
+        # The current Vercel host supports the complete offline ZIP. The legacy
+        # Cloudflare target has a 25 MiB per-file limit, so offers playback only.
+        if target == 'vercel':
+            archive_path = destination.with_suffix('.zip')
+            with zipfile.ZipFile(archive_path, 'w', compression=zipfile.ZIP_STORED) as archive:
+                for file in sorted(source.rglob('*')):
+                    if file.is_file():
+                        archive.write(file, str(file.relative_to(source)))
+        shutil.copyfile(SOURCE/r['thumbnail'], SITE/r['thumbnail'])
+        url = '/' + r['source_directory'] + '/'
+        offline_link = f'<a class="online offline-download" style="margin-top:0" href="{url.rstrip("/")}.zip" download="MIT-2.009-Lecture-2026-10-13.zip">Download offline ZIP</a>' if target == 'vercel' else ''
+        cards[number] = f'''<article class="card" id="video-{number}">
+          <a class="screen" href="{url}" aria-label="Open {html.escape(r['title'], quote=True)}"><img src="/{r['thumbnail']}" alt="Build Challenge lecture slideshow" loading="lazy" style="width:100%;height:100%;object-fit:contain"></a>
+          <div class="details"><div class="eyebrow">{number:02d} <span>· Browser slideshow</span></div>
+          <h2>{html.escape(r['title'])}</h2><p class="description">{html.escape(r['description'])}</p>
+          <p class="specs">{r['photo_count']} photos <span>·</span> {r['seconds_per_slide']:g} sec/photo <span>·</span> {r['dissolve_seconds']:g}-second dissolve <span>·</span> Silent loop</p>
+          <div class="actions"><a class="download" href="{url}">Open slideshow <span aria-hidden="true">↗</span></a>{offline_link}</div></div></article>'''
+        continue
     filename = Path(r['file']).name
     # Long lecture originals are stored in ordered, lossless parts so each
     # Git blob stays below its size limit. The published MP4 is byte-identical.
@@ -90,9 +114,14 @@ def collection_page(title, intro, numbers, navigation=''):
 <body><main><header><div class="topline"><div class="brand"><span>MIT 2.009</span><span class="colors" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></span></div>''' + navigation + '''</div><h1>''' + title + '''</h1><p class="intro">''' + intro + '''</p><p class="note">Original-quality MP4 downloads · Sound indicated on each video</p></header><section class="grid" aria-label="''' + title + ''' videos">''' + '\n'.join(cards[number] for number in numbers) + '''</section><footer>MIT 2.009 · Product Engineering Processes</footer></main></body></html>'''
 
 newest_first = [r['number'] for r in reversed(records)]
+slideshow_count = sum(r.get('media_type') == 'slideshow' for r in records)
+catalog_intro = f'{len(records) - slideshow_count} videos.'
+if slideshow_count:
+    catalog_intro += f' {slideshow_count} browser slideshow' + ('s.' if slideshow_count != 1 else '.')
+catalog_intro += ' Every version, newest first.'
 (SITE/'tests').mkdir()
 (SITE/'tests'/'index.html').write_text(collection_page(
-    'All Tests', f'{len(records)} videos. Every version, newest first.', newest_first,
+    'All Tests', catalog_intro, newest_first,
     '<nav aria-label="Collections"><a href="/tests/" aria-current="page">All Tests</a><a href="/">Selects <span aria-hidden="true">↗</span></a></nav>'))
 # The already-shared root URL shows only the chosen videos, with no link to experiments.
 selects_page = collection_page(

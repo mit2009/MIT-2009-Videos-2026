@@ -1997,5 +1997,19 @@
       "yellow",
       "pink"
     ]
+  },
+  {
+    "number": 93,
+    "media_type": "slideshow",
+    "title": "October 13 Lecture — Build Challenge",
+    "description": "All 58 Build Challenge photos in filename order. Full photographs on black, automatic playback, and a continuous loop. Use F for full screen, Space to pause, and the arrow keys to browse.",
+    "source_directory": "slideshows/2026-10-13",
+    "thumbnail": "previews/93-lecture-2026-10-13.jpg",
+    "photo_count": 58,
+    "seconds_per_slide": 1.75,
+    "dissolve_seconds": 0.1,
+    "seconds": 101.5,
+    "audio": "Silent",
+    "loop": true
   }
 ]

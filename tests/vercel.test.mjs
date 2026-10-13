@@ -8,9 +8,11 @@ const site = new URL('../vercel-site/', import.meta.url);
 const previous = new URL('../site/', import.meta.url);
 const catalog = JSON.parse(await readFile(new URL('../assets/CATALOG.json', import.meta.url)));
 
+const videoCatalog = catalog.filter(record => record.media_type !== 'slideshow');
+
 test('Vercel preserves the catalog, selections, posters, controls, and page presentation', async () => {
   for (const name of ['index.html', 'tests/index.html', 'selects/index.html', 'posters/index.html', 'feasibility/index.html', 'style.css', 'app.js', 'robots.txt']) {
-    const current = (await readFile(new URL(name, site), 'utf8')).replace('<a href="/generator/">Headshot generator <span aria-hidden="true">↗</span></a>', '');
+    const current = (await readFile(new URL(name, site), 'utf8')).replace('<a href="/generator/">Headshot generator <span aria-hidden="true">↗</span></a>', '').replace(/<a class="online offline-download"[^>]*>Download offline ZIP<\/a>/g, '');
     assert.equal(current, await readFile(new URL(name, previous), 'utf8'), name);
   }
 });
@@ -28,9 +30,10 @@ test('every Vercel preview, original download, and audio link resolves to a stat
 });
 
 test('all ninety-two static MP4s match the source bytes, including the assembled lecture originals', async () => {
-  assert.equal(catalog.length, 92);
-  assert.deepEqual(catalog.filter(r => r.number >= 48).map(r => r.number), [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92]);
-  for (const record of catalog) {
+  assert.equal(catalog.length, 93);
+  assert.equal(videoCatalog.length, 92);
+  assert.deepEqual(videoCatalog.filter(r => r.number >= 48).map(r => r.number), [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92]);
+  for (const record of videoCatalog) {
     const video = new URL(record.file, site);
     const hash = createHash('sha256');
     for await (const chunk of createReadStream(video)) hash.update(chunk);
@@ -40,10 +43,10 @@ test('all ninety-two static MP4s match the source bytes, including the assembled
 
 test('Vercel publishes only static pages and approved media', async () => {
   assert.deepEqual((await readdir(site)).sort(), [
-    'app.js', 'audio', 'feasibility', 'generator', 'index.html', 'posters', 'previews', 'robots.txt', 'selects', 'style.css', 'tests', 'videos'
+    'app.js', 'audio', 'feasibility', 'generator', 'index.html', 'posters', 'previews', 'robots.txt', 'selects', 'slideshows', 'style.css', 'tests', 'videos'
   ]);
   const videoFiles = await readdir(new URL('videos/', site));
-  assert.equal(videoFiles.length, catalog.length);
+  assert.equal(videoFiles.length, videoCatalog.length);
   assert.ok(videoFiles.every(name => name.endsWith('.mp4')));
 });
 

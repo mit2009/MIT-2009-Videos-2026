@@ -8,6 +8,7 @@ dependencies, runs `npm run build:vercel`, and serves `vercel-site/`.
 
 The live Vercel address is https://26-mit-2009-videos.vercel.app/. It provides:
 
+- `/slideshows/2026-10-13/`: October 13 lecture slideshow, catalog item 93. All 58 Build Challenge photos appear in filename order, fitted in full against black. Photos start every 1.75 seconds with a 0.1-second dissolve included in that interval. The silent loop lasts 101.5 seconds. Use F for full screen, Space to pause or resume, and arrows to browse. Pointer movement reveals the controls. The catalog also offers an offline ZIP; unzip it and open `index.html` in a browser.
 - `/tests/`: all ninety-two videos, numbered 1–92. Newest: upward rope pull 92 changes color with each photo: Green → Purple → Red → Blue → Yellow → Pink, then repeats. Ten photos, two-second clean holds, square silent 30-second video.
 - `/posters/`: the two silent three-minute lecture loops, with playback and downloads.
 - `/feasibility/`: the silent 229-slide Full HD feasibility carousel, at three seconds per slide. Revision 2 alternates teams in Green, Purple, Red, Blue, Yellow, Pink order; pages advance forward and enter from the right. Each slide appears once, with finished teams dropping out of the rotation.

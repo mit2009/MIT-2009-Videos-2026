@@ -1,0 +1,530 @@
+{
+  "source_archive": "26-10-13-Lecture-Slideshow.zip",
+  "interval_ms": 1750,
+  "dissolve_ms": 100,
+  "loop_seconds": 101.5,
+  "photos": [
+    {
+      "order": 1,
+      "filename": "26-10-09-Build-Challenge-0003.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "432d49b79a3d18f3a8861cb11c19d8e1a5f6b427b4ee73e87c3b87902030d754",
+      "sha256": "08275128f5b26e8a0b3fd467b355b82861b11f7abdff89b3fca63f2d802a0778",
+      "bytes": 1212388
+    },
+    {
+      "order": 2,
+      "filename": "26-10-09-Build-Challenge-0046.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "826dde06d27ca2c76c2ac02b52bc40d61e6b9652ce5ce9791d1f2a5b700a73b0",
+      "sha256": "c8bd0f7010bbf70d4be9757dca43ec00155f436781c9596660a76c123125aece",
+      "bytes": 736179
+    },
+    {
+      "order": 3,
+      "filename": "26-10-09-Build-Challenge-0063.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "0c013ae84a6b62bd7e52785faf7aec4183c2342e4b786d0633f455f016b5e869",
+      "sha256": "552e7d662a950f695651e06c8d1b8a0b959c0d1a203a52636336e66e4d721cb3",
+      "bytes": 1292894
+    },
+    {
+      "order": 4,
+      "filename": "26-10-09-Build-Challenge-0156.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "f9fcce0b6487f7cc630dd2820612f5a341caedcc9bf99757a4187b34eb31423d",
+      "sha256": "8adb3454fd8d370517dfe4341e490df236791d2d4091ef584bff9692fc446282",
+      "bytes": 895655
+    },
+    {
+      "order": 5,
+      "filename": "26-10-09-Build-Challenge-0192.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "8d0f27b73035dde119bd187f94a248c7ac2784b94157da457e210ecd61788ed7",
+      "sha256": "cefa96cadf601f75d108a14a816c91b7412a39ac0738b60bff3679b64e1adb03",
+      "bytes": 1182912
+    },
+    {
+      "order": 6,
+      "filename": "26-10-09-Build-Challenge-0204.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "1f329121c38b76da29148452312ae6facafee7a88d8bf0ab430415ee89547520",
+      "sha256": "8c5f069f1d557af2c44ed0b9ba97d30fd864f6db86acfd6856437301f7ad233f",
+      "bytes": 617711
+    },
+    {
+      "order": 7,
+      "filename": "26-10-09-Build-Challenge-0223.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "34199f9a19b564ea49347fc5f08753383438d2d74b124e291b2fe1b2d0436035",
+      "sha256": "1709780daede8909399fc3cd2689743f43da15a5677f6720124a16aaaf27f856",
+      "bytes": 897622
+    },
+    {
+      "order": 8,
+      "filename": "26-10-09-Build-Challenge-0260.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "9754c46f054025e9391212916451e1e8148ade968eca6e8190fd2849d156b0b8",
+      "sha256": "a4a15e1751ecb0a365396959ffd63a867a727aed2b8d8256ed6e062b79970966",
+      "bytes": 1340289
+    },
+    {
+      "order": 9,
+      "filename": "26-10-09-Build-Challenge-0344.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "ac3f368dd709d9bca11476a44fd7682c46c66318da8067679b7038c04a0bc4ce",
+      "sha256": "cc0e15b56fe819e4195f71a59faf5448802d400718520c9ebad9455bf792956d",
+      "bytes": 1619844
+    },
+    {
+      "order": 10,
+      "filename": "26-10-09-Build-Challenge-0393.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "3a78d7ac20a98eff8dd54f0320d720b1425061f0526bbd5d4e2aa70aeee4fbc8",
+      "sha256": "c6f630875f78c86eeb8c2221f340f6fb2b3731ac8c31a932d07e17f357ace150",
+      "bytes": 1723627
+    },
+    {
+      "order": 11,
+      "filename": "26-10-09-Build-Challenge-0437.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "8c0e032c89f87c5063512d609afe678ef151c03fdb8166b3883f818bdfca12b5",
+      "sha256": "7516345807200b5049da5b55795a2022c075fa5a8d5b3031153fc659b3febb94",
+      "bytes": 1120828
+    },
+    {
+      "order": 12,
+      "filename": "26-10-09-Build-Challenge-0454.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "7f60b630afa677b48289a6a0e2e65ae752a1727fa407444717a2cb80b13c184a",
+      "sha256": "f761dd3aff082290a839116740bc483cef193ea8d8bf11f84b112a9b8b459b5e",
+      "bytes": 1223148
+    },
+    {
+      "order": 13,
+      "filename": "26-10-09-Build-Challenge-0456.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "d23507274d11be5245648d2c5f542496abe9e73114145aa169d3fc55c8993992",
+      "sha256": "aec377cb23e0098a453ce71bc373127df06d9b68c2bdb242591c011f94991fc1",
+      "bytes": 1491752
+    },
+    {
+      "order": 14,
+      "filename": "26-10-09-Build-Challenge-0508.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "163894fd9fb4252794a7ea0ab5a102acac405087c2efd54b31ccb99c1b9717c0",
+      "sha256": "0f3c2f596be6c8774ddbf33a2fb14904c35d07ddaecd04e2f7171d9d8f97ff17",
+      "bytes": 939824
+    },
+    {
+      "order": 15,
+      "filename": "26-10-09-Build-Challenge-0519.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "63d8cf2a9386557673034a1043702741c6177b75625cc85f785424327ed357d1",
+      "sha256": "7f9413722a7b4f46578a154ebeff47a404e55f173605cecab422cae436085074",
+      "bytes": 1155158
+    },
+    {
+      "order": 16,
+      "filename": "26-10-09-Build-Challenge-0566.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "b60f2741f9e7366686fa487874132d1225ba1b9a6f27217a1fd1d1d51dc7af5b",
+      "sha256": "49c492428d36b3642009f5ab16d3d983d6402c65615c003ec8751adc63b9c0b2",
+      "bytes": 1125331
+    },
+    {
+      "order": 17,
+      "filename": "26-10-09-Build-Challenge-0576.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "5aea454f36ff55485cd3f4e95432e51a00e74531416a0663448a455efd19fcee",
+      "sha256": "ce29a59ae510477ad7e631f0d89ad6d69f94e9a75f500710d9a38340e4d9b710",
+      "bytes": 1377268
+    },
+    {
+      "order": 18,
+      "filename": "26-10-09-Build-Challenge-0596.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "7ea1ae8241db836eb11af50a7a4005f1d4860829d75095b6d73f1a65b3a71b7e",
+      "sha256": "111b4c0909034842e3eda3002eef8f9e13e227bfcf166b15f72e3c3392d7fbf6",
+      "bytes": 1812593
+    },
+    {
+      "order": 19,
+      "filename": "26-10-09-Build-Challenge-0623.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "2d46995fd1fd7129d299844ae43b9736f86b6055867d127c713dfb98a152600b",
+      "sha256": "ab6aa9dbc88d6417c227b10871fa8ed30c00d7b29fd920c7deef2ffa6392d84c",
+      "bytes": 1217726
+    },
+    {
+      "order": 20,
+      "filename": "26-10-09-Build-Challenge-0647.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "67c823b8d12725745ae0a27142669903196e0c39dbe20556bc8b910132be0617",
+      "sha256": "e56bc15eba09b9becf59308a7063e6cbd0fddb8ded2f40dc323731ae8f123065",
+      "bytes": 907819
+    },
+    {
+      "order": 21,
+      "filename": "26-10-09-Build-Challenge-0650.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "f78f131a229c4a2c3cac51eb0a3f349cc94be168bbf032b2c7105cc83799deae",
+      "sha256": "abfb6daf86059d85fce6838dfd28f59779a87f8ea26f37e902f73c40846e8d71",
+      "bytes": 1606667
+    },
+    {
+      "order": 22,
+      "filename": "26-10-09-Build-Challenge-0679.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "ea16efa097741848b186cffa5cd83952b8996a591a33dd2f687002399358ae4c",
+      "sha256": "bd25548072d4b2c84bffdd7864a1c8bc1b625d6d8e14fd764b54a2043bc1ce00",
+      "bytes": 1327967
+    },
+    {
+      "order": 23,
+      "filename": "26-10-09-Build-Challenge-0701.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "4af6442194e65f18f6a4a5817d0181e23d725aec20225ec6af13166ae23ccb27",
+      "sha256": "1e755a5b1b72aeae7847ed95d34514eaae4a70010a0e5db1ca9d9ceb7ee8943c",
+      "bytes": 1035062
+    },
+    {
+      "order": 24,
+      "filename": "26-10-09-Build-Challenge-0714.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "50373cddd8cc7b79fb7d20ddeb0efb316641563a9e8b9581d0960eeb08057358",
+      "sha256": "3bfd9d0873a96b679db9163a62fdf0137a5498db01d01680d808b6c3d6bf1684",
+      "bytes": 1878412
+    },
+    {
+      "order": 25,
+      "filename": "26-10-09-Build-Challenge-0732.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "0b6fe91f4e0eecb97e7c59c411ac7e65e72db7865ade3e995e1f4c1ab7d2d323",
+      "sha256": "f262670ddfee89f1476d15c564937d156f30e06f2afecb438533396f4eb78a82",
+      "bytes": 800961
+    },
+    {
+      "order": 26,
+      "filename": "26-10-09-Build-Challenge-0770.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "b5825d8b8d343675d265153897c14bb2d8e65f46638c300523b231cdaefd7b26",
+      "sha256": "45cbb3894801be0a676ccd2cc666a15e76153f8c807071c7689a9fc3ff5940af",
+      "bytes": 1379083
+    },
+    {
+      "order": 27,
+      "filename": "26-10-09-Build-Challenge-0790.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "0df25ed1abe5e75735c50263d0008f29afc55773a98091255cfb3eab8fc915fd",
+      "sha256": "a52a978494a4774d85fad2a36cc957757c402242617aac34f03cba84184ca34d",
+      "bytes": 1308701
+    },
+    {
+      "order": 28,
+      "filename": "26-10-09-Build-Challenge-0810.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "baabb7edc808425b20ea711b36ec2bed2faeb07ad6ec8369d94fe9a84c53c0c7",
+      "sha256": "d37e389f33e0f80df2b95c010cdf191acfcaa8a606f455cba31cf886d99ab64c",
+      "bytes": 994253
+    },
+    {
+      "order": 29,
+      "filename": "26-10-09-Build-Challenge-0839.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "8a81f62e2a9c6b6496f624f576fa5baf8c1e8d80c9a996c2dbc0a8c050f3443a",
+      "sha256": "1345951ba6ccf68a741116238d377de61850b62a4de81ca0e0c964d8f329feb1",
+      "bytes": 1489837
+    },
+    {
+      "order": 30,
+      "filename": "26-10-09-Build-Challenge-0877.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "055383154738d0897b3709da5112a8dafbaecbf54400caf81b482069a8f066e4",
+      "sha256": "fe2652506715506a47fe5102c52a46cae2185a0a211d87c0c6aa979561b4501d",
+      "bytes": 1249099
+    },
+    {
+      "order": 31,
+      "filename": "26-10-09-Build-Challenge-0886.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "bdc8c2171ada243d18094dcbbf8a5934a8afa5b7a6ec98a03917576d8bdc7dfb",
+      "sha256": "dd94de4cccf8c48a1bd099981613ee233de371ec2063ef3b072b0070f30144d7",
+      "bytes": 1355618
+    },
+    {
+      "order": 32,
+      "filename": "26-10-09-Build-Challenge-0887.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "59d97c6624827b87664dfa6c2d2c6b8d77000f08463114f10e73700570e1087c",
+      "sha256": "b9db95aad0c292c671f2f2d6843b427ebe00880ce969ea1f11537ca4e194b259",
+      "bytes": 1040028
+    },
+    {
+      "order": 33,
+      "filename": "26-10-09-Build-Challenge-0911.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "1bc1bc2679d3847056f5f399610c7faec3ef39c788ace24883b13db7eb1591e5",
+      "sha256": "6d4b61498b0a7a5d3341817af5674362b7091f535e453d01013a431844e0ddbb",
+      "bytes": 1709667
+    },
+    {
+      "order": 34,
+      "filename": "26-10-09-Build-Challenge-0919.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "6017c1f994ee57079d0053f961d9c173f03b49e9c25094bae97acd94de4936ed",
+      "sha256": "94b95caa145a1ff658d9e56ed42d790140306f0f4d7121b047cf460fdf14b55f",
+      "bytes": 1838805
+    },
+    {
+      "order": 35,
+      "filename": "26-10-09-Build-Challenge-0950.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "4cf8694130346bfedc666f29bedb13e4978a16d15d7da6ea67432e255bbd0e54",
+      "sha256": "41e96cec246bd07744796185ada3287ddf9e89cf36d6cb115e5682694388620f",
+      "bytes": 1013578
+    },
+    {
+      "order": 36,
+      "filename": "26-10-09-Build-Challenge-0988.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "c3ffdac62166eaf5741b9d98e18fa32798c2d9e58edb6a6b9028f8cde549fb1e",
+      "sha256": "c3b8749de159a4c7af2aa7d0ed632cc8543e5e397cb2dbaea4250a9b3f33084e",
+      "bytes": 1418444
+    },
+    {
+      "order": 37,
+      "filename": "26-10-09-Build-Challenge-1017.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "5605b0799274deba4ca822a48dbc38f768ea66b8dc097ceca1e3471448b88020",
+      "sha256": "4e89021bc7fd367c1d10d8b5b529f523ea4a89fa0ed529b6977140b883e20a7f",
+      "bytes": 1564664
+    },
+    {
+      "order": 38,
+      "filename": "26-10-09-Build-Challenge-1038.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "4746c05b78784e5e80d8afd81ca5ca921e67728ae4480b06db758b193a8cbb05",
+      "sha256": "b03ac89e57e379f4653154380205a36282e28f736af6703edb31ea5d2f194f3f",
+      "bytes": 847812
+    },
+    {
+      "order": 39,
+      "filename": "26-10-09-Build-Challenge-1093.jpg",
+      "width": 1733,
+      "height": 2600,
+      "source_sha256": "027f22d34c3892dda6c88802250d9ae9c8b9499842f5cf4d4280c6ab67d45810",
+      "sha256": "8dbace6ca07468ae73fb2c798da8e7e9d42382176862e7c1d4ee6dee63e570da",
+      "bytes": 899683
+    },
+    {
+      "order": 40,
+      "filename": "26-10-09-Build-Challenge-1102.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "07e8c29fb8378d4a37ff016bba49213ac9faf073f9c6819cfaf3073f94cac2db",
+      "sha256": "bd82a2dab71edfe27a7044a930b697b15e30a703ebe6588ead445af874a12c1f",
+      "bytes": 1478008
+    },
+    {
+      "order": 41,
+      "filename": "26-10-09-Build-Challenge-1110.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "d439acba0ed68bd2371344462ae3d6d4cb7cdcc4b2bed8dedaa561764b666cf3",
+      "sha256": "52c8621763488b47d8a6768c92bb3874879ac01efcca8693a3dcb5032cf230f5",
+      "bytes": 1374372
+    },
+    {
+      "order": 42,
+      "filename": "26-10-09-Build-Challenge-1111.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "51581ab4183174db0db7d198193b5b092cfb1c6bdc0bb08eff062244fc51ac9e",
+      "sha256": "6c353f2adee1908b8b137a7478f6162f46fea70fda83db4a50c79cbe74f6dd9f",
+      "bytes": 1173848
+    },
+    {
+      "order": 43,
+      "filename": "26-10-09-Build-Challenge-1123.jpg",
+      "width": 1733,
+      "height": 2600,
+      "source_sha256": "ce62bd6fa79ea80698b5d18472cc3b038264775e12b9f02c4b0863d90b306e95",
+      "sha256": "1475965c7d5f2087575bc5c9b61db53c97a19530c40a6e79b77a231179683c1b",
+      "bytes": 790833
+    },
+    {
+      "order": 44,
+      "filename": "26-10-09-Build-Challenge-1157.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "3b7eea0c74e003eac4721c1a7a63f035d37aaf2424073a78a12ee0b170bf1287",
+      "sha256": "24eb0ff252b8c0709bbd5ce820102a88323bb25db435fe25a1784ff90436e7c3",
+      "bytes": 1451111
+    },
+    {
+      "order": 45,
+      "filename": "26-10-09-Build-Challenge-1185.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "a6a4dbacf005ae84752edf9dafb55473d6c57d0142b8bf1a6e820e19ef0c56fd",
+      "sha256": "258459d96ef83188d5f42d51041248b6893169f57f87cb9375788b8e8e9261b4",
+      "bytes": 1160839
+    },
+    {
+      "order": 46,
+      "filename": "26-10-09-Build-Challenge-1200.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "cc2a5cf31866cc0eada3914ab7a4c9e83c924f480e150e35de5b7cf760a377ad",
+      "sha256": "fa2655005ed826bf47ceb41f5e71e5471d8ed665f1403be783386f09f169dcfb",
+      "bytes": 1196506
+    },
+    {
+      "order": 47,
+      "filename": "26-10-09-Build-Challenge-1212.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "cdccdd31111f8a8e5d61efa50b6adfd95e853d783dc1107ae1412222f8bb41e9",
+      "sha256": "868e2a7a59bac93f5ee80678ad4d0368d0716c25fe7a79b9f3d420a52b7df12f",
+      "bytes": 1438743
+    },
+    {
+      "order": 48,
+      "filename": "26-10-09-Build-Challenge-1230.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "502a2417a5cb7aa9972bb3b80a7863587c6d41b80381df3bd3cad733357e48d3",
+      "sha256": "0a94cda39ef7bb350b0e8bdf5c94d43aa398771867d7facba3822042c64801cd",
+      "bytes": 1001726
+    },
+    {
+      "order": 49,
+      "filename": "26-10-09-Build-Challenge-1248.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "864f2db41cc1fbef21d974d9f6f46d7e590ca86b7e6670dd1b77288f6c866fea",
+      "sha256": "5ef42e73d7b90e997b04140249115bb504e19a99cc6b2a2db137b906dc90fdf5",
+      "bytes": 1057501
+    },
+    {
+      "order": 50,
+      "filename": "26-10-09-Build-Challenge-1278.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "f873a93229490fa484be9e4136707eb872a870940070584be426dc6628fa329c",
+      "sha256": "02efa52de5399c305319c20578094daaa98eb78bf7559ce929c4393b36f81748",
+      "bytes": 888513
+    },
+    {
+      "order": 51,
+      "filename": "26-10-09-Build-Challenge-1289.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "bcaf2dbb709533bc1375725adaf4b028448505fc1a74fe76a92a964f0e075c6b",
+      "sha256": "c543525c861387d63df8d67f43bdb4cefe0a349253a6ab80f9ebd74afaadaf72",
+      "bytes": 915979
+    },
+    {
+      "order": 52,
+      "filename": "26-10-09-Build-Challenge-1308.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "0335b2ff02a7dbee10686d334a721d50893e80444658fe97d108bc82ad73674b",
+      "sha256": "451ee4b434a4974708acd7b39ab82734c5991a59925f7fe13691aef1aa3c87ed",
+      "bytes": 912466
+    },
+    {
+      "order": 53,
+      "filename": "26-10-09-Build-Challenge-1316.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "a4f5918cdbcf45a80fe79ae169bbed90a6a725e6a4c427a6f7615a1ed54f4f86",
+      "sha256": "f77d2f84585111421ef8e1503cb83fb19440d37288615c313a0058bd24ed28f3",
+      "bytes": 1515535
+    },
+    {
+      "order": 54,
+      "filename": "26-10-09-Build-Challenge-1366.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "a2a97a9830a4271345f777ca82b6e13fecd3f83e531509dcd9f1a5caf5caf3a8",
+      "sha256": "e87a846916fdadf59efffa1839d50d12ee84c00d1a94b8662cb4d1da2db44bb1",
+      "bytes": 1250666
+    },
+    {
+      "order": 55,
+      "filename": "26-10-09-Build-Challenge-1396.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "d0dc3048868bf0a1ac72157bdb3b93a7b84d25fad376b824a5ac623d17d70cdc",
+      "sha256": "a8eaeb085ae276dc22e67c3b0efdc6b3f79c8a0ba0b7e4b9f56c01e03a379cf7",
+      "bytes": 1134563
+    },
+    {
+      "order": 56,
+      "filename": "26-10-09-Build-Challenge-1478.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "c43aaab3ffd8fd44b4225e64b2c99bac1356b190a2711623f64ca585af1ce293",
+      "sha256": "2d1419c6edfb86177a0fee025456a6af2cc1d83b74525184d8e222aedf81f2a9",
+      "bytes": 1296922
+    },
+    {
+      "order": 57,
+      "filename": "26-10-09-Build-Challenge-1508.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "9a70748dba1d8f8ff31da0428d39a8ba2a0343477862b938b513ec7704378d99",
+      "sha256": "7b8995c51b01d031179127629ca91eb0bb742df19e896afdda804c0fb6767201",
+      "bytes": 1385524
+    },
+    {
+      "order": 58,
+      "filename": "26-10-09-Build-Challenge-1525.jpg",
+      "width": 2600,
+      "height": 1733,
+      "source_sha256": "9d82be0848d1fcd869cf9d0beb6fa6b33605ebbbe10cc3238e883754034b344c",
+      "sha256": "f537a44030ab609412f63d3879980165db505659fd8aa335247b7863481e3230",
+      "bytes": 1497104
+    }
+  ]
+}
