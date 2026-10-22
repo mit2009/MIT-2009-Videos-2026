@@ -39,7 +39,11 @@ test(`lecture slideshow ${number} publishes the complete ordered photo set and o
     assert.ok(allTests.indexOf('id="video-95"') < allTests.indexOf('id="video-94"'));
     assert.ok(allTests.indexOf('id="video-94"') < allTests.indexOf('id="video-93"'));
     const selects = await readFile(new URL('index.html', root), 'utf8');
-    assert.ok(!selects.includes(`video-${number}`));
+    assert.equal(selects.includes(`id="video-${number}"`), number === 94 || number === 95);
+    if (number === 94 || number === 95) {
+      assert.ok(selects.includes(`href="/${record.source_directory}/"`));
+      assert.equal(selects.includes(`href="/${record.source_directory}.zip"`), build === 'vercel-site');
+    }
   }
 });
 }

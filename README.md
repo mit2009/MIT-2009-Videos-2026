@@ -13,7 +13,7 @@ The live Vercel address is https://26-mit-2009-videos.vercel.app/. It provides:
 - `/tests/`: all ninety-two videos, numbered 1–92. Newest: upward rope pull 92 changes color with each photo: Green → Purple → Red → Blue → Yellow → Pink, then repeats. Ten photos, two-second clean holds, square silent 30-second video.
 - `/posters/`: the two silent three-minute lecture loops, with playback and downloads.
 - `/feasibility/`: the silent 229-slide Full HD feasibility carousel, at three seconds per slide. Revision 2 alternates teams in Green, Purple, Red, Blue, Yellow, Pink order; pages advance forward and enter from the right. Each slide appears once, with finished teams dropping out of the rotation.
-- `/selects/` (and `/`): the existing ten Selects, with original MP4 downloads.
+- `/selects/` (and `/`): 21 selected videos and two browser slideshows, newest first, with original MP4 and offline slideshow downloads. Danny's October 22 additions preserve all earlier picks.
 - `/generator/`: a focused headshot generator, using the single-reel effects
   from tests 38–41 and the original 18-second Disco D soundtrack.
 

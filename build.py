@@ -125,8 +125,12 @@ catalog_intro += ' Every version, newest first.'
     'All Tests', catalog_intro, newest_first,
     '<nav aria-label="Collections"><a href="/tests/" aria-current="page">All Tests</a><a href="/">Selects <span aria-hidden="true">↗</span></a></nav>'))
 # The already-shared root URL shows only the chosen videos, with no link to experiments.
+selected_slideshow_count = sum(r.get('media_type') == 'slideshow' for r in records if r['number'] in selects)
+selects_intro = f'{len(selects) - selected_slideshow_count} selected videos.'
+if selected_slideshow_count:
+    selects_intro += f' {selected_slideshow_count} browser slideshow' + ('s.' if selected_slideshow_count != 1 else '.')
 selects_page = collection_page(
-    'Selects', f'{len(selects)} selected videos. Watch, download, and post.',
+    'Selects', selects_intro + ' Watch, download, and post.',
     [number for number in newest_first if number in selects])
 (SITE/'index.html').write_text(selects_page)
 # Keep the short-lived /selects/ link working with exactly the same collection.

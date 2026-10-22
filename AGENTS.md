@@ -4,7 +4,7 @@ All Tests contains ninety-two videos and three browser slideshows at https://26-
 Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /selects/ URL shows the same picks.
 
 - Preserve every catalog item numbered 1–95 unless requested otherwise.
-- Use the names All Tests and Selects. Selects currently contains 1, 3, 6, 9, 20, 25, 38, 39, 40, and 41; change assets/SELECTS.json only when Danny changes his picks.
+- Use the names All Tests and Selects. As of October 22, Selects contains 1, 2, 3, 4, 6, 8, 9, 10, 13, 20, 25, 38, 39, 40, 41, 44, 47, 51, 53, 57, 61, 94, and 95; change assets/SELECTS.json only when Danny changes his picks. This current list supersedes historical selection notes below.
 - Both pages show newest first. Keep existing catalog numbers and MP4 URLs. The root URL must show only Selects; all experiments belong at /tests/. Selects must not link back to experiments.
 - Danny chose Disco D (Space Disco) for all four digital graphics, with the pink background glow changed to blue and slowly changing accents that settle on blue at the 12-second landing. Updated items 38–41 are in Selects. Keep their music identical in timing and volume; preserve earlier versions 30–37 in All Tests.
 - Item 6 is titled "2025 Finals"; its old working title was Lecture 1.

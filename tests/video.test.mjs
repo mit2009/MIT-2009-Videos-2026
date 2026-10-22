@@ -83,27 +83,33 @@ test('conditional requests and static pages', async () => {
   assert.ok(!html.includes('Lecture 1'));
 });
 
-test('the already-shared root URL contains only the ten Selects, using the original files', async () => {
+test('the already-shared root URL contains the 23 chosen videos and slideshows, using the original files', async () => {
   const response = await handler.fetch(req('/'), env);
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.ok(html.includes('<h1>Selects</h1>'));
-  assert.ok(html.includes('10 selected videos. Watch, download, and post.'));
-  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), [41,40,39,38,25,20,9,6,3,1]);
+  assert.ok(html.includes('21 selected videos. 2 browser slideshows. Watch, download, and post.'));
+  const expected = [95,94,61,57,53,51,47,44,41,40,39,38,25,20,13,10,9,8,6,4,3,2,1];
+  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), expected);
   assert.ok(!html.includes('href="/tests'), 'Share page should not lead recipients to experiments');
   const legacy = await handler.fetch(req('/selects/'), env);
   assert.equal(legacy.status, 200);
-  assert.equal(await legacy.text(), html, 'The earlier Selects link must show the same ten picks');
+  assert.equal(await legacy.text(), html, 'The earlier Selects link must show the same picks');
   const catalog = JSON.parse(await readFile(new URL('../assets/CATALOG.json', import.meta.url)));
-  const chosen = catalog.filter(r => [1,3,6,9,20,25,38,39,40,41].includes(r.number));
+  const chosen = catalog.filter(r => expected.includes(r.number));
   const sources = [...html.matchAll(/<source src="([^"]+)"/g)].map(m => m[1]);
-  assert.equal(sources.length, 10);
+  assert.equal(sources.length, 21);
   for (const r of chosen) {
+    if (r.media_type === 'slideshow') {
+      assert.ok(html.includes(`href="/${r.source_directory}/"`));
+      continue;
+    }
     const route = '/' + r.file;
-    assert.ok(sources.includes(route));
+    const version = r.revision ? r.sha256.slice(0,12) : '';
+    assert.ok(sources.includes(route + (version ? `?v=${version}` : '')));
     assert.ok(manifest[route]);
-    assert.ok(html.includes(`href="${route}?download=1"`));
-    assert.ok(html.includes(`poster="/${r.thumbnail}"`));
+    assert.ok(html.includes(`href="${route}?download=1${version ? `&amp;v=${version}` : ''}"`));
+    assert.ok(html.includes(`poster="/${r.thumbnail}${version ? `?v=${version}` : ''}"`));
   }
 });
 

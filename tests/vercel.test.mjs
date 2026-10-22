@@ -117,5 +117,5 @@ test('the feasibility share page loops the complete three-second slide sequence 
   assert.deepEqual([...page.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), [62]);
   assert.match(page, /<video id="player-62"[^>]* loop>/);
   const selects = JSON.parse(await readFile(new URL('../assets/SELECTS.json', import.meta.url)));
-  assert.deepEqual(selects, [1, 3, 6, 9, 20, 25, 38, 39, 40, 41]);
+  assert.ok(!selects.includes(62), 'The feasibility carousel is still not selected');
 });
