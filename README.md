@@ -8,12 +8,13 @@ dependencies, runs `npm run build:vercel`, and serves `vercel-site/`.
 
 The live Vercel address is https://26-mit-2009-videos.vercel.app/. It provides:
 
+- `/slideshows/2026-10-26-3s/` and `/slideshows/2026-10-26-5s/`: catalog items 96 and 97, both on Selects. All 52 October 26 lecture photos in numbered filename order, fitted uncropped on black, with a 0.1-second dissolve. Three seconds per photo gives a 2:36 loop; five seconds gives a 4:20 loop. Both have offline ZIPs.
 - `/slideshows/2026-10-13-3s/` and `/slideshows/2026-10-13-5s/`: catalog items 94 and 95, with three and five seconds per photo. The same 58-photo sequence and 0.1-second dissolve repeat in 2:54 and 4:50 loops. Both offer offline ZIPs.
 - `/slideshows/2026-10-13/`: October 13 lecture slideshow, catalog item 93. All 58 Build Challenge photos appear in filename order, fitted in full against black. Photos start every 1.75 seconds with a 0.1-second dissolve included in that interval. The silent loop lasts 101.5 seconds. Use F for full screen, Space to pause or resume, and arrows to browse. Pointer movement reveals the controls. The catalog also offers an offline ZIP; unzip it and open `index.html` in a browser.
 - `/tests/`: all ninety-two videos, numbered 1–92. Newest: upward rope pull 92 changes color with each photo: Green → Purple → Red → Blue → Yellow → Pink, then repeats. Ten photos, two-second clean holds, square silent 30-second video.
 - `/posters/`: the two silent three-minute lecture loops, with playback and downloads.
 - `/feasibility/`: the silent 229-slide Full HD feasibility carousel, at three seconds per slide. Revision 2 alternates teams in Green, Purple, Red, Blue, Yellow, Pink order; pages advance forward and enter from the right. Each slide appears once, with finished teams dropping out of the rotation.
-- `/selects/` (and `/`): 14 selected videos and two browser slideshows, newest first, with original MP4 and offline slideshow downloads. Danny's October 23 list replaces all earlier picks: 95, 94, 61, 57, 53, 51, 47, 44, 13, 10, 9, 8, 4, 3, 2, 1.
+- `/selects/` (and `/`): 14 selected videos and four browser slideshows, newest first, with original MP4 and offline slideshow downloads. Danny's October 26 additions preserve the October 23 picks: 97, 96, 95, 94, 61, 57, 53, 51, 47, 44, 13, 10, 9, 8, 4, 3, 2, 1.
 - `/generator/`: a focused headshot generator, using the single-reel effects
   from tests 38–41 and the original 18-second Disco D soundtrack.
 

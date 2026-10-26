@@ -1,0 +1,224 @@
+{
+  "photo_count": 52,
+  "versions": [
+    {
+      "seconds_per_slide": 3,
+      "seconds": 156
+    },
+    {
+      "seconds_per_slide": 5,
+      "seconds": 260
+    }
+  ],
+  "dissolve_seconds": 0.1,
+  "photos": [
+    {
+      "filename": "01-26-10-21-Video-Shoot-Blue-Yellow-358.jpg",
+      "sha256": "f8835211c713b8debcecb000a8198d8f88b09559ea7ea40d4e241016f94bb542"
+    },
+    {
+      "filename": "02-26-10-21-Video-Shoot-Blue-Yellow-360.jpg",
+      "sha256": "6224486db2b030f32ad69ca53af4d8bc761df293eef5425490dae8546da12dc1"
+    },
+    {
+      "filename": "03-26-10-21-Video-Shoot-Blue-Yellow-371.jpg",
+      "sha256": "c6abf8f804321a1a0d3eaf13a7316958bc76833da828af623c70b3ac2fd35825"
+    },
+    {
+      "filename": "04-26-10-21-Video-Shoot-Blue-Yellow-401.jpg",
+      "sha256": "77097aab83115027690026b35cd41d2a214e2b37efd8212c09d7a927a1777585"
+    },
+    {
+      "filename": "05-26-10-21-Video-Shoot-Blue-Yellow-426.jpg",
+      "sha256": "ed5fe6f19c1bb46ea54a0d1ff87fabd80dfb22541df0385bb7a72dff36a4ea71"
+    },
+    {
+      "filename": "06-26-10-21-Video-Shoot-Blue-Yellow-434.jpg",
+      "sha256": "73bf919ddb3fc1af8067e27ea9eba53ac558675922bd914b9073bfe11a34ea9a"
+    },
+    {
+      "filename": "07-26-10-21-Video-Shoot-Blue-Yellow-440.jpg",
+      "sha256": "2af82ee8865b34e19ef77303bf3628b2a19890c3454746c076d771401efdadf6"
+    },
+    {
+      "filename": "08-26-10-21-Video-Shoot-Blue-Yellow-445.jpg",
+      "sha256": "951a07b68081539151c54e832c46cc4f90dd0b5a6fe199e0868bd5b6e90f68e7"
+    },
+    {
+      "filename": "09-26-10-21-Video-Shoot-Blue-Yellow-454.jpg",
+      "sha256": "e61e1e1840112e8de78214bb0421a3e28870c64d04c1c3564c05ace89283574b"
+    },
+    {
+      "filename": "10-26-10-21-Video-Shoot-Blue-Yellow-469.jpg",
+      "sha256": "667ca62b3960e78892344a94444786a029ef39f8457ae1e2b1db77eb5063a4a9"
+    },
+    {
+      "filename": "11-26-10-21-Video-Shoot-Blue-Yellow-488.jpg",
+      "sha256": "e8d51159a1e15e53ca8f24b02d0a500adddc5573eefb4070f04ca3e6f42877b8"
+    },
+    {
+      "filename": "12-_X0A9356.jpg",
+      "sha256": "298ab8ba3a4574f4ab76d5622b2fdc7c11a78db97d2bae84adb20b013dd4ce65"
+    },
+    {
+      "filename": "13-_X0A9379.jpg",
+      "sha256": "4e3877e1a7f8c41113c9987419eb657faa6440b6b947cf9a08057e24b03530b0"
+    },
+    {
+      "filename": "14-_X0A9392.jpg",
+      "sha256": "34578176f00c257ac5c17bc6ae5f30daf1d8282326486a472237b5dd8c0f4493"
+    },
+    {
+      "filename": "15-_X0A9399.jpg",
+      "sha256": "9a95dffdf2f13c938dfa5265dbbffba0f242c53490b3ec2a1d3ff4be8b6a19f5"
+    },
+    {
+      "filename": "16-_X0A9439.jpg",
+      "sha256": "23826ab1705af1e14cf905082c3be6654c6839aaf163ea64d404230e4388b8e9"
+    },
+    {
+      "filename": "17-_X0A9456.jpg",
+      "sha256": "3384b8e98f5bb58c802ed5893906dd318f3741da00f84fe6bd3ca1ca4a6c049c"
+    },
+    {
+      "filename": "18-_X0A9467.jpg",
+      "sha256": "55de89997032178adfc8f4f95740722c16cd64babb50033d4732270a2b9b2fc7"
+    },
+    {
+      "filename": "19-_X0A9471.jpg",
+      "sha256": "965c5733d65b3e50e964314696bf18953f5546f55b25943d40135dcf9ef6b5ca"
+    },
+    {
+      "filename": "20-26-10-23-Concept-Review-053.jpg",
+      "sha256": "b5a0208985bbdc5fa200205369a010debc77ae9051ba5a88e22115c47d8a800c"
+    },
+    {
+      "filename": "21-26-10-23-Concept-Review-061.jpg",
+      "sha256": "d048bcf17c5d4c67ba623aacf38a4f9525cb25f6b6f4b6bb76d579668c1ce4d2"
+    },
+    {
+      "filename": "22-26-10-23-Concept-Review-064.jpg",
+      "sha256": "69f86b1da9011ab9868239ed4a4f9e4e7cfe0f4da311b54c248806a1a54ffced"
+    },
+    {
+      "filename": "23-26-10-23-Concept-Review-070.jpg",
+      "sha256": "e1f36a9b5cd27634bde04297d95032e6df48ef6cd731e83f367b0f61efb9293f"
+    },
+    {
+      "filename": "24-26-10-23-Concept-Review-097.jpg",
+      "sha256": "95c91f8cd5730f8a0393b3d8035d8d62c78f79c110e026aab6fb2124714e5e52"
+    },
+    {
+      "filename": "25-26-10-23-Concept-Review-122.jpg",
+      "sha256": "e39dcc874ba3be41c91cb15eedf1599edb0484910d01d81043a66cf078f27215"
+    },
+    {
+      "filename": "26-26-10-23-Concept-Review-126.jpg",
+      "sha256": "13df5eebdf3378407a6a696a045af551d0dcd072cd5689c82dfc288ef35e01cd"
+    },
+    {
+      "filename": "27-26-10-23-Concept-Review-133.jpg",
+      "sha256": "29dcd48bfd86bece9d7acf3fbfb6812b39be2fcdc81375033a6f9750c2bc93a8"
+    },
+    {
+      "filename": "28-26-10-23-Concept-Review-156.jpg",
+      "sha256": "be07394becffdbc9ca0acbfccb797208d292e5355e9d840a0add68fe4738f70e"
+    },
+    {
+      "filename": "29-26-10-23-Concept-Review-174.jpg",
+      "sha256": "852934576a8e71cee4c2e6adf1dc0acaf3088b87c9347d351ebc333cafe46d5d"
+    },
+    {
+      "filename": "30-26-10-23-Concept-Review-182.jpg",
+      "sha256": "e621c1a2da69f62e74d7ff24ac0577a1c762356a0c2ff7dd1656d647b64507ef"
+    },
+    {
+      "filename": "31-26-10-23-Concept-Review-231.jpg",
+      "sha256": "afcfb413ff562032ce78d3a5409cc7876aeacded745008f54430d811a4327635"
+    },
+    {
+      "filename": "32-26-10-23-Concept-Review-236.jpg",
+      "sha256": "d53bc9b9c3ca4e87255c1fff52839577a4033f00fabe9fde157da5c14cceb641"
+    },
+    {
+      "filename": "33-26-10-23-Concept-Review-246.jpg",
+      "sha256": "bd191175b3b6466b24167e01a82bce8d85067d6af6009d3d1e3f38c51f8e5050"
+    },
+    {
+      "filename": "34-26-10-23-Concept-Review-258.jpg",
+      "sha256": "94228146520a20e6927453d5208f36edbf66afe39ec9e7a64d44638155d5198d"
+    },
+    {
+      "filename": "35-26-10-23-Concept-Review-281.jpg",
+      "sha256": "cb41c27b396ad3acb47d65d5a22f9b6b1db091d1d308d7a5d1b9f9066c1209f2"
+    },
+    {
+      "filename": "36-26-10-23-Concept-Review-289.jpg",
+      "sha256": "f58c16f08f630be6fa747fa9e2d4868e8e2a8104557247d8c68fef8de78b4852"
+    },
+    {
+      "filename": "37-26-10-23-Concept-Review-305.jpg",
+      "sha256": "27943c766d83a5971ea95fff307b5cda97f136381ceac523407313e39e607baf"
+    },
+    {
+      "filename": "38-26-10-23-Concept-Review-320.jpg",
+      "sha256": "e289eb222b76ffdd5a40c602a2ba56906800c8688156eb960a361f6321f116e7"
+    },
+    {
+      "filename": "39-26-10-23-Concept-Review-357.jpg",
+      "sha256": "5fd466c3976f890d2e11b9042ff535d52a43d4e5c56976517053da3194b8c3a5"
+    },
+    {
+      "filename": "40-26-10-23-Concept-Review-368.jpg",
+      "sha256": "48ba9fef7e02a3cd3a549239a97f6df2029e25b82401c0e5ea7b4ff69076c985"
+    },
+    {
+      "filename": "41-26-10-23-Concept-Review-373.jpg",
+      "sha256": "a36044f82408a45570d8aec588008ef27a84357dd1217e6ee46e8ab402ec1889"
+    },
+    {
+      "filename": "42-26-10-23-Concept-Review-383.jpg",
+      "sha256": "c90dae4500bfb428ad9115e57a9b3253ed245f6f227d508140c0b9d83a51348e"
+    },
+    {
+      "filename": "43-26-10-23-Concept-Review-394.jpg",
+      "sha256": "a825141e32518f0d92ae55803269632efd29bdd863fe26c9a2f920b75fa405ed"
+    },
+    {
+      "filename": "44-26-10-23-Concept-Review-402.jpg",
+      "sha256": "4fd2700bfb6e031adc30c37f1f47b3e1cf9d56df94ca6a36d3c59264bf1ee53f"
+    },
+    {
+      "filename": "45-26-10-23-Concept-Review-406.jpg",
+      "sha256": "a3faca7300f0f16e4a29c8945239f73ce31d1f6f373e5fb8c945dc60c2871bf4"
+    },
+    {
+      "filename": "46-26-10-23-Concept-Review-459.jpg",
+      "sha256": "34d0f9401e2b3b319b1c8e96c4a02cf9471d3e8fdeaf305139ca8b540756818c"
+    },
+    {
+      "filename": "47-26-10-23-Concept-Review-472.jpg",
+      "sha256": "f14c68c7debfb0cde7416651f8076217175e087bd54054fba231b5ba2ed1f3ef"
+    },
+    {
+      "filename": "48-26-10-23-Concept-Review-484.jpg",
+      "sha256": "dcfab0cab2b08b64675ee226ddb029689ec6c1779641ce90969ce88201734b54"
+    },
+    {
+      "filename": "49-26-10-23-Concept-Review-480.jpg",
+      "sha256": "c6be8e4e1840a2c1021360a249ea4339976401ae7bd5862c4406651a7399220c"
+    },
+    {
+      "filename": "50-26-10-23-Concept-Review-493.jpg",
+      "sha256": "93a75750af222843843a9cd927dfa9acd23a89c69214899752a2e95817251945"
+    },
+    {
+      "filename": "51-26-10-23-Concept-Review-490.jpg",
+      "sha256": "ce2f62a5a224443ba93ccf8587551b4af1490ce0e03500799ed46e504bd516ce"
+    },
+    {
+      "filename": "52-26-10-23-Concept-Review-392.jpg",
+      "sha256": "919b45f3fbbfacd1489fa94311bd566083a50b57f4fedbecf3b6b317a845698e"
+    }
+  ]
+}

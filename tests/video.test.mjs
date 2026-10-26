@@ -72,24 +72,24 @@ test('conditional requests and static pages', async () => {
   await mismatch.body.cancel();
   const index = await handler.fetch(req('/tests/'), env);
   const html = await index.text();
-  assert.equal((html.match(/<article/g) || []).length, 95);
+  assert.equal((html.match(/<article/g) || []).length, 97);
   assert.ok(html.includes('2025 Finals'));
   assert.ok(html.includes('92 videos.'));
   assert.ok(html.includes('<h1>All Tests</h1>'));
   assert.ok(html.includes('href="/"'));
   assert.ok(html.includes('With sound'));
   assert.ok(!html.includes('No audio'));
-  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), Array.from({ length: 95 }, (_, i) => 95 - i));
+  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), Array.from({ length: 97 }, (_, i) => 97 - i));
   assert.ok(!html.includes('Lecture 1'));
 });
 
-test('the already-shared root URL contains exactly the 16 chosen videos and slideshows, using the original files', async () => {
+test('the already-shared root URL contains exactly the 18 chosen videos and slideshows, using the original files', async () => {
   const response = await handler.fetch(req('/'), env);
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.ok(html.includes('<h1>Selects</h1>'));
-  assert.ok(html.includes('14 selected videos. 2 browser slideshows. Watch, download, and post.'));
-  const expected = [95,94,61,57,53,51,47,44,13,10,9,8,4,3,2,1];
+  assert.ok(html.includes('14 selected videos. 4 browser slideshows. Watch, download, and post.'));
+  const expected = [97,96,95,94,61,57,53,51,47,44,13,10,9,8,4,3,2,1];
   assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), expected);
   assert.ok(!html.includes('href="/tests'), 'Share page should not lead recipients to experiments');
   const legacy = await handler.fetch(req('/selects/'), env);

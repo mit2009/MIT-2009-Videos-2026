@@ -2041,5 +2041,35 @@
     "audio": "Silent",
     "loop": true,
     "download_filename": "MIT-2.009-Lecture-2026-10-13-5s.zip"
+  },
+  {
+    "number": 96,
+    "media_type": "slideshow",
+    "title": "October 26 Lecture — 3 seconds per photo",
+    "description": "All 52 photos in numbered order, including lab work and Concept Review. Full photographs on black, automatic playback, and a continuous loop. Use F for full screen, Space to pause, and the arrow keys to browse.",
+    "source_directory": "slideshows/2026-10-26-3s",
+    "thumbnail": "previews/96-lecture-2026-10-26.jpg",
+    "photo_count": 52,
+    "seconds_per_slide": 3,
+    "dissolve_seconds": 0.1,
+    "seconds": 156,
+    "audio": "Silent",
+    "loop": true,
+    "download_filename": "MIT-2.009-Lecture-2026-10-26-3s.zip"
+  },
+  {
+    "number": 97,
+    "media_type": "slideshow",
+    "title": "October 26 Lecture — 5 seconds per photo",
+    "description": "All 52 photos in numbered order, including lab work and Concept Review. Full photographs on black, automatic playback, and a continuous loop. Use F for full screen, Space to pause, and the arrow keys to browse.",
+    "source_directory": "slideshows/2026-10-26-5s",
+    "thumbnail": "previews/96-lecture-2026-10-26.jpg",
+    "photo_count": 52,
+    "seconds_per_slide": 5,
+    "dissolve_seconds": 0.1,
+    "seconds": 260,
+    "audio": "Silent",
+    "loop": true,
+    "download_filename": "MIT-2.009-Lecture-2026-10-26-5s.zip"
   }
 ]
