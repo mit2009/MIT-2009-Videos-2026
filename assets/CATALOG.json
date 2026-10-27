@@ -2071,5 +2071,35 @@
     "audio": "Silent",
     "loop": true,
     "download_filename": "MIT-2.009-Lecture-2026-10-26-5s.zip"
+  },
+  {
+    "number": 98,
+    "title": "Staff thank-you — Celebratory carousel",
+    "description": "Silent concept for Peko: all 11 supplied staff portraits glide through a curved carousel inspired by video 61, with six-color pixel lights and radiating rays inspired by video 57. A new portrait crosses the center every 2.75 seconds. Includes opening and closing thank-you titles. This 38.25-second sample scales to 1:47 for 36 staff at the same pace; the visual beat can be retimed to the eventual song.",
+    "file": "videos/MIT-2.009-Staff-Thank-You-Carousel-Test-38s.mp4",
+    "seconds": 38.25,
+    "dimensions": "1920 × 1080",
+    "format": "Landscape 16:9",
+    "photo_count": 11,
+    "size_mb": 44.8,
+    "online_url": "",
+    "thumbnail": "previews/98-staff-thank-you.jpg",
+    "sha256": "a90fe02eaa159fbc2e8c82200fe0c26d6db0629c3195024e7f5e7aaea5f0704d",
+    "fps": 60,
+    "codec": "H.264",
+    "audio": "Silent",
+    "fast_start": true,
+    "loop": false,
+    "collection": "staff-thank-you",
+    "seconds_per_photo": 2.75,
+    "opening_seconds": 3.5,
+    "closing_seconds": 4.5,
+    "projected_36_staff_seconds": 107,
+    "visual_bpm": 109.09,
+    "reference_videos": [
+      61,
+      57
+    ],
+    "added_text": true
   }
 ]

@@ -1,0 +1,93 @@
+{
+  "sourceArchive": "26-10-27-Staff-Thank-You-Test.zip",
+  "photos": [
+    {
+      "number": 1,
+      "filename": "26-09-14-Headshots-0015.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "60ffe0d586badd8343d83a5bc69c4b9159f1aa493454793f28a10e24099bc5df",
+      "tile": "tiles/01.png"
+    },
+    {
+      "number": 2,
+      "filename": "26-09-14-Headshots-0386.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "25fae7d4945d5614a408c1b9c05e4dee3d39550cd8903a7a01f5ac6a16401525",
+      "tile": "tiles/02.png"
+    },
+    {
+      "number": 3,
+      "filename": "26-09-14-Headshots-0403.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "b01c431b618b6116f3dca5a5ad80b1f1ffeda19bd320cb954c4efc04673f4650",
+      "tile": "tiles/03.png"
+    },
+    {
+      "number": 4,
+      "filename": "26-09-14-Headshots-0469.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "a8bca2100165533dd78a72aa612db3ecf9325a954fb9166d9e159b8e08a3bf02",
+      "tile": "tiles/04.png"
+    },
+    {
+      "number": 5,
+      "filename": "26-09-14-Headshots-0479.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "39b743702e9c41672825d3d867c01ce538acf603388323f8390f42c1b2cc5da5",
+      "tile": "tiles/05.png"
+    },
+    {
+      "number": 6,
+      "filename": "26-09-15-Headshots-0204.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "035bb5588b1964b4f5413b4288b30ce5d502e0ccc09ad81dd0ba4eec978f376d",
+      "tile": "tiles/06.png"
+    },
+    {
+      "number": 7,
+      "filename": "26-09-16-Headshots-0264.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "3f6ff5c8cd4ed21a3b03363743e3ad3bdb217aa07ffccd376eb58523a565b736",
+      "tile": "tiles/07.png"
+    },
+    {
+      "number": 8,
+      "filename": "26-09-16-Headshots-0267.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "ee12874acbf9450902a3ba191d3e61650b6a1ff46778e40131f2e498267a0b23",
+      "tile": "tiles/08.png"
+    },
+    {
+      "number": 9,
+      "filename": "26-09-16-Headshots-0271-Edit.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "449514eaa3c249d203a0f648360140fe51ee2ab61942b009763c400a43bb8746",
+      "tile": "tiles/09.png"
+    },
+    {
+      "number": 10,
+      "filename": "26-09-16-Headshots-0286.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "040050fc8e12064fcd2536c88befb65b440566a045155b3437926d004ccb78fb",
+      "tile": "tiles/10.png"
+    },
+    {
+      "number": 11,
+      "filename": "26-09-16-Headshots-0319.jpg",
+      "width": 2600,
+      "height": 2600,
+      "sha256": "e0d39b97112f8ecad0815169bd54ef7af9ee80c0ff072628ac1e88e48a1c6a40",
+      "tile": "tiles/11.png"
+    }
+  ]
+}

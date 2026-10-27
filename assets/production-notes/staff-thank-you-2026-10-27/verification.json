@@ -1,0 +1,36 @@
+{
+  "file": "MIT-2.009-Staff-Thank-You-Carousel-Test-38s.mp4",
+  "sha256": "a90fe02eaa159fbc2e8c82200fe0c26d6db0629c3195024e7f5e7aaea5f0704d",
+  "bytes": 44817489,
+  "seconds": 38.25,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 60,
+  "frames": 2295,
+  "audio_streams": 0,
+  "full_decode": "passed",
+  "fast_start": true,
+  "supplied_photos": 11,
+  "photo_source_hashes": "passed",
+  "center_crossing_seconds": [
+    4.875,
+    7.625,
+    10.375,
+    13.125,
+    15.875,
+    18.625,
+    21.375,
+    24.125,
+    26.875,
+    29.625,
+    32.375
+  ],
+  "photo_interval_seconds": 2.75,
+  "opening_seconds": 3.5,
+  "closing_seconds": 4.5,
+  "projected_36_staff_seconds": 107,
+  "visual_beat_seconds": 0.55,
+  "visual_bpm": 109.09090909090908
+}

@@ -13,8 +13,9 @@ const env = { ASSETS: localAssets(root) };
 const [path, video] = Object.entries(manifest)[0];
 const req = (route = path, options = {}) => new Request('https://example.com' + route, options);
 
-test('All Tests preserves the complete catalog and adds the six-color upward-pull version', () => {
-  assert.equal(Object.keys(manifest).length, 92);
+test('All Tests preserves the complete catalog and adds the staff thank-you carousel', () => {
+  assert.equal(Object.keys(manifest).length, 93);
+  assert.ok(manifest['/videos/MIT-2.009-Staff-Thank-You-Carousel-Test-38s.mp4']);
   assert.ok(manifest['/videos/MIT-2.009-2025-Finals-1p0s.mp4']);
   assert.ok(manifest['/videos/MIT-2.009-Yellow-Slot-A-Quick-8s-Portrait-15.mp4']);
   assert.ok(manifest['/videos/MIT-2.009-Yellow-Slot-B-Slow-11s-Portrait-15.mp4']);
@@ -72,14 +73,14 @@ test('conditional requests and static pages', async () => {
   await mismatch.body.cancel();
   const index = await handler.fetch(req('/tests/'), env);
   const html = await index.text();
-  assert.equal((html.match(/<article/g) || []).length, 97);
+  assert.equal((html.match(/<article/g) || []).length, 98);
   assert.ok(html.includes('2025 Finals'));
-  assert.ok(html.includes('92 videos.'));
+  assert.ok(html.includes('93 videos.'));
   assert.ok(html.includes('<h1>All Tests</h1>'));
   assert.ok(html.includes('href="/"'));
   assert.ok(html.includes('With sound'));
   assert.ok(!html.includes('No audio'));
-  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), Array.from({ length: 97 }, (_, i) => 97 - i));
+  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), Array.from({ length: 98 }, (_, i) => 98 - i));
   assert.ok(!html.includes('Lecture 1'));
 });
 
