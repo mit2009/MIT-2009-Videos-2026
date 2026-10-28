@@ -1,9 +1,9 @@
 # MIT 2.009 Videos 2026
 
-All Tests contains ninety-three videos and five browser slideshows at https://26-mit-2009-videos.vercel.app/tests/.
+All Tests contains ninety-three videos and seven browser slideshows at https://26-mit-2009-videos.vercel.app/tests/.
 Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /selects/ URL shows the same picks.
 
-- Preserve every catalog item numbered 1–98 unless requested otherwise.
+- Preserve every catalog item numbered 1–100 unless requested otherwise.
 - Use the names All Tests and Selects. As of October 26, Selects contains exactly 1, 2, 3, 4, 8, 9, 10, 13, 44, 47, 51, 53, 57, 61, 94, 95, 96, and 97; change assets/SELECTS.json only when Danny changes his picks. This list replaces all earlier picks and supersedes historical selection notes below.
 - Both pages show newest first. Keep existing catalog numbers and MP4 URLs. The root URL must show only Selects; all experiments belong at /tests/. Selects must not link back to experiments.
 - Danny chose Disco D (Space Disco) for all four digital graphics, with the pink background glow changed to blue and slowly changing accents that settle on blue at the 12-second landing. Updated items 38–41 remain in All Tests; they were removed from Selects on October 23. Keep their music identical in timing and volume; preserve earlier versions 30–37 in All Tests.
@@ -14,6 +14,7 @@ Selects is the share page at https://26-mit-2009-videos.vercel.app/. The /select
 - Items 94–95 are the additional October 13 lecture versions at /slideshows/2026-10-13-3s/ and /slideshows/2026-10-13-5s/. They use the same 58 photo files and order as 93, with intervals of 3 and 5 seconds, respectively, including the same 0.1-second dissolve. Loops last 174 and 290 seconds. Keep the original 1.75-second version unchanged. Each version has its own offline ZIP.
 - Items 96–97 are the October 26 lecture slideshows, at /slideshows/2026-10-26-3s/ and /slideshows/2026-10-26-5s/. Each contains all 52 supplied photos in numbered filename order, fitted uncropped on black. They advance every 3 or 5 seconds, including a 0.1-second dissolve, and loop in 156 or 260 seconds. Both are on Selects at Danny’s request and offer offline ZIPs. Preserve the original photo bytes and playback controls.
 - Item 98 is the October 27 staff thank-you concept for Peko: all 11 supplied staff portraits in a curved carousel inspired by 61, with six-color Pixel + Prism effects inspired by 57. Silent, 1920 × 1080, 60 fps, 38.25 seconds. New center portrait every 2.75 seconds; 3.5-second opening and 4.5-second closing. At this pace, 36 staff would take 107 seconds. All Tests only; Selects is unchanged. Production notes are in assets/production-notes/staff-thank-you-2026-10-27/.
+- Items 99–100 are the October 28 Research So Far This Semester lecture slideshows at /slideshows/2026-10-28-3s/ and /slideshows/2026-10-28-5s/. All 69 supplied photos remain in numbered filename order with original bytes, fitted uncropped on black. Three or five seconds per photo includes a 0.1-second dissolve, giving 207- and 345-second silent loops. Both offer offline ZIPs and retain the established playback controls. All Tests only; Selects is unchanged.
 - site/, dist/, and video-manifest.json are generated; use python3 build.py.
 - Run npm test when changing video delivery or the build process.
 - The Cloudflare site uses dashboard Direct Upload, not automatic GitHub deployment.

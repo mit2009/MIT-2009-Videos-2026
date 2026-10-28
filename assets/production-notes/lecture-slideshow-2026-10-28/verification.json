@@ -1,0 +1,29 @@
+{
+  "source_photos_decoded": 69,
+  "photo_order": "01\u201369, original numbered filename order",
+  "source_bytes": "all preserved",
+  "fit": "complete photographs on black, no crop",
+  "dissolve_seconds": 0.1,
+  "silence": true,
+  "loop": true,
+  "browser_checks": "both auto-advance, pause, arrow navigation; landscape and portrait fit verified",
+  "catalog_tests": 138,
+  "previous_catalog_entries": "unchanged",
+  "selects": "unchanged",
+  "offline_packages": [
+    {
+      "seconds_per_photo": 3,
+      "loop_seconds": 207,
+      "photo_count": 69,
+      "zip_bytes": 97490827,
+      "zip_sha256": "5740375a14886ad98c704ce897af37867936f4c7c032fd497e7aaa417b92c927"
+    },
+    {
+      "seconds_per_photo": 5,
+      "loop_seconds": 345,
+      "photo_count": 69,
+      "zip_bytes": 97490827,
+      "zip_sha256": "2dc4d5b33e89ab6a46390d3821e837984997ce54031dbc4e3886f837e4bd7ac7"
+    }
+  ]
+}

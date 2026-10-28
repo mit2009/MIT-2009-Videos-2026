@@ -1,0 +1,93 @@
+:root {
+  color-scheme: dark;
+  --fade-duration: 100ms;
+}
+
+html, body, #slideshow {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #000;
+}
+
+body { font-family: system-ui, sans-serif; }
+#slideshow { position: relative; }
+
+.slide {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity var(--fade-duration) ease-in-out;
+  pointer-events: none;
+}
+
+.slide.is-active { opacity: 1; }
+.slide.instant { transition: none; }
+
+#controls {
+  position: fixed;
+  z-index: 2;
+  bottom: max(20px, env(safe-area-inset-bottom));
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border: 1px solid rgb(255 255 255 / 14%);
+  border-radius: 10px;
+  background: rgb(0 0 0 / 65%);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 180ms ease;
+}
+
+body.controls-visible #controls, #controls:focus-within {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+body:not(.controls-visible) { cursor: none; }
+body:has(#controls:focus-within) { cursor: auto; }
+
+button {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 10px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+button:hover { background: rgb(255 255 255 / 14%); }
+button:focus-visible { outline: 2px solid #fff; outline-offset: -2px; }
+button:disabled { opacity: .35; cursor: default; }
+svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.play-icon, .exit-icon, body.paused .pause-icon, body.fullscreen .enter-icon { display: none; }
+body.paused .play-icon, body.fullscreen .exit-icon { display: block; }
+.play-icon { fill: currentColor; stroke: none; }
+
+#status, .notice {
+  position: fixed;
+  z-index: 3;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: min(30rem, 80vw);
+  margin: 0;
+  padding: 12px 16px;
+  border-radius: 8px;
+  background: rgb(0 0 0 / 85%);
+  color: #fff;
+  font-size: 1rem;
+  text-align: center;
+}

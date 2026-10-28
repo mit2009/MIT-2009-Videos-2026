@@ -2101,5 +2101,35 @@
       57
     ],
     "added_text": true
+  },
+  {
+    "number": 99,
+    "media_type": "slideshow",
+    "title": "Research So Far This Semester — 3 seconds per photo",
+    "description": "All 69 supplied research photos in numbered order, from early research through Concept Review. Complete photographs on black, automatic playback, and a continuous loop. Use F for full screen, Space to pause, and the arrow keys to browse.",
+    "source_directory": "slideshows/2026-10-28-3s",
+    "thumbnail": "previews/99-research-2026-10-28.jpg",
+    "photo_count": 69,
+    "seconds_per_slide": 3,
+    "dissolve_seconds": 0.1,
+    "seconds": 207,
+    "audio": "Silent",
+    "loop": true,
+    "download_filename": "MIT-2.009-Research-So-Far-2026-10-28-3s.zip"
+  },
+  {
+    "number": 100,
+    "media_type": "slideshow",
+    "title": "Research So Far This Semester — 5 seconds per photo",
+    "description": "All 69 supplied research photos in numbered order, from early research through Concept Review. Complete photographs on black, automatic playback, and a continuous loop. Use F for full screen, Space to pause, and the arrow keys to browse.",
+    "source_directory": "slideshows/2026-10-28-5s",
+    "thumbnail": "previews/99-research-2026-10-28.jpg",
+    "photo_count": 69,
+    "seconds_per_slide": 5,
+    "dissolve_seconds": 0.1,
+    "seconds": 345,
+    "audio": "Silent",
+    "loop": true,
+    "download_filename": "MIT-2.009-Research-So-Far-2026-10-28-5s.zip"
   }
 ]

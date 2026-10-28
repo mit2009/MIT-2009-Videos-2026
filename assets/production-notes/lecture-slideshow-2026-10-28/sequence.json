@@ -1,0 +1,358 @@
+{
+  "source_archive": "26-10-28-Research-So-Far-This-Semester.zip",
+  "source_archive_sha256": "8b48ef9806d8e13640638b3299107dc504076c0de77eae35873928ea10dfa6b5",
+  "photo_count": 69,
+  "dissolve_seconds": 0.1,
+  "interval_options_seconds": [
+    3,
+    5
+  ],
+  "loop": true,
+  "photos": [
+    {
+      "filename": "01-26-09-21-Lecture-7-6-and-6-0008.jpg",
+      "bytes": 1605543,
+      "sha256": "afd9c51ef1017a967ca0527ec42d64ac9517b2b9422208c14478183d63cf3ef0"
+    },
+    {
+      "filename": "02-26-09-21-Lecture-7-6-and-6-0025.jpg",
+      "bytes": 1354379,
+      "sha256": "22c3711eade367634dd00678de2361aa87d47ba026bec038f41e09105e4a1aa7"
+    },
+    {
+      "filename": "03-26-09-21-Lecture-7-6-and-6-0071.jpg",
+      "bytes": 1364402,
+      "sha256": "cc7574c207954ce625c1a481aa14f5c65ce0f214f39b4c51024968aac61b2eb5"
+    },
+    {
+      "filename": "04-26-09-21-Lecture-7-6-and-6-0139.jpg",
+      "bytes": 1371293,
+      "sha256": "ece06fc4aee9af27ea6c367bd3bc1012680ab967c2c8abfa9b0f46018eba2694"
+    },
+    {
+      "filename": "05-26-09-21-Lecture-7-6-and-6-0185.jpg",
+      "bytes": 1350088,
+      "sha256": "4507d91777fa7d6a0bb7495e899c303c95ef44e5ee3fe8b3f5755a869f027550"
+    },
+    {
+      "filename": "06-26-09-21-Lecture-7-6-and-6-0218.jpg",
+      "bytes": 1649878,
+      "sha256": "239f91ede1cb4894b2e8e1838f5ca2590aee660567a429a3c890bc0301782976"
+    },
+    {
+      "filename": "07-26-09-21-Lecture-7-6-and-6-0246.jpg",
+      "bytes": 1220439,
+      "sha256": "c4d171a7330a7342461ebf4421414daad72e624fc3355756d8118e90dd0caadf"
+    },
+    {
+      "filename": "08-26-09-21-Lecture-7-6-and-6-0254.jpg",
+      "bytes": 1116122,
+      "sha256": "d0debe607adaef78fbb0f9de0342ebb5b1c0828cf8b9c69e4709ed9e7bf1dcde"
+    },
+    {
+      "filename": "09-26-09-21-Lecture-7-6-and-6-0295.jpg",
+      "bytes": 1385140,
+      "sha256": "014490e32e24e29dfd7e97f826d21e11169d30e33f4061bdb38d4276d5a43b0e"
+    },
+    {
+      "filename": "10-26-09-21-Lecture-7-6-and-6-0341.jpg",
+      "bytes": 1095663,
+      "sha256": "ffb043d3229a64c18cb3346cb8381ce0aa6829cdecdf2cd47b0ef944f4c26a73"
+    },
+    {
+      "filename": "11-26-09-21-Lecture-7-6-and-6-0408.jpg",
+      "bytes": 1514792,
+      "sha256": "6edec7d5fa8e81effffd2e2d38fba40b430499591010092312e6887eb6144935"
+    },
+    {
+      "filename": "12-26-09-21-Lecture-7-6-and-6-0437.jpg",
+      "bytes": 1086637,
+      "sha256": "badefa6d2f5862f674b1bc49d639e86acc4d010520530fe349eaa83cb1d78ec8"
+    },
+    {
+      "filename": "13-26-09-21-Lecture-7-6-and-6-0468.jpg",
+      "bytes": 1444890,
+      "sha256": "04fd6868b7b4676102f4af2462bc7f4b7233d51a34e247aa3f5c7e569d00ca85"
+    },
+    {
+      "filename": "14-26-09-23-Lecture-8-6-and-6-0078.jpg",
+      "bytes": 1181677,
+      "sha256": "6b2cc993bfe7802c3e6af3c7908d25570ae008101a99ff2453c81a6982cf8dad"
+    },
+    {
+      "filename": "15-26-09-23-Lecture-8-6-and-6-0099.jpg",
+      "bytes": 1150636,
+      "sha256": "73d35aa7c47bd745400ce7be47556d353eb80db44365ec67e73f6d815cbd492f"
+    },
+    {
+      "filename": "16-26-09-30-Feasibility-0058.jpg",
+      "bytes": 777482,
+      "sha256": "64f22a7a910494129ea4aefdbd8b93e67c2b61de0129840c21935d271755fdf4"
+    },
+    {
+      "filename": "17-26-09-30-Feasibility-0132.jpg",
+      "bytes": 1106950,
+      "sha256": "3186362bade7f2c9b648fffd3e0fcfceaf55a0944f23dca9fbfc8af5e6a3afa8"
+    },
+    {
+      "filename": "18-26-09-30-Feasibility-0140.jpg",
+      "bytes": 1190284,
+      "sha256": "c9c33524692490c3690f4c1638111b91fb871069d568cdda6f7bc973293088be"
+    },
+    {
+      "filename": "19-26-09-30-Feasibility-0182.jpg",
+      "bytes": 1133673,
+      "sha256": "a5b876688f1f4df9b67f6a7de2dfa45857f7ee238234c7d53746fd3e173e80c5"
+    },
+    {
+      "filename": "20-26-09-30-Feasibility-0229.jpg",
+      "bytes": 989339,
+      "sha256": "0eab713667eee248e918eb6830debd2081eed1ad026d46c23b903ee493f94ee9"
+    },
+    {
+      "filename": "21-26-09-30-Feasibility-0236.jpg",
+      "bytes": 945704,
+      "sha256": "eb47c8249fbbbc8c7972fa82108a20d4ae74bd9a299f320cf2d74fac03db565b"
+    },
+    {
+      "filename": "22-26-09-30-Feasibility-0277.jpg",
+      "bytes": 1342604,
+      "sha256": "5845916b9e95221a23ecc572b596962ff6b3e587ae5099de5b4903c134cac715"
+    },
+    {
+      "filename": "23-26-09-30-Feasibility-0333.jpg",
+      "bytes": 1203497,
+      "sha256": "6c8cabec1c043c65e60f2a4222172b02b9362a263d15adcfb10aecc0250c75c5"
+    },
+    {
+      "filename": "24-26-09-30-Feasibility-0344.jpg",
+      "bytes": 1312521,
+      "sha256": "e2c668523c8320719e90e8134a6519ffb3bd15e55d43415ea42e1b1a08def4fd"
+    },
+    {
+      "filename": "25-26-09-30-Feasibility-0354.jpg",
+      "bytes": 1043800,
+      "sha256": "dcd94109a888fe843ca168ca4ea86b09694f87c82836c2e9842f9eedae7c007a"
+    },
+    {
+      "filename": "26-26-09-30-Feasibility-0417.jpg",
+      "bytes": 925645,
+      "sha256": "00a38b0eee3c49f718270d220bbeca7584abe4079deba0be003fc932e59f07a5"
+    },
+    {
+      "filename": "27-26-09-30-Feasibility-0476.jpg",
+      "bytes": 1019002,
+      "sha256": "57e1117f676de04d8597c87ce3cb2f6b4480dd1de0cc1e6436b4659a93781dfc"
+    },
+    {
+      "filename": "28-26-09-30-Feasibility-0503.jpg",
+      "bytes": 1161649,
+      "sha256": "b55a52935949d05ba5999a4fd3f21930a86cea56f8c923e45b2e78fcd15ff31d"
+    },
+    {
+      "filename": "29-26-09-30-Feasibility-0542.jpg",
+      "bytes": 1180027,
+      "sha256": "bfb2bba37de563db10fdcf782ee9b5d4ab4911ddb7bddc1cca0388571cc47532"
+    },
+    {
+      "filename": "30-26-09-30-Feasibility-0586.jpg",
+      "bytes": 1408662,
+      "sha256": "91e479d9b26ee21735ca11fafb5f0ec7996bef7c281db2e34de7e2446cde159c"
+    },
+    {
+      "filename": "31-26-09-30-Feasibility-0611.jpg",
+      "bytes": 1497335,
+      "sha256": "6ce2a93cce05cfe33049810033981a102ef12e8062a0e5d97385e2b455f74f67"
+    },
+    {
+      "filename": "32-26-10-09-Build-Challenge-0156.jpg",
+      "bytes": 1309478,
+      "sha256": "67868af634b4ebac906fa8eb5bb32294c832e5b7c72b37e4b8857fb43c12acdf"
+    },
+    {
+      "filename": "33-26-10-09-Build-Challenge-0192.jpg",
+      "bytes": 1703520,
+      "sha256": "8ba7293cea77f22ee9e765ad6406fa604b3bf56a3c5032d5e0e7037c30e0db61"
+    },
+    {
+      "filename": "34-26-10-09-Build-Challenge-0344.jpg",
+      "bytes": 2414831,
+      "sha256": "d70ef1b53c07ec50e30f93e9dbeb8317b83df918972eec3e6d46e80ba632a717"
+    },
+    {
+      "filename": "35-26-10-09-Build-Challenge-0508.jpg",
+      "bytes": 1389502,
+      "sha256": "569a70870c0d30d8e1f2c1c9680b497f91bdfc1d2b25cd6837183251e1fe5801"
+    },
+    {
+      "filename": "36-26-10-09-Build-Challenge-0519.jpg",
+      "bytes": 1774424,
+      "sha256": "8c05d33ba59bd4136c88d1fd590d23cdd035421717d3348c4bc7ddb0d28e74d4"
+    },
+    {
+      "filename": "37-26-10-09-Build-Challenge-0596.jpg",
+      "bytes": 2990631,
+      "sha256": "0033b8e68fc0f53efc37b45d57c771e6e91a69e09cb58467d2e1d25835b66fe0"
+    },
+    {
+      "filename": "38-26-10-09-Build-Challenge-0623.jpg",
+      "bytes": 1831316,
+      "sha256": "e74289ed7ccb7c07aec1ce6e84f000cdacc1765186096bb4373bd7fbbcb5579a"
+    },
+    {
+      "filename": "39-26-10-09-Build-Challenge-0650.jpg",
+      "bytes": 2434636,
+      "sha256": "14457ec7282260bb6a2078e8972a934ca18b530ad21387f1fad0bcbc301836d3"
+    },
+    {
+      "filename": "40-26-10-09-Build-Challenge-0701.jpg",
+      "bytes": 1590276,
+      "sha256": "46aeebb3ce06b7441055abc25027770cdf6149df4a237d40974a79ad2206ba09"
+    },
+    {
+      "filename": "41-26-10-09-Build-Challenge-0790.jpg",
+      "bytes": 2034630,
+      "sha256": "65e7d3c0f3c711513c855a37c8f38d303515226847da39bdb15a03b10b98689b"
+    },
+    {
+      "filename": "42-26-10-09-Build-Challenge-0839.jpg",
+      "bytes": 2341054,
+      "sha256": "285829e15d548d940e39a87497c953360c0351be57ef4900c9c88888fb576cdd"
+    },
+    {
+      "filename": "43-26-10-09-Build-Challenge-0877.jpg",
+      "bytes": 1766361,
+      "sha256": "d1b7550d6cef8813a598da635147d82f598123006eccb6e5109023db2793345c"
+    },
+    {
+      "filename": "44-26-10-09-Build-Challenge-0911.jpg",
+      "bytes": 2549993,
+      "sha256": "e6be0e0fed745354d0adad33a0a2917ea34e07bdacd8a64d77519ccbe7ce0806"
+    },
+    {
+      "filename": "45-26-10-09-Build-Challenge-1111.jpg",
+      "bytes": 1711044,
+      "sha256": "06b5d73d962a7fc030551798c64cb0b9ceead7237b7a3c1c0d85c43769ae244a"
+    },
+    {
+      "filename": "46-26-10-09-Build-Challenge-1123.jpg",
+      "bytes": 1119221,
+      "sha256": "3758b60c8668b465eb1a1ce0bc408bca701bd67ffaea4d0cf392a5a076cdbab4"
+    },
+    {
+      "filename": "47-26-10-09-Build-Challenge-1157.jpg",
+      "bytes": 2210854,
+      "sha256": "936ee8db159a3e4acf18dd74863017e38def4649e73088225ec0c24b998952d3"
+    },
+    {
+      "filename": "48-26-10-09-Build-Challenge-1316.jpg",
+      "bytes": 2170319,
+      "sha256": "bbf101a10ffb76eddc65719468e3548bd4b293d893b09848d1c473c4ce65e8f9"
+    },
+    {
+      "filename": "49-26-10-21-Video-Shoot-Blue-Yellow-358.jpg",
+      "bytes": 1054768,
+      "sha256": "00c7895509371aba7b78f823df63453928d807e077713cc1dea783655d324c6e"
+    },
+    {
+      "filename": "50-26-10-21-Video-Shoot-Blue-Yellow-401.jpg",
+      "bytes": 1036015,
+      "sha256": "b8ec400dc9ede6686f04147c2138f54029125e94bfd11645c37a289a79ed9713"
+    },
+    {
+      "filename": "51-26-10-21-Video-Shoot-Blue-Yellow-434.jpg",
+      "bytes": 1460266,
+      "sha256": "d111801c30e11be51dce3b80b01f2287068a3524b688d14abf8ebd9530c45983"
+    },
+    {
+      "filename": "52-26-10-21-Video-Shoot-Blue-Yellow-445.jpg",
+      "bytes": 1453467,
+      "sha256": "0de1682a6b5911d9da2ed4ccbd7ddfb55d44027960425969a8c77da0dfa92fc7"
+    },
+    {
+      "filename": "53-26-10-21-Video-Shoot-Blue-Yellow-488.jpg",
+      "bytes": 1113745,
+      "sha256": "af82ff7753c4ab8717917c99f9e9d1cf23a9ae48fcb40f5111cc674999b91578"
+    },
+    {
+      "filename": "54-_X0A9379.jpg",
+      "bytes": 1540732,
+      "sha256": "81be091dbe2d02b5b7189bc200b7e54badbfe41da87d5dbacadcc562841b330d"
+    },
+    {
+      "filename": "55-_X0A9392.jpg",
+      "bytes": 976417,
+      "sha256": "c0b78e90ad36b30266b5787100c645ffaa0bb2022543d4f3a862ce4085d35da2"
+    },
+    {
+      "filename": "56-_X0A9456.jpg",
+      "bytes": 799480,
+      "sha256": "373f3aef772ac95da1a370cb16a482859fcc3434579654c1162fb141904020a9"
+    },
+    {
+      "filename": "57-_X0A9471.jpg",
+      "bytes": 772708,
+      "sha256": "81a1149c26e1c01b6e0ee208c2c1a1d0b6a58bf32ad2c02513e6f41596a7cf4b"
+    },
+    {
+      "filename": "58-26-10-23-Concept-Review-061.jpg",
+      "bytes": 1514666,
+      "sha256": "057bb49af6e19b97682c4fa0d2d54d670eae1097ef358de5e507d8d211eb05a0"
+    },
+    {
+      "filename": "59-26-10-23-Concept-Review-097.jpg",
+      "bytes": 928754,
+      "sha256": "adf9994334a05c87c8820a80ad97119b866c33d2a510ea1e9168664c6c2ae1ee"
+    },
+    {
+      "filename": "60-26-10-23-Concept-Review-126.jpg",
+      "bytes": 1260471,
+      "sha256": "b892ebe27245ccc4b18c864974c044fc017e2cf12fff842c513db5ab626cfe79"
+    },
+    {
+      "filename": "61-26-10-23-Concept-Review-133.jpg",
+      "bytes": 1351417,
+      "sha256": "8f4e0529b9fbd092638a793122563daf16bbea99881f1aecd185a5a8e69dcfeb"
+    },
+    {
+      "filename": "62-26-10-23-Concept-Review-156.jpg",
+      "bytes": 1345189,
+      "sha256": "9ee1e3087dbbe94496b224d3c2752e4d8294466de19730f093a96bc744333ee9"
+    },
+    {
+      "filename": "63-26-10-23-Concept-Review-174.jpg",
+      "bytes": 1070940,
+      "sha256": "023f8c044fe9e49c844a961583f839b935c33707d8a0713a7fc7e554f554b731"
+    },
+    {
+      "filename": "64-26-10-23-Concept-Review-246.jpg",
+      "bytes": 1390340,
+      "sha256": "f7ac2cffc858c04ba583d45aa53f18df4d26a72456a1183cd8f002b377f4ffb4"
+    },
+    {
+      "filename": "65-26-10-23-Concept-Review-258.jpg",
+      "bytes": 1382831,
+      "sha256": "f43e01840bb5abb8bf0ac5ef1cb8d48d85dd041f75596c1943ac3a93b6fdb8aa"
+    },
+    {
+      "filename": "66-26-10-23-Concept-Review-289.jpg",
+      "bytes": 1700420,
+      "sha256": "38f639a2c5a7eae4f6381798eb6060070241b69d625590d8bf83e277ff8cdfa2"
+    },
+    {
+      "filename": "67-26-10-23-Concept-Review-305.jpg",
+      "bytes": 1288650,
+      "sha256": "b29041bb47b268e5be9ec29c458eb1bc92cdefe14f7a1141cfd05b77e71bceb6"
+    },
+    {
+      "filename": "68-26-10-23-Concept-Review-357.jpg",
+      "bytes": 1156979,
+      "sha256": "375710ef30e7e90f0df203b46be7c453f2ab1a2c73d0b8c54a4d6d3a67eaa651"
+    },
+    {
+      "filename": "69-26-10-23-Concept-Review-394.jpg",
+      "bytes": 1393248,
+      "sha256": "c3eb6d966335263d5d4957dc1f8ee6ec73f5c296d8b490202805711bd7a7c146"
+    }
+  ]
+}
