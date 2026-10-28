@@ -1,0 +1,615 @@
+{
+  "source_archive": "26-10-28-Research-to-Date-Slideshow.zip",
+  "source_archive_sha256": "dbda2ccc2bb32ee2026459a7cdfd94006bef02a79002ae90f50f0cc34cfddadb",
+  "photo_count": 86,
+  "dissolve_seconds": 0.1,
+  "interval_options_seconds": [
+    2,
+    3.5
+  ],
+  "loop": true,
+  "photos": [
+    {
+      "filename": "01-26-09-14-Lecture-3-Theme-Balloons-0538.jpg",
+      "bytes": 1347901,
+      "sha256": "18143122fe6099a29a70ed11b324923015f56ef646f6698f3ae85d8ed956e70c",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "02-26-09-14-Lecture-3-Theme-Balloons-0649.jpg",
+      "bytes": 1239339,
+      "sha256": "91c5079264b4326f1a0fab4929fd00bb92e39df36bb1310f76071fd75ba86620",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "03-26-09-14-Lecture-3-Theme-Balloons-0898.jpg",
+      "bytes": 1439658,
+      "sha256": "a8331366f817b36fb50e25374175be193912b8c3cd53d4a3aa587959a14d034b",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "04-26-09-14-Lecture-3-Theme-Balloons-0698.jpg",
+      "bytes": 716350,
+      "sha256": "2953793f25c9d716865254212047307ee3e4a3c3264b758ac6f362a5318d00e7",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "05-26-09-14-Lecture-3-Theme-Balloons-0986.jpg",
+      "bytes": 2278972,
+      "sha256": "b56f0f268232bb01437417191e4bfd371c73c7a272220262720dc5f74d76f930",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "06-26-09-14-Lecture-3-Theme-Balloons-1083.jpg",
+      "bytes": 2564870,
+      "sha256": "2e96bd115ffaa4779a45b345a95da7cf4339cad6b6b1f6d373d257ffed6bdda5",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "07-26-09-14-Lecture-3-Theme-Balloons-1196.jpg",
+      "bytes": 973798,
+      "sha256": "fd5224bce6a2a0a28da268c8204cae58c6e2b9b1812ede165ea1e19f46d00534",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "08-26-09-14-Lecture-3-Theme-Balloons-0160.jpg",
+      "bytes": 2468198,
+      "sha256": "29a0b0b20fd0ca8bf138a797c5a890283e723aba2be520d520f8a473d2d0878e",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "09-26-09-14-Lecture-3-Theme-Balloons-1596.jpg",
+      "bytes": 919745,
+      "sha256": "9b95f34db6d6abb00c81f31737872b44feadc13247263fafb168dd13dfb36fb4",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "10-26-09-14-Lecture-3-Theme-Balloons-1628.jpg",
+      "bytes": 1457975,
+      "sha256": "e9efb162560b254d78dad08e5ea9811ab8fc8e6c5d8cedccd6ed9f14b7ee2e97",
+      "width": 2600,
+      "height": 1735
+    },
+    {
+      "filename": "11-26-09-14-Lecture-3-Theme-Balloons-1662.jpg",
+      "bytes": 1225115,
+      "sha256": "6e1c73626f33811c2024b97605c3f387994789b5bfef4ccd30e59cde89b3ad98",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "12-26-09-14-Lecture-3-Theme-Balloons-1668.jpg",
+      "bytes": 1839484,
+      "sha256": "bbc3b1c8d877deb1bfd716ee662e836750d91ae1111828e0bec3f428517e0ed4",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "13-26-09-14-Lecture-3-Theme-Balloons-1683.jpg",
+      "bytes": 1676028,
+      "sha256": "9d248f305a3b355be904547e46afd20bf91dd8d67ed43f47e4888f844e2d6bae",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "14-26-09-14-Lecture-3-Theme-Balloons-1692.jpg",
+      "bytes": 2075678,
+      "sha256": "948f34a18b88109ee44d0d92827407e0a3e79179a178bb29a753c8ba995e64b7",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "15-26-09-14-Lecture-3-Theme-Balloons-1718.jpg",
+      "bytes": 1984831,
+      "sha256": "b365a8cbf669978a3062d341531667549a6b2a03cbe8be3dbe0235b00a5e9002",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "16-26-09-14-Lecture-3-Theme-Balloons-1760.jpg",
+      "bytes": 2109580,
+      "sha256": "dee8f18b1adcfd070661a7c2a97daac96df00f9b2305e6c4f028217ddad5a2fc",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "17-26-09-14-Lecture-3-Theme-Balloons-1773.jpg",
+      "bytes": 1705732,
+      "sha256": "f70b2c514bff097fea5af620130d48e3fa31f8e6fe4d363ab3ca5568fbaae772",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "18-26-09-14-Lecture-3-Theme-Balloons-1792.jpg",
+      "bytes": 1904438,
+      "sha256": "d5e122dd4a3ff6f8a3fb9a53b705880dfea317fdfc97cd93fe7377f2970a071a",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "19-26-09-21-Lecture-7-6-and-6-0008.jpg",
+      "bytes": 1605547,
+      "sha256": "16d69bdabcea08ab82ba76e3bf340208e37d6fdf385c63146b15e0df68bd1099",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "20-26-09-21-Lecture-7-6-and-6-0025.jpg",
+      "bytes": 1354364,
+      "sha256": "f747cf997c71101cf08e80ad1f23c0f95058334d8c53897b7d4ce3b573c85c4f",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "21-26-09-21-Lecture-7-6-and-6-0071.jpg",
+      "bytes": 1364403,
+      "sha256": "112c3d5135f8c2efafbe1321cb4e421db993e871538dd03321ec88d26c413bdb",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "22-26-09-21-Lecture-7-6-and-6-0139.jpg",
+      "bytes": 1371297,
+      "sha256": "a835a583cd1174e7ed4a7331076911bef914b1033c221edaafb77a84f3856885",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "23-26-09-21-Lecture-7-6-and-6-0185.jpg",
+      "bytes": 1350086,
+      "sha256": "1b4a761fa23129db0776f348c8fa64797f53246f6c3b429e6c82ff0e63dd354e",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "24-26-09-21-Lecture-7-6-and-6-0218.jpg",
+      "bytes": 1649871,
+      "sha256": "49425dae18d1a98cd001b7207eebaee30ea68e5091f46caa8c713e610cbbf3c0",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "25-26-09-21-Lecture-7-6-and-6-0246.jpg",
+      "bytes": 1220427,
+      "sha256": "11268131d9bc4455fde1ea4a5f25a2a62a651a0c14a2e2ea592b4e7e6e29f78b",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "26-26-09-21-Lecture-7-6-and-6-0254.jpg",
+      "bytes": 1116118,
+      "sha256": "3d0f00bdfed707321eaa26339bd97b4cbd96ed9801e9bcd5dc65cbdea52f9dae",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "27-26-09-21-Lecture-7-6-and-6-0295.jpg",
+      "bytes": 1385134,
+      "sha256": "d3f7a3277581a869494d2f0a2971389a217798a467616cf16c251977ec0a05bc",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "28-26-09-21-Lecture-7-6-and-6-0341.jpg",
+      "bytes": 1095666,
+      "sha256": "c1ea76ea08c2e5969ab2244759892906c62cb62974db60b2b46e68ea1b2455a4",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "29-26-09-21-Lecture-7-6-and-6-0408.jpg",
+      "bytes": 1514794,
+      "sha256": "7dcfe516a511249a737a3dfc9e74b17bfbbded8508d195ed26e373672558ed90",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "30-26-09-21-Lecture-7-6-and-6-0437.jpg",
+      "bytes": 1086633,
+      "sha256": "e70d507157fc339e94664cc0e3c2425f25af55e779e8564a693ce8c0d5de1ed7",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "31-26-09-21-Lecture-7-6-and-6-0468.jpg",
+      "bytes": 1444886,
+      "sha256": "8759b8c111bf130e15a8069647c45cd7cb712fd46d559f3d958708fb02a514a2",
+      "width": 1733,
+      "height": 2600
+    },
+    {
+      "filename": "32-26-09-23-Lecture-8-6-and-6-0078.jpg",
+      "bytes": 1181677,
+      "sha256": "e23e9abb04c9fd671cc454437b4bcc196d180feb1ffbbc2a438ed77a19d334a6",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "33-26-09-23-Lecture-8-6-and-6-0099.jpg",
+      "bytes": 1150636,
+      "sha256": "d1d3b88255d39a3b74deecc11d0be667e0e6f58637241f641b108a6efb78591e",
+      "width": 1735,
+      "height": 2600
+    },
+    {
+      "filename": "34-26-09-30-Feasibility-0058.jpg",
+      "bytes": 777484,
+      "sha256": "f2523dacf0896b4027e7dcfd5ec6a25b423717302e8a9b0774186fb09c592f1a",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "35-26-09-30-Feasibility-0132.jpg",
+      "bytes": 1106946,
+      "sha256": "b480339a14d4d62e49f8b767be053475f31dc877cdb13cf807b685fdd565557d",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "36-26-09-30-Feasibility-0140.jpg",
+      "bytes": 1190276,
+      "sha256": "b12d9e35894a9cce41a2796f76eb07045c390c118b84e06489d718bef205218a",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "37-26-09-30-Feasibility-0182.jpg",
+      "bytes": 1133673,
+      "sha256": "4f60ff7d79bd62f12cbf2243b4afd940079ea9dc07ce3a06cd08bfb9e3f6e6fb",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "38-26-09-30-Feasibility-0229.jpg",
+      "bytes": 989344,
+      "sha256": "143ff68b1feddadf325a3b05a71f607ae43ea28d5fede2be331db4e45d156f7c",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "39-26-09-30-Feasibility-0236.jpg",
+      "bytes": 945704,
+      "sha256": "43acbd9997c55001a8b09f2f3c990dda3cbc30b0b2e711161ed671274cd9328e",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "40-26-09-30-Feasibility-0277.jpg",
+      "bytes": 1342577,
+      "sha256": "e28b2bd320e8544934b449eb15d3d2007223fd913764475690027b095c86b7ff",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "41-26-09-30-Feasibility-0333.jpg",
+      "bytes": 1203502,
+      "sha256": "35c9534355d643f7fb47fbe3cfbc6ba45dde3993a71dafdf7c3c40b57a4936ca",
+      "width": 1733,
+      "height": 2600
+    },
+    {
+      "filename": "42-26-09-30-Feasibility-0344.jpg",
+      "bytes": 1312547,
+      "sha256": "991e71096dddd5fbdb1d735c5ed0a60855063b8d4c1dc2d1734aa25dc7a644f5",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "43-26-09-30-Feasibility-0354.jpg",
+      "bytes": 1043816,
+      "sha256": "f5168dfb858f9592e61b279d5ed72643b46f3148e375cafd7279775517e9684d",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "44-26-09-30-Feasibility-0417.jpg",
+      "bytes": 925651,
+      "sha256": "eaad7bab9e1ae916a233c01b78120a0541da4f529e6f11d0c3478c15eefbd8db",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "45-26-09-30-Feasibility-0476.jpg",
+      "bytes": 1018998,
+      "sha256": "9a5106247d14dd98f8f14fa3d325be3df70097d6c8586b1dbcb5bfebb7fc0309",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "46-26-09-30-Feasibility-0503.jpg",
+      "bytes": 1161648,
+      "sha256": "6714d95d6be8e4dc7915918d3838cc81d863bb6d06ce4c9c9c0e771c3d5e9692",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "47-26-09-30-Feasibility-0542.jpg",
+      "bytes": 1180027,
+      "sha256": "02feee36963d2d31ee711bc8775dc531f01d22e920196719e12989180c8b0141",
+      "width": 1733,
+      "height": 2600
+    },
+    {
+      "filename": "48-26-09-30-Feasibility-0586.jpg",
+      "bytes": 1408662,
+      "sha256": "21ccc197ccd45c37868dcc090cb3f09ca4d9efafad23aecfdf6e1b2e08ec192e",
+      "width": 1733,
+      "height": 2600
+    },
+    {
+      "filename": "49-26-09-30-Feasibility-0611.jpg",
+      "bytes": 1497335,
+      "sha256": "675e6893b43a851b54e8bc70676b446ee6f31678c21f0e412a1c1148602a3a6b",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "50-26-10-09-Build-Challenge-0156.jpg",
+      "bytes": 1309478,
+      "sha256": "eb382e89e140ba60d75447f9fdb554cf59302d55750d1b89681eccb135dbc10a",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "51-26-10-09-Build-Challenge-0192.jpg",
+      "bytes": 1703518,
+      "sha256": "2bc073d509fa1dc730d6d311404f1988e7114f9b23c7ff37c82cfed1f1b86d8b",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "52-26-10-09-Build-Challenge-0344.jpg",
+      "bytes": 2414832,
+      "sha256": "63db8c2aae6e1cded891485fb50132f2bceb9243adc50ac3c5e5682e50c5048f",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "53-26-10-09-Build-Challenge-0508.jpg",
+      "bytes": 1389504,
+      "sha256": "05627cc86f33acac46f7690e4b2734699415b0b97c6ef2f249f1860ccaff1ec0",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "54-26-10-09-Build-Challenge-0519.jpg",
+      "bytes": 1774424,
+      "sha256": "8a4b97a2e002c1107c5842399985e68a12e8e68b8aaba12e1799aa804e95e32a",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "55-26-10-09-Build-Challenge-0596.jpg",
+      "bytes": 2990634,
+      "sha256": "88f4b251ae05b17b8ff76bd3225059d49685c2339a17b189ea9accb6234d4754",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "56-26-10-09-Build-Challenge-0623.jpg",
+      "bytes": 1831316,
+      "sha256": "2fc687cdad11e95a88265ee4ed0fdf6af1442300c8ff646f7819fb76aceba505",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "57-26-10-09-Build-Challenge-0650.jpg",
+      "bytes": 2434636,
+      "sha256": "239c1c3878e03bf444c4f78acd36eb229c1d535b007aa0008a35f9ea2641b640",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "58-26-10-09-Build-Challenge-0701.jpg",
+      "bytes": 1590276,
+      "sha256": "de727e28184981bbe4f1b0a47cf788397a3cb5a4714c40e4a1d0118236afc75c",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "59-26-10-09-Build-Challenge-0790.jpg",
+      "bytes": 2034624,
+      "sha256": "db55319704840b6e4a224c44f0f25aa2fbdad61371636726a10e36550db19181",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "60-26-10-09-Build-Challenge-0839.jpg",
+      "bytes": 2341054,
+      "sha256": "734815812c0253f9bbdce53dabb57de13750b15e1c00139a3af8bad972d9c433",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "61-26-10-09-Build-Challenge-0877.jpg",
+      "bytes": 1766361,
+      "sha256": "cd6d39a6503af28b8133d7699f19737c04eb12b2c072f5837f541f16d83b8b39",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "62-26-10-09-Build-Challenge-0911.jpg",
+      "bytes": 2549990,
+      "sha256": "e46fd184e1edb813b4656965ea30b6bce66f88ddb1bf3bdac6e8c75fa0cb5557",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "63-26-10-09-Build-Challenge-1111.jpg",
+      "bytes": 1711044,
+      "sha256": "71c858c0fa58d10a933947eedf821a49615767e5a17c30ef4e1c3acfe7dfd8f8",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "64-26-10-09-Build-Challenge-1123.jpg",
+      "bytes": 1119217,
+      "sha256": "4c84db734ec2089ab644233b2140daf1717a35aeb6c899516f110a48ba56053b",
+      "width": 1733,
+      "height": 2600
+    },
+    {
+      "filename": "65-26-10-09-Build-Challenge-1157.jpg",
+      "bytes": 2210854,
+      "sha256": "4cf01f8aa13c35d4d3ec1f2e35cc44e91f32ebfee268137d4f04a20bb38cdead",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "66-26-10-09-Build-Challenge-1316.jpg",
+      "bytes": 2170338,
+      "sha256": "14378088e8d7bb8af71743f404b7c185f56ad80de7dbf25150ad58b2bdde80fa",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "67-26-10-21-Video-Shoot-Blue-Yellow-358.jpg",
+      "bytes": 1054768,
+      "sha256": "91382527eb5e06beb57a92b765a36ec11453156be64d7f9f08257226e5959da4",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "68-26-10-21-Video-Shoot-Blue-Yellow-401.jpg",
+      "bytes": 1036015,
+      "sha256": "9bb1a5c832916eb933fd0a74534818cb8a7528868f58357a2e83c8f80cc6d0e8",
+      "width": 2600,
+      "height": 1854
+    },
+    {
+      "filename": "69-26-10-21-Video-Shoot-Blue-Yellow-434.jpg",
+      "bytes": 1460266,
+      "sha256": "58a12c29235d1df4a3d08eace5bd0011e53b70f21e116aa7ced94c838ca84e51",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "70-26-10-21-Video-Shoot-Blue-Yellow-488.jpg",
+      "bytes": 1113745,
+      "sha256": "4d0829ddc8a41cd71d27e1af0b613a0e0210326805a531bbe677b44a6eee1ee2",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "71-_X0A9379.jpg",
+      "bytes": 1540732,
+      "sha256": "8ade349ba1f1cd4f68e79763dadd715990c46804b745a6e36ec10fec32360918",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "72-_X0A9392.jpg",
+      "bytes": 976417,
+      "sha256": "60cb8512f6ae74f395b6f83884c78e14a34bc42f803e6b10cfdee8e3646cf202",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "73-_X0A9456.jpg",
+      "bytes": 799480,
+      "sha256": "f2c12fe23d12d67ef0b57acc30dc8d3bd96842ae2078b080d41156fe37ccca13",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "74-_X0A9471.jpg",
+      "bytes": 772712,
+      "sha256": "1f3f9bb21a39ab425bcb09a9189f2bb60b11790e85aa27360c087358d7f9dd06",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "75-26-10-23-Concept-Review-061.jpg",
+      "bytes": 1514681,
+      "sha256": "93a575d8da39aa4ad0c16a4190237a2c855a66292d018a1ce0d1110f453a763c",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "76-26-10-23-Concept-Review-097.jpg",
+      "bytes": 928754,
+      "sha256": "156c36ec75e32f1ba8f9f7a9e4f18883470c57a89e369c3b10aaf7e6dd3db1f1",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "77-26-10-23-Concept-Review-126.jpg",
+      "bytes": 1260471,
+      "sha256": "1d96f629bf3863b3d950c56197731769aaf3e65805b92e40e0de9f688917415a",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "78-26-10-23-Concept-Review-133.jpg",
+      "bytes": 1351405,
+      "sha256": "456aeacf723b7126c7ecfbdf6f066483261ee9eed17f4b7c54e67bf7cf977c60",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "79-26-10-23-Concept-Review-156.jpg",
+      "bytes": 1345189,
+      "sha256": "07e3a1161f7830dfc731baf4dac06ffeb9b959f630eae5bc72faef20504db422",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "80-26-10-23-Concept-Review-174.jpg",
+      "bytes": 1070921,
+      "sha256": "65221a2824fc6f0cf99ad7956d10d36cee59ef33b8f8a7de964ca50ba6384ef9",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "81-26-10-23-Concept-Review-246.jpg",
+      "bytes": 1390334,
+      "sha256": "11ca5cb5f5e291102a866070344c67812d5ed151bee4cccbfa5a435edbaf304f",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "82-26-10-23-Concept-Review-258.jpg",
+      "bytes": 1382830,
+      "sha256": "6cb274627ceacc78877216246b20b09b7427cf85e4bd07e2b14cee4dc9723773",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "83-26-10-23-Concept-Review-289.jpg",
+      "bytes": 1700420,
+      "sha256": "febd83947a30b6b1f641332c6a2ce1a5e8a84d684d40b383916d029d56b34b50",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "84-26-10-23-Concept-Review-305.jpg",
+      "bytes": 1288652,
+      "sha256": "8d9def3a60ccaa2c0b6f6614d1e0d62c1719825d093ea70c9739b90358121219",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "85-26-10-23-Concept-Review-357.jpg",
+      "bytes": 1156969,
+      "sha256": "a1b3ac05d93d4130840ce6ab92765a22283d392b0889fec985d7038be0411c69",
+      "width": 2600,
+      "height": 1733
+    },
+    {
+      "filename": "86-26-10-23-Concept-Review-394.jpg",
+      "bytes": 1393248,
+      "sha256": "32268aa6e1834e672c9022089d4e24c60ee236b453ab51a4ad46afa0e881a6cb",
+      "width": 2600,
+      "height": 1733
+    }
+  ]
+}

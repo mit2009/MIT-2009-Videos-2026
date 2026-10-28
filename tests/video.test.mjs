@@ -73,14 +73,14 @@ test('conditional requests and static pages', async () => {
   await mismatch.body.cancel();
   const index = await handler.fetch(req('/tests/'), env);
   const html = await index.text();
-  assert.equal((html.match(/<article/g) || []).length, 100);
+  assert.equal((html.match(/<article/g) || []).length, 102);
   assert.ok(html.includes('2025 Finals'));
   assert.ok(html.includes('93 videos.'));
   assert.ok(html.includes('<h1>All Tests</h1>'));
   assert.ok(html.includes('href="/"'));
   assert.ok(html.includes('With sound'));
   assert.ok(!html.includes('No audio'));
-  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), Array.from({ length: 100 }, (_, i) => 100 - i));
+  assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), Array.from({ length: 102 }, (_, i) => 102 - i));
   assert.ok(!html.includes('Lecture 1'));
 });
 

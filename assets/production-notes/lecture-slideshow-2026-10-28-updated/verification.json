@@ -1,0 +1,21 @@
+{
+  "prior_catalog_and_selects_unchanged": true,
+  "all_images_decoded": true,
+  "photos_in_numbered_order": true,
+  "variants": [
+    {
+      "number": 101,
+      "interval": 2,
+      "duration": 172,
+      "zip_bytes": 125968931,
+      "verified_original_photos": 86
+    },
+    {
+      "number": 102,
+      "interval": 3.5,
+      "duration": 301.0,
+      "zip_bytes": 125968933,
+      "verified_original_photos": 86
+    }
+  ]
+}

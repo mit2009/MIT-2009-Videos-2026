@@ -2131,5 +2131,35 @@
     "audio": "Silent",
     "loop": true,
     "download_filename": "MIT-2.009-Research-So-Far-2026-10-28-5s.zip"
+  },
+  {
+    "number": 101,
+    "media_type": "slideshow",
+    "title": "Research to Date — 2 seconds per photo",
+    "description": "Updated collection: all 86 supplied photos in numbered order. Complete photographs on black, automatic playback, and a continuous loop. Use F for full screen, Space to pause, and the arrow keys to browse.",
+    "source_directory": "slideshows/2026-10-28-research-2s",
+    "thumbnail": "previews/101-research-to-date-2026-10-28.jpg",
+    "photo_count": 86,
+    "seconds_per_slide": 2,
+    "dissolve_seconds": 0.1,
+    "seconds": 172,
+    "audio": "Silent",
+    "loop": true,
+    "download_filename": "MIT-2.009-Research-to-Date-2026-10-28-2s.zip"
+  },
+  {
+    "number": 102,
+    "media_type": "slideshow",
+    "title": "Research to Date — 3.5 seconds per photo",
+    "description": "Updated collection: all 86 supplied photos in numbered order. Complete photographs on black, automatic playback, and a continuous loop. Use F for full screen, Space to pause, and the arrow keys to browse.",
+    "source_directory": "slideshows/2026-10-28-research-3-5s",
+    "thumbnail": "previews/101-research-to-date-2026-10-28.jpg",
+    "photo_count": 86,
+    "seconds_per_slide": 3.5,
+    "dissolve_seconds": 0.1,
+    "seconds": 301.0,
+    "audio": "Silent",
+    "loop": true,
+    "download_filename": "MIT-2.009-Research-to-Date-2026-10-28-3.5s.zip"
   }
 ]

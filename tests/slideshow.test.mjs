@@ -4,12 +4,12 @@ import { readFile, readdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import vm from 'node:vm';
 
-for (const [number, seconds] of [[93, 1.75], [94, 3], [95, 5], [96, 3], [97, 5], [99, 3], [100, 5]]) {
+for (const [number, seconds] of [[93, 1.75], [94, 3], [95, 5], [96, 3], [97, 5], [99, 3], [100, 5], [101, 2], [102, 3.5]]) {
 test(`lecture slideshow ${number} publishes the complete ordered photo set and offline package in both builds`, async () => {
   const catalog = JSON.parse(await readFile(new URL('../assets/CATALOG.json', import.meta.url)));
   const record = catalog.find(r => r.number === number);
-  const date = number >= 99 ? '2026-10-28' : number >= 96 ? '2026-10-26' : '2026-10-13';
-  const count = number >= 99 ? 69 : number >= 96 ? 52 : 58;
+  const date = number >= 101 ? '2026-10-28-updated' : number >= 99 ? '2026-10-28' : number >= 96 ? '2026-10-26' : '2026-10-13';
+  const count = number >= 101 ? 86 : number >= 99 ? 69 : number >= 96 ? 52 : 58;
   const provenance = JSON.parse(await readFile(new URL(`../assets/production-notes/lecture-slideshow-${date}/sequence.json`, import.meta.url)));
   assert.equal(record.media_type, 'slideshow');
   assert.equal(record.photo_count, count);
@@ -39,7 +39,7 @@ test(`lecture slideshow ${number} publishes the complete ordered photo set and o
     }
     const allTests = await readFile(new URL('tests/index.html', root), 'utf8');
     assert.ok(allTests.includes(`href="/${record.source_directory}/"`));
-    assert.match(allTests, /7 browser slideshows/);
+    assert.match(allTests, /9 browser slideshows/);
     assert.ok(allTests.indexOf(`id="video-${number}"`) < allTests.indexOf('id="video-92"'));
     assert.ok(allTests.indexOf('id="video-95"') < allTests.indexOf('id="video-94"'));
     assert.ok(allTests.indexOf('id="video-94"') < allTests.indexOf('id="video-93"'));
