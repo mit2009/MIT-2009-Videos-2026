@@ -84,13 +84,13 @@ test('conditional requests and static pages', async () => {
   assert.ok(!html.includes('Lecture 1'));
 });
 
-test('the already-shared root URL contains exactly the 18 chosen videos and slideshows, using the original files', async () => {
+test('the already-shared root URL contains exactly the 20 chosen videos and slideshows, using the original files', async () => {
   const response = await handler.fetch(req('/'), env);
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.ok(html.includes('<h1>Selects</h1>'));
-  assert.ok(html.includes('14 selected videos. 4 browser slideshows. Watch, download, and post.'));
-  const expected = [97,96,95,94,61,57,53,51,47,44,13,10,9,8,4,3,2,1];
+  assert.ok(html.includes('14 selected videos. 6 browser slideshows. Watch, download, and post.'));
+  const expected = [102,101,97,96,95,94,61,57,53,51,47,44,13,10,9,8,4,3,2,1];
   assert.deepEqual([...html.matchAll(/id="video-(\d+)"/g)].map(m => Number(m[1])), expected);
   assert.ok(!html.includes('href="/tests'), 'Share page should not lead recipients to experiments');
   const legacy = await handler.fetch(req('/selects/'), env);

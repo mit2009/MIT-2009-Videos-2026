@@ -44,8 +44,9 @@ test(`lecture slideshow ${number} publishes the complete ordered photo set and o
     assert.ok(allTests.indexOf('id="video-95"') < allTests.indexOf('id="video-94"'));
     assert.ok(allTests.indexOf('id="video-94"') < allTests.indexOf('id="video-93"'));
     const selects = await readFile(new URL('index.html', root), 'utf8');
-    assert.equal(selects.includes(`id="video-${number}"`), number >= 94 && number <= 97);
-    if (number >= 94 && number <= 97) {
+    const selected = [94, 95, 96, 97, 101, 102].includes(number);
+    assert.equal(selects.includes(`id="video-${number}"`), selected);
+    if (selected) {
       assert.ok(selects.includes(`href="/${record.source_directory}/"`));
       assert.equal(selects.includes(`href="/${record.source_directory}.zip"`), build === 'vercel-site');
     }
